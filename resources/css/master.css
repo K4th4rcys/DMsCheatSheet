@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'MiddleEarth';
+  src: url('fonts/base/MiddleEarth.ttf');
+}
+
+@font-face {
+  font-family: 'celestial';
+  src: url('fonts/celestial/celestial.ttf');
+}
+
+@font-face {
+  font-family: 'draconic';
+  src: url('fonts/dragon/draconic.otf');
+}
+
+@font-face {
+  font-family: 'dwarven';
+  src: url('fonts/dwarf/dwarven.ttf');
+}
+
+@font-face {
+  font-family: 'elvish';
+  src: url('fonts/elf/elvish.ttf');
+}
+
+@font-face {
+  font-family: 'halfling';
+  src: url('fonts/halfling/halfling.ttf');
+}
+
+@font-face {
+  font-family: 'orcish';
+  src: url('fonts/orc/orcish.otf');
+}
+
+body {
+  position: absolute;
+  background-color: rgb(68, 47, 33);
+  color: rgb(224, 159, 33);
+  font-family: "MiddleEarth";
+  width: 100%;
+  height: 100%;
+  top: 0pt;
+  left: 0pt;
+  margin: 0pt;
+  padding: 0pt;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+  /* ie8 */
+  -webkit-filter: drop-shadow(3pt 3pt 3pt #000);
+  filter: drop-shadow(3pt 3pt 3pt #000);
+}
