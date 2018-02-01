@@ -13,9 +13,9 @@ Maxwell Gariety. This includes on personal projects.
       window.location = "localhost/mobile.php";
     }
   </script>
-  <?php
-  // echo(basename(getcwd()));
-        //include("resources/php/header.php");
+      <?php
+            include("resources/php/header.php");
+
       ?>
     <meta charset="UTF-8">
     <title>Ye Olde Inn | Home</title>
@@ -38,7 +38,7 @@ Maxwell Gariety. This includes on personal projects.
         </td>
         <td class="maintd">
           <div class="mainlink">
-            <a href="dm_screen/index.php">DM Screen</a>
+            <a href="dm_screen/index.php">DM's Screen</a>
           </div>
         </td>
       </tr>
@@ -50,14 +50,14 @@ Maxwell Gariety. This includes on personal projects.
         </td>
         <td class="maintd">
           <div class="mainlink">
-            <a href="creatures/index.php">Creature Search</a>
+            <a href="creatures/index.php">Bestiary</a>
           </div>
         </td>
       </tr>
       <tr class="maintr">
         <td class="maintd">
           <div class="mainlink">
-            <a href="items/index.php">Item Search</a>
+            <a href="items/index.php">Items</a>
           </div>
         </td>
         <td class="maintd">
@@ -74,7 +74,7 @@ Maxwell Gariety. This includes on personal projects.
         </td>
         <td class="maintd">
           <div class="mainlink">
-            <a href="encounters/index.php">Encounter Manager</a>
+            <a href="encounters/index.php">Encounter Builder</a>
           </div>
         </td>
       </tr>

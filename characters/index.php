@@ -14,7 +14,8 @@ Maxwell Gariety. This includes on personal projects.
     }
   </script>
   <?php
-        //include("resources/php/header.php");
+        include("{$_SERVER['DOCUMENT_ROOT']}/DMCS/resources/php/header.php");
+
       ?>
     <meta charset="UTF-8">
     <title>Character Manager || Ye Olde Inn</title>
@@ -24,11 +25,10 @@ Maxwell Gariety. This includes on personal projects.
 
 <body>
   <div id="maindiv">
-    <div w3-include-html="/DMCS/sidebar.php"></div>
-  </div>
-  <span id="intro_img_div">
-        <img id="intro_img" src="/DMCS/resources/images/tavern_sign.png" />
-      </span>
+    <?php
+    include_once("{$_SERVER['DOCUMENT_ROOT']}/DMCS/resources/php/sidebar.php");
+    ?>
+    <!-- <div w3-include-html="/DMCS/sidebar.php"></div> -->
   </div>
 
   <script type='text/javascript' src='/DMCS/resources/js/main.js'></script>
