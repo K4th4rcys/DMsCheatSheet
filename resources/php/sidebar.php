@@ -1,6 +1,6 @@
 <div id="side_nav">
   <span id="side_logo">
-    <img id="intro_img" src="/DMCS/resources/images/tavern_sign.png" />
+    <img id="intro_img" src="/resources/images/tavern_sign.png" />
   </span>
   <ui id="nav_list">
     <li id='home' class='nav_list_item'>
@@ -8,10 +8,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/d20.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/d20.png'/>
             </td>
             <td colspan='2'>
-              <a id='home_link' href='/DMCS/'>| Home</a>
+              <a id='home_link' href='/'>| Home</a>
             </td>
           </tr>
         </table>
@@ -26,10 +26,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='char_img' src='/DMCS/resources/images/humanoid.png'/>
+              <img class='bar_img' id='char_img' src='/resources/images/humanoid.png'/>
             </td>
             <td colspan='2'>
-              <a id='char_link' href='/DMCS/characters/'>| Character Management</a>
+              <a id='char_link' href='/characters/'>| Character Management</a>
             </td>
           </tr>
         </table>
@@ -42,10 +42,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='campaign' src='/DMCS/resources/images/scroll.png'/>
+              <img class='bar_img' id='campaign' src='/resources/images/scroll.png'/>
             </td>
             <td colspan='2'>
-              <a id='camp_link' href='/DMCS/campaigns/'>| Campaigns</a>
+              <a id='camp_link' href='/campaigns/'>| Campaigns</a>
             </td>
           </tr>
         </table>
@@ -58,10 +58,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/potion.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/potion.png'/>
             </td>
             <td colspan='2'>
-              <a id='item_link' href='/DMCS/items'>| Items</a>
+              <a id='item_link' href='/items'>| Items</a>
             </td>
           </tr>
         </table>
@@ -74,10 +74,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/rabbithat.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/rabbithat.png'/>
             </td>
             <td colspan='2'>
-              <a id='rng_link' href='/DMCS/rngenerator/'>| Random Generator</a>
+              <a id='rng_link' href='/rngenerator/'>| Random Generator</a>
             </td>
           </tr>
         </table>
@@ -90,10 +90,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/dm_screen.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/dm_screen.png'/>
             </td>
             <td colspan='2'>
-              <a id='dm_link' href='/DMCS/dm_screen/'>| DM's Screen</a>
+              <a id='dm_link' href='/dm_screen/'>| DM's Screen</a>
             </td>
           </tr>
         </table>
@@ -106,10 +106,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/creature.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/creature.png'/>
             </td>
             <td colspan='2'>
-              <a id='creat_link' href='/DMCS/creatures/'>| Bestiary</a>
+              <a id='creat_link' href='/creatures/'>| Bestiary</a>
             </td>
           </tr>
         </table>
@@ -117,15 +117,15 @@
       </li>";
     }
     if($place !== "spellbook"){
-      echo"<li id='' class='nav_list_item'>
+      echo"<li id='spellbook' class='nav_list_item'>
       <label for='spell_link'>
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/spellbook.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/spellbook.png'/>
             </td>
             <td colspan='2'>
-              <a id='spell_link' href='/DMCS/spellbook/'>| Spellbook</a>
+              <a id='spell_link' href='/spellbook/'>| Spellbook</a>
             </td>
           </tr>
         </table>
@@ -138,10 +138,10 @@
         <table>
           <tr>
             <td>
-              <img class='bar_img' id='home_img' src='/DMCS/resources/images/encounter.png'/>
+              <img class='bar_img' id='home_img' src='/resources/images/encounter.png'/>
             </td>
             <td colspan='2'>
-              <a id='enc_link' href='/DMCS/encounters/'>| Encounter Builder</a>
+              <a id='enc_link' href='/encounters/'>| Encounter Builder</a>
             </td>
           </tr>
         </table>
