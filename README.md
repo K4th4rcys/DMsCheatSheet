@@ -18,3 +18,4 @@ User-has-Notes
 
 Users: id, username, password, user-level
 Characters: race, attributes, platinum, gold, silver, copper, astral_diamonds, xp, description, background, image, languages, other
+eegt
