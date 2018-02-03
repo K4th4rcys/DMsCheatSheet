@@ -69,7 +69,7 @@ Maxwell Gariety. This includes on personal projects.
       <tr class="maintr">
         <td class="maintd">
           <div class="mainlink">
-            <a href="rngenerator/index.php">Random Generator</a>
+            <a href="player_space/index.php">Player's Space</a>
           </div>
         </td>
         <td class="maintd">

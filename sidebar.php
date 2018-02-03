@@ -18,7 +18,7 @@
 
       </li>";
     }
-    if($place !== "rngenerator"){
+    if($place !== "player_space"){
       echo"<li id='' class='nav_list_item'>
 
       </li>";

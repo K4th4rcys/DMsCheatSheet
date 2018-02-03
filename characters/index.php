@@ -27,25 +27,66 @@ Maxwell Gariety. This includes on personal projects.
     <?php
     include_once("{$_SERVER['DOCUMENT_ROOT']}/resources/php/sidebar.php");
     ?>
-    <div id="char_selector">
-      <div id="charopt_tabs">
-        <div class="char_tab active_tab" id="pcs">PCs</div>
-        <div class="char_tab" id="npcs">NPCs</div>
-        <div class="char_tab" id="boss">Bosses</div>
-      </div>
-      <div class="tables active_table" id="pc_table">
+      <div id="char_selector">
+        <div id="charopt_tabs">
+          <button class="char_tab active_tab" id="pc">PCs</button>
+          <button class="char_tab" id="npc">NPCs</button>
+          <button class="char_tab" id="boss">Bosses</buttondiv>
+        </div>
+        <div class="tables active_table" id="pc_table">
+          <table id="pcs">
 
-      </div>
-      <div class="tables" id="npc_table">
+          </table>
+        </div>
+        <div class="tables" id="npc_table">
+          <table id="npcs">
 
-      </div>
-      <div class="tables" id="boss_table">
+          </table>
+        </div>
+        <div class="tables" id="boss_table">
+          <table id="bosses">
 
+          </table>
+        </div>
       </div>
-    </div>
+      <div id="charsheet">
+        <table id="character_sheet">
+          <tr>
+            <th id="charname">
+
+            </th>
+            <th id="charlevel">
+
+            </th>
+            <th id="charrace">
+
+            </th>
+            <th id="charclass">
+
+            </th>
+            <th id="background">
+
+            </th>
+          </tr>
+          <tr>
+            <td id="">
+
+            </td>
+            <td id="">
+
+            </td>
+            <td id="">
+
+            </td>
+            <td id="">
+
+            </td>
+          </tr>
+        </table>
+      </div>
   </div>
 
-  <script type='text/javascript' src='/resources/js/main.js'></script>
+  <script type='text/javascript' src='/resources/js/characters.js'></script>
 </body>
 
 </html>
