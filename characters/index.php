@@ -10,7 +10,7 @@ Maxwell Gariety. This includes on personal projects.
   <script type='text/javascript' src='/resources/js/jquery-3.2.1.js'></script>
   <script type='text/javascript'>
     if ($(window).width() <= 800) {
-      window.location = "localhost/mobile.php";
+      window.location = "mobile.php";
     }
   </script>
   <?php
@@ -47,6 +47,20 @@ Maxwell Gariety. This includes on personal projects.
           <table id="bosses">
 
           </table>
+        </div>
+        <div class="addremove" id="newchar">
+          <div id="newchar_text">
+            New Character
+          </div>
+        </div>
+        <div id="charsep">
+
+        </div>
+        <div class="addremove" id="delchar">
+          <div id="delchar_text">
+            Delete Character
+          </div>
+
         </div>
       </div>
       <div id="charsheet">
