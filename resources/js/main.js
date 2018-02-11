@@ -1,7 +1,18 @@
+$(document).ready(function () {
 
-$(document).ready(function() {
-      // $("#intro_img").css("left", (($(window).width()/2)-($("#intro_img").width()/2)));
-      // console.log(($(window).width()/2)-($("#intro_img").width()/2));
-      // $(".mainlink").css("height", ($("#mainmenu").height()*(.20)));
-      // $(".mainlink").css("width", ($(".shadow").width()));
+    $('#projects').show();
+
+    $('.tab').on('click', function () {
+        var tab = '#' + $(this).attr('data-tab');
+        console.log(tab);
+        $('.content').hide();
+        $('.tab').removeClass('active');
+        $(this).addClass('active');
+        $(tab).show();
+    });
+
+
+
+
+
 });
