@@ -15,4 +15,9 @@ $(".char_tab").on("click", function(){
   $("#"+$(this).attr("id")+"_table").addClass("active_table");
 });
 
+$("#mewchar_text").on("click", function() {
+
+  
+});
+
 });

@@ -45,6 +45,7 @@ body {
   left: 0pt;
   margin: 0pt;
   padding: 0pt;
+  user-select: none;
 }
 
 img {
