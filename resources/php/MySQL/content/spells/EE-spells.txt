@@ -1,0 +1,677 @@
+{"id":20147,
+"name":"Abi-dalzim's Horrid Wilting",
+"school":"Necromancy",
+"subschool":"None",
+"spellcraft_dc":"18",
+"level":"Sorcerer 8, Warlock 8",
+"short_description":"You draw the moisture from every creature in a 30 -foot cube centered on a point you choose within range.",
+"full_text":"
+<h1>ABI-DALZIM&rsquo;S HORRID WILTING</h1>
+<p><em>8th-level necromancy</em></p>
+<p><strong>Casting Time: </strong>1 action</p>
+<p><strong>Range: </strong>150 feet</p>
+<p><strong>Components: </strong>V, S, M (a bit of sponge)<strong> Duration: </strong>Instantaneous</p>
+<p>You draw the moisture from every creature in a 30 -foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren&rsquo;t affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 10d8 necrotic damage on a failed save, or half as much damage on a successful one.</p>",
+"reference":"EEPC"},
+
+{"id":20148,
+"name":"Absorb Elements",
+"school":"Abjuration",
+"subschool":"None",
+"spellcraft_dc":"11",
+"level":"Druid 1, Ranger 1, Wizard 1",
+"short_description":"The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack.",
+"full_text":"
+<h1>Absorb Elements</h1>
+<p><em>1st-level abjuration</em></p>
+<p><strong>Casting Time: </strong> 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage.<br /><strong>Range: </strong> Self<br /><strong>Components: </strong>S<br /><strong>Duration: </strong>1 round</p>
+<p>The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.</p>
+<p><strong><em>At Higher Levels. </em></strong> When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.</p>
+<p>&nbsp;</p>",
+"reference":"EEPC"},
+
+{"id":20149,
+"name":"Aganazzar's Scorcher",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"12",
+"level":"Sorcerer 2, Wizard 2",
+"short_description":"A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose.",
+"full_text":"
+<h1>AGANAZZAR&rsquo;S SCORCHER</h1>
+<p><em>2nd-level evocation</em></p>
+<p><strong>Casting Time: </strong> 1 action<strong> Range: </strong>30 feet</p>
+<p><strong>Components: </strong> V, S, M (a red dragon&rsquo;s scale)<strong> Duration: </strong>Instantaneous</p>
+<p>A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw.</p>
+<p>A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>At Higher Levels. </em></strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>",
+"reference":"EEPC"},
+
+{"id":20150,
+"name":"Beast Bond",
+"school":"Divination",
+"subschool":"None",
+"spellcraft_dc":"11",
+"level":"Druid 1, Ranger 1",
+"short_description":"You establish a telepathic link with one beast you touch that is friendly to you or charmed by you.",
+"full_text":"
+<h1>BEAST BOND</h1>
+<p><em>1st-level divination</em></p>
+<p><strong>Casting Time: </strong> 1 action<strong> <br />Range: </strong>Touch</p>
+<p><strong>Components: </strong> V, S, M (a bit of fur wrapped in a cloth)<strong> <br />Duration: </strong>Concentration, up to 10 minutes</p>
+<p>You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.</p>
+<p>&nbsp;</p>",
+"reference":"EEPC"},
+
+{"id":20151,
+"name":"Bones of the Earth",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"16",
+"level":"Druid 6",
+"short_description":"You cause up to six pillars of stone to burst from places on the ground that you can see within range.",
+"full_text":"
+<h1>BONES OF THE EARTH</h1>
+<p><em>6th-level transmutation</em></p>
+<p><strong>Casting Time: </strong> 1 action<br /><strong>Range: </strong> 120 feet<br /><strong>Components: </strong> V, S<br /><strong>Duration: </strong> Instantaneous</p>
+<p>You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius. The rubble lasts until cleared.</p>
+<p>If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.</p>
+<p>If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's saving throw DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.</p>
+<p><strong><em>At Higher Levels</em></strong> . When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.</p>
+<p>&nbsp;</p>",
+"reference":"EEPC"},
+
+{"id":20152,
+"name":"Catapult",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"11",
+"level":"Sorcerer 1, Wizard 1",
+"short_description":"Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface.",
+"full_text":"
+<h1>CATAPULT</h1>
+<p><em>1st-level transmutation</em></p>
+<p><strong>Casting Time: </strong> 1 action</p>
+<p><strong>Range: </strong> 150 feet</p>
+<p><strong>Components: </strong> S</p>
+<p><strong>Duration: </strong> Instantaneous</p>
+<p>Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.</p>
+<p><strong><em>At Higher Levels</em></strong>. When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.</p>",
+"reference":"EEPC"},
+
+{"id":20153,
+"name":"Create Bonfire",
+"school":"Conjuration",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Sorcerer 0, Warlock 0, Wizard 0",
+"short_description":"You create a bonfire on ground that you can see within range.",
+"full_text":"
+<h1>CREATE BONFIRE</h1>
+<p><em>Conjuration cantrip</em></p>
+<p><strong>Casting Time</strong> : 1 action<br /><strong>Range</strong> : 60 feet<br /><strong>Components</strong> : V, S<br /><strong>Duration</strong> : Concentration, up to 1 minute</p>
+<p>You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5 -foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.</p>
+<p>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>
+<h1>&nbsp;</h1>",
+"reference":"EEPC"},
+
+{"id":20154,
+"name":"Control Flames",
+"school":"Transmutation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Sorcerer 0, Wizard 0",
+"short_description":"Control a nonmagical flame within range.",
+"full_text":"
+<h1>CONTROL FLAMES</h1>
+<p><em>Transmutation cantrip</em></p>
+<p><strong>Casting Time: </strong> 1 action<strong> <br />Range: </strong>60 feet<strong> <br />Components: </strong>S<br /><strong>Duration: </strong> Instantaneous or 1 hour (see below)</p>
+<p>You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:</p><p style="padding-left: 30px;">&bull; You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.</p><p style="padding-left: 30px;">&bull; You instantaneously extinguish the flames within the cube.</p><p style="padding-left: 30px;">&bull; You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.</p><p style="padding-left: 30px;">&bull; You cause simple shapes-such as the vague form of a creature, an inanimate object, or a location-to appear within the flames and animate as you like. The shapes last for 1 hour.</p>
+<p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+"reference":"EEPC"},
+
+{"id":20155,
+"name":"Control Winds",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 5, Sorcerer 5, Wizard 5",
+"short_description":"You take control of the air in a 100-foot cube that you can see within range.",
+"full_text":"
+<h1>CONTROL WINDS</h1>
+<p><em>5th-level transmutation</em></p>
+<p><strong>Casting Time: </strong> 1 action</p>
+<p><strong>Range: </strong> 300 feet</p>
+<p><strong>Components: </strong> V, S</p>
+<p><strong>Duration: </strong> Concentration, up to 1 hour</p>
+<p>You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you've halted.</p>
+<p><strong><em>Gusts. </em></strong> A wind picks up within the cube, continually blowing in a horizontal direction that you choose. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.</p>
+<p><strong><em>Downdraft. </em></strong> You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must</p>
+<p>make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.</p>
+<p><strong><em>Updraft. </em></strong> You cause a sustained updraft within the cube, rising upward from the cube's bottom edge. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.</p>",
+"reference":"EEPC"},
+
+{"id":20156,
+"name":"Dust Devil",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 2, Sorcerer 2, Wizard 2",
+"short_description":"An elemental force that resembles a dust devil appears.",
+"full_text":"
+<h1>DUST DEVIL</h1>
+<p><em>2nd-level conjuration</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>60 feet<br /><strong>Components: </strong>V, S, M (a pinch of dust)<br /><strong>Duration: </strong>Concentration, up to 1 minute</p>
+<p>Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell&rsquo;s duration.</p>
+<p>Any creature that ends its turn within 5 feet of the dust devil must make a Strength saving throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn&rsquo;t pushed.</p>
+<p>As a bonus action, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or small gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>",
+"reference":"EEPC"},
+
+{"id":20157,
+"name":"Earthbind",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 2, Sorcerer 2, Warlock 2, Wizard 2",
+"short_description":"Reduces flying speed to 0.",
+"full_text":"
+<p>EARTHBIND</p>
+<p><em>2nd-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action</p>
+<p><strong>Range: </strong>300 feet</p>
+<p><strong>Components: </strong>V</p>
+<p><strong>Duration: </strong>Concentration, up to 1 minute&nbsp;</p>
+<p>Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its &nbsp;flying speed (if any) is reduced to 0 feet for the spell&rsquo;s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.</p>",
+"reference":"EEPC"},
+
+{"id":20158,
+"name":"Earth Tremor",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Bard 1, Druid 1, Sorcerer 1, Wizard 1",
+"short_description":"You cause a tremor in the ground in a 10-foot radius.",
+"full_text":"
+<h1>EARTH TREMOR</h1>
+<p><em>1st-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action</p>
+<p><strong>Range: </strong>Self (10-foot radius)</p>
+<p><strong>Components: </strong>V, S</p>
+<p><strong>Duration: </strong>Instantaneous</p>
+<p>You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</p>
+<p>&nbsp;</p>",
+"reference":"EEPC"},
+
+{"id":20159,
+"name":"Elemental Bane",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 4, Warlock 4, Wizard 4",
+"short_description":"Target gets 2d6 extra damage each time it is hit by the same damage type as chosen by the spell.",
+"full_text":"
+<h1>ELEMENTAL BANE</h1>
+<p><em>4th-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>90 feet<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 1 minute</p>
+<p>Choose one creature you can see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.&nbsp;</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.</p>
+<h1>&nbsp;</h1>",
+"reference":"EEPC"},
+
+{"id":20160,
+"name":"Erupting Earth",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 3, Sorcerer 3, Wizard 3",
+"short_description":"A fountain of churned earth and stone erupts in a 20-foot cube centered on a point on the ground within range.",
+"full_text":"
+<h1>ERUPTING EARTH</h1>
+<p><em>3rd-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>120 feet<br /><strong>Components: </strong>V, S, M (a piece of obsidian)<br /><strong>Duration: </strong>Instantaneous</p>
+<p>Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared away. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for each slot level above 2nd.</p>",
+"reference":"EEPC"},
+
+{"id":20161,
+"name":"Flame Arrows",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 3, Ranger 3, Sorcerer 3, Wizard 3",
+"short_description":"When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage.",
+"full_text":"
+<h1>FLAME ARROWS</h1>
+<p><em>3rd-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Touch<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 1 hour</p>
+<p>You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell&rsquo;s magic ends on the piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.</p>",
+"reference":"EEPC"},
+
+{"id":20162,
+"name":"Frostbite",
+"school":"Evocation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Sorcerer 0, Warlock 0, Wizard 0",
+"short_description":"You cause numbing frost to form on one creature that you can see within range.",
+"full_text":"
+<h1>FROSTBITE</h1>
+<p><em>Evocation cantrip</em></p>
+<p><strong>Casting Time</strong>: 1 action<br /><strong>Range</strong>: 60 feet&nbsp;<br /><strong>Components</strong>: V, S&nbsp;<br /><strong>Duration</strong>: Instantaneous</p>
+<p>You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.&nbsp;</p>
+<p>The spell&rsquo;s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>",
+"reference":"EEPC"},
+
+{"id":20163,
+"name":"Gust",
+"school":"Transmutation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Sorcerer 0, Wizard 0",
+"short_description":"You seize the air and compel it to create a special effect.",
+"full_text":"
+<h1>GUST</h1>
+<p><em>Transmutation cantrip</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>30 feet<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Instantaneous</p>
+<p>You seize the air and compel it to create one of the following effects at a point you can see within range:&nbsp;</p><ul><li>One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.</li><li>You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn&rsquo;t pushed with enough force to cause damage.</li><li>You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.</li></ul>",
+"reference":"EEPC"},
+
+{"id":20164,
+"name":"Ice Knife",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 1, Sorcerer 1, Wizard 1",
+"short_description":"You create a shard of ice and fling it at one creature within range.",
+"full_text":"
+<h1>ICE KNIFE</h1>
+<p><em>1st-level conjuration</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>60 feet<br /><strong>Components: </strong>S, M (a drop of water or piece of ice)<strong> <br />Duration: </strong>Instantaneous</p>
+<p>You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.</p>",
+"reference":"EEPC"},
+
+{"id":20165,
+"name":"Immolation",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Sorcerer 5, Wizard 5",
+"short_description":"Flames wreathe one creature you can see within range.",
+"full_text":"
+<h1>IMMOLATION</h1>
+<p><em>5th-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>90 feet<strong> <br />Components: </strong>V<br /><strong>Duration: </strong>Concentration, up to 1 minute</p>
+<p>Flames wreathe one creature you can see within range. The target must make a Dexterity saving throw. It takes 7d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell&rsquo;s duration. The burning target sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of each of its turns, the target repeats the saving throw. It takes 3d6 fire damage on a failed save, and the spell ends on a successful one.&nbsp;</p>
+<p>These magical flames can&rsquo;t be extinguished through nonmagical means. If damage from this spell reduces a target to 0 hit points, the target is turned to ash.</p>",
+"reference":"EEPC"},
+
+{"id":20166,
+"name":"Investiture of Flame",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 6, Sorcerer 6, Warlock 6, Wizard 6",
+"short_description":"Flames race across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for the spellu2019s duration.",
+"full_text":"
+<h1>INVESTITURE OF FLAME</h1>
+<p><em>6th-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Self<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 10 minutes</p>
+<p>Flames race across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for the spell&rsquo;s duration. The flames don&rsquo;t harm you. Until the spell ends, you gain the following benefits:</p><ul><li>You are immune to fire damage and have resistance to cold damage.</li><li>Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 fire damage.</li></ul><ul><li>You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direc-tion you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.</li></ul>",
+"reference":"EEPC"},
+
+{"id":20167,
+"name":"Investiture of Ice",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 6, Sorcerer 6, Warlock 6, Wizard 6",
+"short_description":"Until the spell ends, ice rimes your body and you gain several benefits.",
+"full_text":"
+<h1>INVESTITURE OF ICE</h1>
+<p><em>6th-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Self<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 10 minutes</p>
+<p>Until the spell ends, ice rimes your body, and you gain the following benefits:</p><ul><li>You are immune to cold damage and have resistance to fire damage.</li></ul><ul><li>You can move across difficult terrain created by ice or snow without spending extra movement.</li><li>The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.&nbsp;</li></ul><ul><li>You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.</li></ul>",
+"reference":"EEPC"},
+
+{"id":20168,
+"name":"Investiture of Stone",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 6, Sorcerer 6, Warlock 6, Wizard 6",
+"short_description":"Until the spell ends, bits of rock spread across your body, and you gain some benefits.",
+"full_text":"
+<h1>INVESTITURE OF STONE</h1>
+<p><em>6th-level transmutation</em>&nbsp;</p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Self<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 10 minutes</p>
+<p>Until the spell ends, bits of rock spread across your body, and you gain the following benefits:</p><ul><li>You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</li><li>You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked prone.</li><li>You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can&rsquo;t end your movement there. If you do so, you are ejected to the&nbsp;nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.</li></ul>",
+"reference":"EEPC"},
+
+{"id":20169,
+"name":"Investiture of Wind",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 6, Sorcerer 6, Warlock 6, Wizard 6",
+"short_description":"Until the spell ends, wind whirls around you, and you gain additional benefits.",
+"full_text":"
+<p>INVESTITURE OF WIND</p>
+<p><em>6th-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Self<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 10 minutes</p>
+<p>Until the spell ends, wind whirls around you, and you gain the following benefits:</p><ul><li>Ranged weapon attacks made against you have disad-vantage on the attack roll.</li><li>You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can some-how prevent it.</li></ul><ul><li>You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.</li></ul>",
+"reference":"EEPC"},
+
+{"id":20170,
+"name":"Maelstrom",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 5",
+"short_description":"A mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range.",
+"full_text":"
+<h1>MAELSTROM</h1>
+<p><em>5th-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>120 feet<br /><strong>Components: </strong>V, S, M (paper or leaf in the shape of a funnel)<br /><strong>Duration: </strong>Concentration, up to 1 minute</p>
+<p>A mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.</p>",
+"reference":"EEPC"},
+
+{"id":20171,
+"name":"Magic Stone",
+"school":"Transmutation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Warlock 0",
+"short_description":"",
+"full_text":"
+<h1>MAGIC STONE</h1>
+<p><em>Transmutation cantrip</em></p>
+<p><strong>Casting Time: </strong>1 bonus action<strong> <br />Range: </strong>Touch<br /><strong>Components: </strong>V, S<strong> <br />Duration: </strong>1 minute</p>
+<p>You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, it has a range of 60 feet. If someone else attacks with the pebble, that attacker adds your spellcasting ability modifier, not the attacker&rsquo;s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier.</p>
+<p>Hit or miss, the spell then ends on the stone.</p>
+<p>If you cast this spell again, the spell ends early on any pebbles still affected by it.</p>",
+"reference":"EEPC"},
+
+{"id":20172,
+"name":"Maximilian's Earthen Grasp",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Sorcerer 2, Wizard 2",
+"short_description":"A medium hand made from compacted soil rises and attacks one creature.",
+"full_text":"
+<h1>MAXIMILIAN&rsquo;S EARTHEN GRASP</h1>
+<p><em>2nd-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>30 feet<br /><strong>Components: </strong>V, S, M (a miniature hand sculpted from clay)<br /><strong>Duration: </strong>Concentration, up to 1 minute</p>
+<p>You choose a 5-foot- square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell&rsquo;s duration.&nbsp;</p>
+<p>As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</p>
+<p>To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.</p>
+<p>As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.</p>",
+"reference":"EEPC"},
+
+{"id":20173,
+"name":"Melf's Minute Meteors",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Sorcerer 3, Wizard 3",
+"short_description":"You create six tiny meteors in your space.",
+"full_text":"
+<h1>MELF&rsquo;S MINUTE METEORS</h1>
+<p><em>3rd-level evocation</em>&nbsp;</p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>Self<br /><strong>Components: </strong>V, S, M (niter, sulfur, and pine tar formed into a bead)<br /><strong>Duration: </strong>Concentration, up to 10 minutes</p>
+<p>You create six tiny meteors in your space. They float in the air and orbit you for the spell&rsquo;s duration. When you cast the spell&mdash;and as a bonus action on each of your turns thereafter&mdash;you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.</p>",
+"reference":"EEPC"},
+
+{"id":20174,
+"name":"Mold Earth",
+"school":"Transmutation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Sorcerer 0, Wizard 0",
+"short_description":"Manipulate stone or dirt.",
+"full_text":"
+<h1>MOLD EARTH</h1>
+<p><em>Transmutation cantrip</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong> Range: </strong>30 feet<strong> <br />Components: </strong>S<br /><strong>Duration: </strong>Instantaneous or 1 hour (see below)</p>
+<p>You choose a portion of dirt or stone that you can see within range and that fits within a 5- foot cube. You manipulate it in one of the following ways:</p><ul><li>If you target an area of loose earth, you can instan-taneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn&rsquo;t have enough force to cause damage.</li><li>You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shap-ing patterns. The changes last for 1 hour.</li><li>If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.</li></ul>
+<p>If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+"reference":"EEPC"},
+
+{"id":20175,
+"name":"Primordial Ward",
+"school":"Abjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 6",
+"short_description":"You have resistance to acid, cold, fire, lightning, and thunder damage for the spellu2019s duration.",
+"full_text":"
+<h1>PRIMORDIAL WARD</h1>
+<p><em>6th-level abjuration</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Self<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 1 minute</p>
+<p>You have resistance to acid, cold, fire, lightning, and thunder damage for the spell&rsquo;s duration.</p>
+<p>When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.</p>",
+"reference":"EEPC"},
+
+{"id":20176,
+"name":"Pyrotechnics",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Bard 2, Sorcerer 2, Wizard 2",
+"short_description":"You can extinguish the fire in an area, and you create either fireworks or smoke.",
+"full_text":"
+<h1>PYROTECHNICS</h1>
+<p><em>2nd-level transmutation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>60 feet<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Instantaneous</p>
+<p>Choose an area of flame that you can see and that can fit within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke.</p>
+<p><strong><em>Fireworks. </em></strong>The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become blinded until the end of your next turn.</p>
+<p><strong><em>Smoke. </em></strong>Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it.</p>",
+"reference":"EEPC"},
+
+{"id":20177,
+"name":"Shape Water",
+"school":"Transmutation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Druid 0, Sorcerer 0, Wizard 0",
+"short_description":"You can manipulate an area of water.",
+"full_text":"
+<h1>SHAPE WATER</h1>
+<p><em>Transmutation cantrip</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>30 feet<strong> <br />Components: </strong>S<br /><strong>Duration: </strong>Instantaneous or 1 hour (see below)</p>
+<p>You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:</p><ul><li>You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any This movement doesn&rsquo;t have enough force to cause damage.</li></ul><ul><li>You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.</li><li>You change the water&rsquo;s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.</li><li>You freeze the water, provided that there are no crea-tures in it. The water unfreezes in 1 hour.</li></ul>
+<p>If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+"reference":"EEPC"},
+
+{"id":20178,
+"name":"Skywrite",
+"school":"Transmutation",
+"subschool":"ritual",
+"spellcraft_dc":"",
+"level":"Bard 2, Druid 2, Wizard 2",
+"short_description":"You cause up to ten words to form in a part of the sky you can see.",
+"full_text":"
+<h1>SKYWRITE</h1>
+<p><em>2nd-level transmutation (ritual)</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Sight<strong> <br />Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 1 hour</p>
+<p>You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell&rsquo;s duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.</p>",
+"reference":"EEPC"},
+
+{"id":20179,
+"name":"Snilloc's Snowball Swarm",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Sorcerer 2, Wizard 2",
+"short_description":"A flurry of magic snowballs erupts from a point you choose within range.",
+"full_text":"
+<h1>SNILLOC&rsquo;S SNOWBALL SWARM</h1>
+<p><em>2nd-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>90 feet<br /><strong>Components: </strong>V, S, M (a piece of ice or a small white rock chip)<br /><strong>Duration: </strong>Instantaneous</p>
+<p>A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.</p>",
+"reference":"EEPC"},
+
+{"id":20180,
+"name":"Storm Sphere",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Sorcerer 4, Wizard 4",
+"short_description":"A 20-foot- radius sphere of whirling air springs into existence.",
+"full_text":"
+<h1>STORM SPHERE</h1>
+<p><em>4th-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>150 feet<br /><strong>Components: </strong>V, S<br /><strong>Duration: </strong>Concentration, up to 1 minute&nbsp;</p>
+<p>A 20-foot- radius sphere of whirling air springs into existence centered on a point you choose within range. The sphere remains for the spell&rsquo;s duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength saving throw or take 2d6 bludgeoning damage. The sphere&rsquo;s space is difficult terrain.</p>
+<p>Until the spell ends, you can use a bonus action on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.</p>
+<p>Creatures within 30 feet of the sphere have disadvantage on Wisdom (<a href="http://skill.com/perception">Perception</a>) checks made to listen.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 5th level or higher, the damage increases for each of its effects by 1d6 for each slot level above 4th.</p>",
+"reference":"EEPC"},
+
+{"id":20181,
+"name":"Thunderclap",
+"school":"Evocation",
+"subschool":"cantrip",
+"spellcraft_dc":"",
+"level":"Bard 0, Druid 0, Sorcerer 0, Warlock 0, Wizard 0",
+"short_description":"You create a burst of thunderous sound, which can be heard 100 feet away.",
+"full_text":"
+<h1>THUNDERCLAP</h1>
+<p><em>Evocation cantrip</em></p>
+<p><strong>Casting Time</strong>: 1 action<br /><strong>Range</strong>: Self (5-foot radius)<br /><strong>Components</strong>: S<br /><strong>Duration</strong>: Instantaneous</p>
+<p>You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.</p>
+<p>The spell&rsquo;s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>",
+"reference":"EEPC"},
+
+{"id":20182,
+"name":"Tidal Wave",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 3, Wizard 3",
+"short_description":"You conjure up a wave of water that crashes down on an area within range.",
+"full_text":"
+<h1>TIDAL WAVE</h1>
+<p><em>3rd-level conjuration</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>120 feet<br /><strong>Components: </strong>V, S, M (a drop of water)<strong> <br />Duration: </strong>Instantaneous</p>
+<p>You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failure, a creature takes 4d8 bludgeoning damage and is knocked prone. On a success, a creature takes half as much damage and isn&rsquo;t knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it.</p>",
+"reference":"EEPC"},
+
+{"id":20183,
+"name":"Transmute Rock",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 5, Wizard 5",
+"short_description":"Transmute mud to rock or vice versa.",
+"full_text":"
+<p>TRANSMUTE ROCK</p>
+<p><em>5th-level transmutation</em>&nbsp;</p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>120 feet<br /><strong>Components: </strong>V, S, M (clay and water)<strong> <br />Duration: </strong>Instantaneous</p>
+<p>You choose an area of stone or mud that you can see that fits within a 40-foot cube and that is within range, and choose one of the following effects.</p>
+<p><strong><em>Transmute Rock to Mud. </em></strong>Nonmagical rock of any sort in the area becomes an equal volume of thick and flowing mud that remains for the spell&rsquo;s duration. If you cast the spell on an area of ground, it becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make this save the first time it enters the area on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud. If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Transmute Mud to Rock. </em></strong>Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell&rsquo;s duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a failed save, a creature becomes restrained by the rock. The restrained creature can use an action to try to break free by succeeding on a Strength check (DC 20) or by dealing 25 damage to the rock around it. On a successful save, a creature is shunted safely to the surface to an unoccupied space.</p>",
+"reference":"EEPC"},
+
+{"id":20184,
+"name":"Vitriolic Sphere",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Sorcerer 4, Wizard 4",
+"short_description":"You point at a place within range, and a glowing 1- foot ball of emerald acid streaks there and explodes in a 20-foot radius.",
+"full_text":"
+<h1>VITRIOLIC SPHERE</h1>
+<p><em>4th-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>150 feet<br /><strong>Components: </strong>V, S, M (a drop of giant slug bile)<strong> <br />Duration: </strong>Instantaneous</p>
+<p>You point at a place within range, and a glowing 1- foot ball of emerald acid streaks there and explodes in a 20-foot radius. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature</p>
+<p>takes 10d4 acid damage and 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.</p>
+<p><strong><em>At Higher Levels. </em></strong>When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.</p>",
+"reference":"EEPC"},
+
+{"id":20185,
+"name":"Wall of Sand",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 3",
+"short_description":"You conjure up a wall of swirling sand on the ground at a point you can see within range.",
+"full_text":"
+<h1>WALL OF SAND</h1>
+<p><em>3rd-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>90 feet<br /><strong>Components: </strong>V, S, M (a handful of sand)<strong> <br />Duration: </strong>Concentration, up to 10 minutes</p>
+<p>You conjure up a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall&rsquo;s space and must spend 3 feet of movement for every 1 foot it moves there.</p>",
+"reference":"EEPC"},
+
+{"id":20186,
+"name":"Wall of Water",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 3, Sorcerer 3, Wizard 3",
+"short_description":"You conjure up a wall of water on the ground at a point you can see within range.",
+"full_text":"
+<h1>WALL OF WATER</h1>
+<p><em>3rd-level evocation</em>&nbsp;</p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>60 feet<br /><strong>Components: </strong>V, S, M (a drop of water)<strong> <br />Duration: </strong>Concentration, up to 10 minutes</p>
+<p>You conjure up a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall&rsquo;s space is difficult terrain.</p>
+<p>Any ranged weapon attack that enters the wall&rsquo;s space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5 -foot square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall&rsquo;s water doesn&rsquo;t fill it.</p>",
+"reference":"EEPC"},
+
+{"id":20187,
+"name":"Warding Wind",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Bard 2, Druid 2, Sorcerer 2",
+"short_description":"A strong wind (20 miles per hour) blows around you in a 10 -foot radius and moves with you, remaining centered on you. The wind lasts for the spellu2019s duration.",
+"full_text":"
+<h1>WARDING WIND</h1>
+<p><em>2nd-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>Self<strong> <br />Components: </strong>V<br /><strong>Duration: </strong>Concentration, up to 10 minutes</p>
+<p>A strong wind (20 miles per hour) blows around you in a 10 -foot radius and moves with you, remaining centered on you. The wind lasts for the spell&rsquo;s duration.</p>
+<p>The wind has the following effects:</p><ul><li>It deafens you and other creatures in its area.</li><li>It extinguishes unprotected flames in its area that are torch-sized or smaller.</li><li>The area is difficult terrain for creatures other than you.</li><li>The attack rolls of ranged weapon attacks have disad-vantage if they pass in or out of the wind.</li><li>It hedges out vapor, gas, and fog that can be dispersed by strong wind.</li></ul>",
+"reference":"EEPC"},
+
+{"id":20188,
+"name":"Watery Sphere",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 4, Sorcerer 4, Wizard 4",
+"short_description":"You conjure up a sphere of water with a 10-foot radius on a point you can see within range.",
+"full_text":"
+<h1>WATERY SPHERE</h1>
+<p><em>4th-level conjuration</em></p>
+<p><strong>Casting Time: </strong>1 action<strong> <br />Range: </strong>90 feet<br /><strong>Components: </strong>V, S, M (a droplet of water)<strong> <br />Duration: </strong>Concentration, up to 1 minute</p>
+<p>You conjure up a sphere of water with a 10-foot radius on a point you can see within range. The sphere can hover in the air, but no more than 10 feet off the ground.</p>
+<p>The sphere remains for the spell&rsquo;s duration.</p>
+<p>Any creature in the sphere&rsquo;s space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space outside it. A Huge or larger creature succeeds on the saving throw automatically. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the saving throw.</p>
+<p>The sphere can restrain a maximum of four Medium or smaller creatures or one Large creature. If the sphere restrains a creature in excess of these numbers, a random creature that was already restrained by the sphere falls out of it and lands prone in a space within 5 feet of it.</p>
+<p>As an action, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, cliff, or other drop, it safely descends until it is hovering 10 feet over ground.</p>
+<p>Any creature restrained by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the saving throw, but no more than once per turn.</p>
+<p>When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it.</p>
+<p>Any creature restrained by the sphere is knocked prone in the space where it falls.</p>",
+"reference":"EEPC"},
+
+{"id":20189,
+"name":"Whirlwind",
+"school":"Evocation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Druid 7, Wizard 7",
+"short_description":"A whirlwind howls down to a point on the ground you specify.",
+"full_text":"
+<h1>WHIRLWIND</h1>
+<p><em>7th-level evocation</em></p>
+<p><strong>Casting Time: </strong>1 action<br /><strong>Range: </strong>300 feet<br /><strong>Components: </strong>V, M (a piece of straw)<strong> <br />Duration: </strong>Concentration, up to 1 minute</p>
+<p>A whirlwind howls down to a point on the ground you specify. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your action to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren&rsquo;t secured to anything and that aren&rsquo;t worn or carried by anyone.</p>
+<p>A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become restrained in the whirlwind until the spell ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A restrained creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.</p>
+<p>A restrained creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 &times; 10 feet away from it in a random direction.</p>",
+"reference":"EEPC"}

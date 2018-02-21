@@ -1,0 +1,409 @@
+ID|Spell_Name_Full|Level|Classes|School|Casting Time|Range|Range_Imperial|Comp|GP|Save|Duration|Description
+1|Abi-Dalzim’s Horrid Wilting|8|Sorcerer,Wizard|Necr|1  standard action|150 ft|150 ft|V,S,M||Con|Instantaneous|30-ft cube all creature(s) 10d8 Necrotic dmg; save halves; plants/water elem. disadvantage const/undead immune
+2|Absorb Elements|1|Druid,Ranger,Wizard|Abjur|1  reaction|Self|Self|S||—|1 round|Acid, Cold, Fire, Lightning, or Thunder resistance vs. 1 atk; first melee hit next round +1d6+1d6/SL dmg
+3|Acid Splash|0|Sorcerer,Wizard|Conj|1  standard action|60 ft|60 ft|V,S||Dex|Instantaneous|1 creature(s) or 2 creature(s) within 5 ft of each other save or 1d6 Acid dmg; CL5:2d6, CL11:3d6, CL17:4d6
+4|Aganazzar’s Scorcher|2|Sorcerer,Wizard|Evoc|1  standard action|30-ft line|30-ft line|V,S,M||Dex|Instantaneous|30-ft long 5-ft wide line all creature(s)tures 3d8+1d8/SL Fire dmg; save halves
+5|Aid|2|Cleric,Paladin|Abjur|1  standard action|30 ft|30 ft|V,S,M||—|8 h|3 creature(s)tures gain 5+5/SL current hp and hp max for the duration
+6|Alarm|1|Ranger,Wizard|Abjur|1  bonus action|30 ft|30 ft|V,S,M||—|8 h|Door, window, or 20-ft cube area; audible (60 ft) or mental alarm (1 mile) if undesignated creature(s) enters
+7|Alter Self|2|Sorcerer,Wizard|Trans|1  standard action|Self|Self|V,S||—|Conc, 1 h|Change appearance, gain +1 magical 1d6 natural weapons, or water breathing and swim spd
+8|Animal Friendship|1|Bard,Druid,Ranger|Ench|1  standard action|30 ft|30 ft|V,S,M||Wis|24 h|1+1/SL beasts Int<4 save or charmed for the duration
+9|Animal Messenger|2|Bard,Druid,Ranger|Ench|1  standard action|30 ft|30 ft|V,S,M||—|24 h|Tiny beast delivers 25 word message up to 25 miles (50 miles if flyer); +48h/SL duration 
+10|Animal Shapes|8|Druid|Trans|1  standard action|30 ft|30 ft|V,S||—|Conc, 24 h|Any willing creature(s)tures transform into up to Large CR4 beasts; retain Wis, Int, Cha, but nothing else
+11|Animate Dead|3|Cleric,Wizard|Necr|1  bonus action|10 ft|10 ft|V,S,M||—|Instantaneous|Turn corpses into 1+2/SL Skeletons or Zombies; control for 24h; bonus a command within 60 ft
+12|Animate Objects|5|Bard,Sorcerer,Wizard|Trans|1  standard action|120 ft|120 ft|V,S||—|Conc, 1 min|10+2/SL nonmagical objects not worn or carried; bonus a command within 500 ft; see book
+13|Antilife Shell|5|Druid|Abjur|1  standard action|10-ft rad|10-ft rad|V,S||—|Conc, 1 h|Only undead and constructs can come within 10 ft; if forced upon living creature(s)ture the spell ends
+14|Antimagic Field|8|Cleric,Wizard|Abjur|1  standard action|10-ft rad|10-ft rad|V,S,M||—|Conc, 1 h|No magical effects functions in area except those Created by an artefact or a deity
+15|Antipathy/Sympathy|8|Druid,Wizard|Ench|1  hour(s)|60 ft|60 ft|V,S,M||Wis|10 days|Object or area up to 200-ft cube attracts or repels specific type of intelligent creature(s); save
+16|Arcane Eye|4|Wizard|Div|1  standard action|30 ft|30 ft|V,S,M||—|Conc, 1 h|"Create invisible, moving (unlimited range, 30ft/round) 1"" magic eye with darkvision you can see through"
+17|Arcane Gate|6|Sorcerer,Warlock,Wizard|Conj|1  standard action|500 ft|500 ft|V,S||—|Conc, 10 min|Two portals, up to 500 ft apart, teleport any to other side; portals are filled with opaque mist
+18|Arcane Lock|2|Wizard|Abjur|1  standard action|Touch|Touch|V,S,M|25c|—|Till dispelled|Entryway locked; password or designated creature(s) opens; +10 DC break/pick lock (25gp cons.)
+19|Armor of Agathys|1|Warlock|Abjur|1  standard action|Self|Self|V,S,M||—|1 h|5+5/SL temp hp; as long as temp hp last any creature(s) that hits in melee takes 5+5/SL Cold dmg
+20|Arms of Hadar|1|Warlock|Conj|1  standard action|10-ft rad|10-ft rad|V,S||Str|Instantaneous|2d6+1d6/SL Necrotic dmg; save halves; on failed save no reactions until next turn
+21|Astral Projection|9|Cleric,Warlock,Wizard|Necr|1  hour(s)|10 ft|10 ft|V,S,M|1100c|—|Special (D)|You + 8 willing creature(s) projected to Astral Plane with identical statistics (per creature(s) 1100gp cons.)
+22|Augury|2|Cleric|Div|1  bonus action|Self|Self|V,S,Mƒ|25gp|—|Instantaneous|Omen about specific course of action you plan to take in the next 30 min (25gp)
+23|Aura of Life|4|Paladin|Abjur|1  standard action|30-ft rad|30-ft rad|V||—|Conc, 10 min|You + any creature(s) while in area Necrotic dmg resist.; heals all living creature(s) at 0 hp at start of turn to 1 hp
+24|Aura of Purity|4|Paladin|Abjur|1  standard action|30-ft rad|30-ft rad|V||—|Conc, 10 min|You + any creature(s) while in area Poison dmg resist., immune to disease, adv. on saves vs. conditions
+25|Aura of Vitality|3|Paladin|Evoc|1  standard action|30-ft rad|30-ft rad|V||—|Conc, 1 min|You can heal 1 creature(s)ture in range for 2d6 hp as a bonus action for the duration
+26|Awaken|5|Bard,Druid|Trans|8  hour(s)|Touch|Touch|V,S,M|1000c|—|Instantaneous|Give beast or plant Int 10 and ability to move. Follows commands for 30 days (1000gp cons.)
+27|Bane|1|Bard,Cleric|Ench|1  standard action|30 ft|30 ft|V,S,M||Cha|Conc, 1 min|3+1/SL creature(s)tures save or have to subtract 1d4 on every attack or save for the duration
+28|Banishing Smite|5|Paladin|Abjur|1  standard action|Self|Self|V||—|Conc, 1 min|Next melee hit +5d10 Force dmg; if this brings target hp<50, you banish it until spell ends
+29|Banishment|4|Cleric,Paladin,Sorcerer,Warlock,Wizard|Abjur|1  standard action|60 ft|60 ft|V,S,M||Cha|Conc, 1 min|1+1/SL creature(s) save or banished; creature(s) return if spell lasts < 1 min
+30|Barkskin|2|Druid,Ranger|Trans|1  standard action|Touch|Touch|V,S,M||—|Conc, 1 h|1 willing creature(s) AC cannot be reduced below 16, regardless of armor it is weaponring
+31|Beacon of Hope|3|Cleric|Abjur|1  standard action|30 ft|30 ft|V,S||—|Conc, 1 min|Any creature(s) in range adv. on Wis/Death saves and gains max hp from any healing
+32|Beast Bond|1|Druid,Ranger|Div|1  standard action|Touch|Touch|V,S,M||—|Conc, 10 min|Telepathic link with 1 beast Int<4 while in line of sight; beast has adv. on attacks vs. creature(s) you can see
+33|Beast Sense|2|Druid,Ranger|Div|1  standard action|Touch|Touch|S||—|Conc, 1 h|Use 1 willing beast's senses; you are blinded and deafened while doing so
+34|Bestow Curse|3|Bard,Cleric,Wizard|Necr|1  standard action|Touch|Touch|V,S||—|Conc, 1 min|1 creature(s)ture cursed, see book; duration SL4:conc, 10 min; SL5:8h; SL7:24h; SL9:until dispelled
+35|Bigby's Hand|5|Wizard|Evoc|1  standard action|120 ft|120 ft|V,S,M||—|Conc, 1 min|Large hand attacks, pushes, grapples or shields, see book; AC 20, your max hp; bonus a move 60 ft
+36|Blade Barrier|6|Cleric|Evoc|1  standard action|90 ft|90 ft|V,S||Dex|Conc, 10 min|100×20×5ft (l×w×h) wall or 30 rad 20x5ft (w×h) ring; 6d10 Slashing dmg; save halves; 3/4 cover
+37|Blade Ward|0|Bard,Sorcerer,Warlock,Wizard|Abjur|1  standard action|Self|Self|V,S||—|1 round|Until the end of your next turn, Bludgeoning, Piercing, and Slashing dmg resist. vs. weapons
+38|Bless|1|Cleric,Paladin|Ench|1  standard action|30 ft|30 ft|V,S,M||—|Conc, 1 min|3+1/SL creature(s)tures can add 1d4 on every attack roll or saving throw during the duration
+39|Blight|4|Druid,Sorcerer,Warlock,Wizard|Necr|1  standard action|30 ft|30 ft|V,S||Con|Instantaneous|1 creature(s)ture takes 8d8+1d8/SL Necrotic dmg; save halves; plants have disadvantage on save
+40|Blinding Smite|3|Paladin|Evoc|1  standard action|Self|Self|V||Con|Conc, 1 min|Next melee hit +3d8 Radiant dmg; save or blinded; extra save at end of every turn
+41|Blindness/Deafness|2|Bard,Cleric,Sorcerer,Wizard|Necr|1  standard action|30 ft|30 ft|V||Con|1 min|1+1/SL creature(s) save or blinded or deafened; extra save at end of every turn
+42|Blink|3|Sorcerer,Wizard|Trans|1  standard action|Self|Self|V,S||—|1 min (D)|50% chance every turn to travel to Ethereal Plane and return to an empty space within 10 ft next turn
+43|Blur|2|Sorcerer,Wizard|Illus|1  standard action|Self|Self|V||—|Conc, 1 min|Enemies have disadvantage on attacks vs. you; no effect against creature(s) without vision or immune to illus.
+44|Bones of the Earth|6|Druid|Trans|1  standard action|120 ft|120 ft|V,S||Dex|Instantaneous|6+2/SL 2.5-ft rad 30-ft high stone pillars burst upward; med. or smaller creature(s) save or lifted; see book
+45|Booming Blade|0|Sorcerer,Warlock,Wizard|Evoc|1  standard action|5 ft|5 ft|V,M||—|Instantaneous|Melee weapon atk with cast; if move next round it 1d8 Thunder dmg; +1d8 (to weapon dmg also) at CL5, 11, 17
+46|Branding Smite|2|Paladin|Evoc|1  standard action|Self|Self|V||—|Conc, 1 min|Next melee hit +2d6+1d6/SL Radiant dmg; invisible target becomes visible for spell duration
+47|Burning Hands|1|Sorcerer,Wizard|Evoc|1  standard action|15-ft cone|15-ft cone|V,S||Dex|Instantaneous|3d6+1d6/SL Fire dmg; save halves; unattended flammable objects ignite
+48|Call Lightning|3|Druid|Conj|1  standard action|120 ft|120 ft|V,S||Dex|Conc, 10 min|60 rad 10 ft cloud in 100 ft; 1 a 5-ft rad 3d10+1d10/SL Lightning damage; save halves
+49|Calm Emotions|2|Bard,Cleric|Ench|1  standard action|60 ft|60 ft|V,S||Cha|Conc, 1 min|20-ft rad all humanoids save or you suppress either charm/fear effects or hostility 
+50|Catapult|1|Sorcerer,Wizard|Trans|1  standard action|150 ft|150 ft|S||Dex|Instantaneous|Send 5+5/SL lb unattended object in 90 ft straight line; if hit creature(s) save or 3d8+1d8/SL Bludg. dmg
+51|Chain Lightning|6|Sorcerer,Wizard|Evoc|1  standard action|150 ft|150 ft|V,S,M||Dex|Instantaneous|Lightning bolt 1 creature(s) and 3+1/SL creature(s) within 30 ft; 10d8 Lightning dmg; save halves
+52|Charm Person|1|Bard,Druid,Sorcerer,Warlock,Wizard|Ench|1  standard action|30 ft|30 ft|V,S||Wis|1 h|1+1/SL humanoids save or charmed; creature(s) adv. on save if you or your allies are fighting it
+53|Chill Touch|0|Sorcerer,Warlock,Wizard|Necr|1  standard action|120 ft|120 ft|V,S||—|1 round|Spell attack for 1d8 Necrotic dmg; can't regain hp; undead disadvantage attacks vs. me; CL5:2d8, CL11:3d8, CL17:4d8
+54|Chromatic Orb|1|Sorcerer,Wizard|Evoc|1  standard action|90 ft|90 ft|V,S,Mƒ|50gp|—|Instantaneous|Spell attack for 3d8+1d8/SL Acid, Cold, Fire, Lightning, Poison or Thunder dmg (50gp)
+55|Circle of Death|6|Sorcerer,Warlock,Wizard|Necr|1  standard action|150 ft|150 ft|V,S,Mƒ|500gp|Con|Instantaneous|60-ft rad all 8d6+2d6/SL Necrotic dmg; save halves (500gp)
+56|Circle of Power|5|Paladin|Abjur|1  standard action|30-ft rad|30-ft rad|V||—|Conc, 10 min|Any creature(s) while in area adv. on saves vs. magical effects; if save would half dmg it takes no dmg
+57|Clairvoyance|3|Bard,Cleric,Sorcerer,Wizard|Div|10  bonus action|1 mile|1 mile|V,S,Mƒ|100gp|—|Conc, 10 min|See or hear a familiar place; 1 a to switch between seeing and hearing (100gp)
+58|Clone|8|Wizard|Necr|1  hour(s)|Touch|Touch|V,S,M|3000gp|—|Instantaneous|Create a clone of a living creature(s); after death its soul can move to the clone (1K gp cons.; 2K gp)
+59|Cloud of Daggers|2|Bard,Sorcerer,Warlock,Wizard|Conj|1  standard action|60 ft|60 ft|V,S,M||—|Conc, 1 min|5-ft cube 4d4+2d4/SL Slashing dmg to all that enter or start turn in area
+60|Cloudkill|5|Sorcerer,Wizard|Conj|1  standard action|120 ft|120 ft|V,S||Con|Conc, 10 min|20-ft rad 5d8+1d8/SL Poison dmg; save halves; move 10 ft/round; heavily obscured, difficult terrain
+61|Color Spray|1|Sorcerer,Wizard|Illus|1  standard action|15-ft cone|15-ft cone|V,S,M||—|1 round|6d10+2d10/SL hp of creature(s) blinded, starting with the lowest current hp creature(s)
+62|Command|1|Cleric,Paladin|Ench|1  standard action|60 ft|60 ft|V||Wis|1 round|1+1/SL creature(s) save or follows one word command, such as approach, drop, flee, grovel, halt
+63|Commune|5|Cleric|Div|1  bonus action|Self|Self|V,S,M||—|1 min|Ask up to three yes/no questions to your deity or a divine proxy (25gp)
+64|Commune with Nature|5|Druid,Ranger|Div|1  bonus action|Self|Self|V,S||—|Instantaneous|Know 3 facts about natural features in 3 miles rad (300 ft rad underground)
+65|Compelled Duel|1|Paladin|Ench|1  standard action|30 ft|30 ft|V||Wis|Conc, 1 min|1 creature(s) save or disadvantage on attacks vs. not-you and save if moving more than 30 ft away
+66|Comprehend Languages|1|Bard,Sorcerer,Warlock,Wizard|Div|1  standard action|Self|Self|V,S,M||—|1 h|Understand all spoken language or written language when touched; does not help vs. cyphers
+67|Compulsion|4|Bard|Ench|1  standard action|30 ft|30 ft|V,S||Wis|Conc, 1 min|Any creature(s) in range save or you use bonus a to have them use all movement in one direction
+68|Cone of Cold|5|Sorcerer,Wizard|Evoc|1  standard action|60-ft cone|60-ft cone|V,S,M||Con|Instantaneous|8d8+1d8/SL Cold dmg; save halves; creature(s) killed become frozen statues until thawed
+69|Confusion|4|Bard,Druid,Sorcerer,Wizard|Ench|1  standard action|90 ft|90 ft|V,S,M||Wis|Conc, 1 min|10+5/SL-ft rad all save or confused, see book; extra save at end of every turn
+70|Conjure Animals|3|Druid,Ranger|Conj|1  standard action|60 ft|60 ft|V,S||—|Conc, 1 h|Summon 2+2/2SL CR of beasts that obey your verbal commands
+71|Conjure Barrage|3|Ranger|Conj|1  standard action|60-ft cone|60-ft cone|V,S,M||Dex|Instantaneous|Throw weapon or ammo; copies rain down for 3d8 dmg; dmg type as weapon; save halves
+72|Conjure Celestial|7|Cleric|Conj|1  bonus action|90 ft|90 ft|V,S||—|Conc, 1 h|CR 4+1/2SL celestial that obeys your verbal commands if they do not go against its alignment
+73|Conjure Elemental|5|Druid,Wizard|Conj|1  bonus action|90 ft|90 ft|V,S,M||—|Conc, 1 h|CR 5+1/SL elemental that obeys your verbal commands; on broken conc. elemental breaks free
+74|Conjure Fey|6|Druid,Warlock|Conj|1  bonus action|90 ft|90 ft|V,S||—|Conc, 1 h|CR 6+1/SL fey that obeys your verbal commands not against its align.; on broken conc. fey breaks free
+75|Conjure Minor Elementals|4|Druid,Wizard|Conj|1  bonus action|90 ft|90 ft|V,S||—|Conc, 1 h|Summon 2+2/2SL CR of elementals that obey your verbal commands
+76|Conjure Volley|5|Ranger|Conj|1  standard action|150 ft|150 ft|V,S,M||Dex|Instantaneous|Turn ammo/thrown weapon into volley; 40-ft rad 20-ft high 8d8 dmg; dmg type as weapon; save halves
+77|Conjure Woodland Beings|4|Druid,Ranger|Conj|1  standard action|60 ft|60 ft|V,S,M||—|Conc, 1 h|Summon 2+2/2SL CR of fey that obey your verbal commands
+78|Contact Other Plane|5|Warlock,Wizard|Div|1  bonus action|Self|Self|V||Int|1 min|You make DC 15 save to ask extraplanar entity 5 questions with one word answers; insane on fail
+79|Contagion|5|Cleric,Druid|Necr|1  standard action|Touch|Touch|V,S||—|7 days|Melee spell attack to infect creature(s) with chosen disease; saves each round on 3 successes spell ends, see book
+80|Contingency|6|Wizard|Evoc|10  bonus action|Self|Self|V,S,Mƒ|1500gp|—|10 days|Prepare another SL<6 spell you can cast to activate when some condition is met (1500gp)
+81|Continual Flame|2|Cleric,Wizard|Evoc|1  standard action|Touch|Touch|V,S,M|50c|—|Till dispelled|Create a permanent flame (50gp cons.)
+82|Control Flames|0|Druid,Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|S||—|Instant. or 1 h|Nonmagical flame up to 5 cu ft; instant: expand/exinguish, 1h: brighten/dim/change color/shapes appear
+83|Control Water|4|Cleric,Druid,Wizard|Trans|1  standard action|300 ft|300 ft|V,S,M||—|Conc, 10 min|Control an amount of water in a 100 ft cube as 1 a; flood, part, redirect, or whirlpool, see book
+84|Control weather|8|Cleric,Druid,Wizard|Trans|10  bonus action|5-mile rad|5-mile rad|V,S,M||—|Conc, 8 h|Change current weather; changes take 1d4×10 min; change precipitation, temperature, wind, see book
+85|Control Winds|5|Druid,Sorcerer,Wizard|Trans|1  standard action|300 ft|300 ft|V,S||—|Conc, 1 h|100-ft cube of air either gusts, downdraft, or updraft; affects flying/jump/ranged; 1 a change; see book
+86|Cordon of Arrows|2|Ranger|Trans|1  standard action|5 ft|5 ft|V,S,M||Dex|8 h|4+2/SL arrows/bolts attack first creature(s) in 30 ft one at a time for 1d6 Piercing dmg; save halves
+87|Counterspell|3|Sorcerer,Warlock,Wizard|Abjur|1  reaction|60 ft|60 ft|S||—|Instantaneous|Stop a spell being cast; make DC 10+SL spellcasting ability check if above the spell slot lvl used
+88|Create Bonfire|0|Druid,Sorcerer,Warlock,Wizard|Conj|1  standard action|60 ft|60 ft|V,S||Dex|Conc, 1 min|5-ft cube all creature(s)tures at casting, or entering save or 1d8 Fire dmg; CL5:2d8, CL11:3d8, CL17:4d8
+89|Create Food and Water|3|Cleric,Paladin|Conj|1  standard action|30 ft|30 ft|V,S||—|Instantaneous|Create 45 pounds of food and 30 gallons of water; enough for 15 humanoids or 5 steeds for 24h
+90|Create or Destroy Water|1|Cleric,Druid|Trans|1  standard action|30 ft|30 ft|V,S,M||—|Instantaneous|Create/destroy 10+2/SL gal of water in open container; or Create rain/destroy fog in 30+5/SL-ft cube
+91|Create Undead|6|Cleric,Warlock,Wizard|Necr|1  bonus action|10 ft|10 ft|V,S,M|150c/ghoul|—|Instantaneous|Turn corpses into 3+1/SL ghoul a.o., see book; control 24h; bonus a command 120 ft (150gp/corpse cons.)
+92|Creation|5|Sorcerer,Wizard|Illus|1  bonus action|30 ft|30 ft|V,S,M||—|Special|Create a nonliving object up to a 5+5/SL-ft cube of vegetable matter, stone, metal, gems or rare metals
+93|Crown of Madness|2|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|120 ft|120 ft|V,S||Wis|Conc, 1 min|1 humanoid save or charmed and must melee attack against creature(s) chosen by you; extra save/round
+94|Crusader's Mantle|3|Paladin|Evoc|1  standard action|30-ft rad|30-ft rad|V||—|Conc, 1 min|You and allies in range deal extra 1d4 Radiant dmg with weapon attacks
+95|Cure Wounds|1|Bard,Cleric,Druid,Paladin,Ranger|Evoc|1  standard action|Touch|Touch|V,S||—|Instantaneous|1 creature(s)ture is healed for 1d8+1d8/SL+spellcasting ability modifier hp
+96|Dancing Lights|0|Bard,Sorcerer,Wizard|Evoc|1  standard action|120 ft|120 ft|V,S,M||—|Conc, 1 min|4 torch-sized lights or 1 humanoid-sized light; 10-ft rad dim light; bonus a to move 60 ft
+97|Darkness|2|Sorcerer,Warlock,Wizard|Evoc|1  standard action|60 ft|60 ft|V,M||—|Conc, 10 min|15-ft rad darkness on point or object; darkvision doesn't work; only magical light of higher SL works
+98|Darkvision|2|Druid,Ranger,Sorcerer,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|8 h|1 willing creature(s)ture has darkvision 60 ft for the duration
+99|Daylight|3|Cleric,Druid,Paladin,Ranger,Sorcerer|Evoc|1  standard action|60 ft|60 ft|V,S||—|1 h|60-ft rad bright light + 60-ft dim light on point or object; only magical darkness of higher SL works
+100|Death Ward|4|Cleric,Paladin|Abjur|1  standard action|Touch|Touch|V,S||—|8 h|Once, when creature(s) drops to 0 hp it drops to 1 hp instead; or negates first instantaneous kill effect
+101|Delayed Blast Fireball|7|Sorcerer,Wizard|Evoc|1  standard action|150 ft|150 ft|V,S,M||Dex|Conc, 1 min|Create bead; at chosen moment, or if conc. is broken, 20-ft rad 12d6+1d6/SL Fire dmg; save halves
+102|Demiplane|8|Warlock,Wizard|Conj|1  standard action|60 ft|60 ft|S||—|1 h|Create door to a demiplane of 30-ft cube; when spell ends, creature(s)tures inside remain trapped
+103|Destructive Wave|5|Paladin|Evoc|1  standard action|30-ft rad|30-ft rad|V||Con|Instantaneous|Any creature(s) 5d6 Thunder + 5d6 Radiant/Necrotic dmg and knocked prone; save halves not prone
+104|Detect Evil and Good|1|Cleric,Paladin|Div|1  standard action|Self|Self|V,S||—|Conc, 10 min|Know if aberration, celestial, elemental, fey, fiend, undead, and des-/consecrated area within 30 ft
+105|Detect Magic|1|Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Wizard|Div|1  standard action|Self|Self|V,S||—|Conc, 10 min|Know presence of magic within 30 ft; 1 a to see auras and determine school
+106|Detect Poison and Disease|1|Cleric,Druid,Paladin,Ranger|Div|1  standard action|Self|Self|V,S,M||—|Conc, 10 min|Know presence, location, and type of poisons, poisonous creature(s)tures, and diseases within 30 ft
+107|Detect Thoughts|2|Bard,Sorcerer,Wizard|Div|1  standard action|Self|Self|V,S,M||Wis|Conc, 1 min|1 a read thougths of visible Int>3 creature(s) or detect presence of invisible within 30 ft; save for probing
+108|Dimension Door|4|Bard,Sorcerer,Warlock,Wizard|Conj|1  standard action|500 ft|500 ft|V||—|Instantaneous|Teleport yourself and 1 willing creature(s) within 5 ft, up to 500 ft to a place you can see, specify, or describe
+109|Disguise Self|1|Bard,Sorcerer,Wizard|Illus|1  standard action|Self|Self|V,S||—|1 h (D)|Alter appearance; Int(Investigation) check vs. spell DC to determine disguise
+110|Disintegrate|6|Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|V,S,M||Dex|Instantaneous|1 creature(s) save or 10d6+3d6/SL+40 Force dmg; or up to 10-ft cube nonmagical object is destroyed
+111|Dispel Evil and Good|5|Cleric,Paladin|Abjur|1  standard action|Self|Self|V,S,M||—|Conc, 1 min|Celestials, elementals, fey, fiends, undead disadvantage on attacks vs. you; break charm/fright/possession; banish
+112|Dispel Magic|3|Bard,Cleric,Druid,Paladin,Sorcerer,Warlock,Wizard|Abjur|1  standard action|120 ft|120 ft|V,S||—|Instantaneous|Dispel any magical effect on creature(s) or object; make DC 10+SL spellcasting ability check if above SL used
+113|Dissonant Whispers|1|Bard|Ench|1  standard action|60 ft|60 ft|V||Wis|Instantaneous|1 creature(s) 3d6+1d6/SL Psychic dmg and flee; save halves and no fleeing; deaf creature(s) are immune
+114|Divination|4|Cleric|Div|1  standard action|Self|Self|V,S,M|25c|—|Instantaneous|Get answer to one question about a goal, event, or activity to occur within the next 7 days (25gp cons.)
+115|Divine Favor|1|Paladin|Evoc|1  standard action|Self|Self|V,S||—|Conc, 1 min|Your weapon attacks deal an +1d4 Radiant damage for the duration
+116|Divine Word|7|Cleric|Evoc|1  standard action|30 ft|30 ft|V||Cha|Instantaneous|Any creature(s) save or deaf/blind/stunned/dead depending on current HP; banishes extraplanar creature(s)
+117|Dominate Beast|4|Druid,Sorcerer|Ench|1  standard action|60 ft|60 ft|V,S||Wis|Conc, 1 min|1 beast save or charmed, follows telepathic commands, 1 a for complete control; +SL for duration
+118|Dominate Monster|8|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|60 ft|60 ft|V,S||Wis|Conc, 1 h|1 creature(s) save or charmed, follows telepathic commands, 1 a for complete control; SL9: conc, 8h
+119|Dominate Person|5|Bard,Sorcerer,Wizard|Ench|1  standard action|60 ft|60 ft|V,S||Wis|Conc, 1 min|1 humanoid save or charmed, follows telepathic commands, 1 a for complete control; +SL for dur.
+120|Drawmij's Instant Summons|6|Wizard|Conj|1  bonus action|Touch|Touch|V,S,Mƒ|1000gp|—|Till dispelled|Link object to a sapphire (1000gp); 1 a crush gem to summon the unattended object or learn of wielder
+121|Dream|5|Bard,Warlock,Wizard|Illus|1  bonus action|Special|Special|V,S,M||—|8 h|You or willing creature(s) enters a creature(s)'s dreams, manifesting as a messenger with whom it can communicate
+122|Druidcraft|0|Druid|Trans|1  standard action|30 ft|30 ft|V,S||—|Instantaneous|Small nature effect; predict weather, expedite small plant growth, snuff light, harmless sensory effect
+123|Dust Devil|2|Druid,Sorcerer,Wizard|Conj|1  standard action|60 ft|60 ft|V,S,M||Str|Conc, 1 min|5-ft cube; all in 5-ft 1d8+1d8/SL Bludg. dmg and pushed 10 ft away; save halves, no push; see book
+124|Earth Tremor|1|Bard,Druid,Sorcerer,Wizard|Evoc|1  standard action|10-ft rad|10-ft rad|V,S||Dex|Instantaneous|All creature(s) in area except you save or 1d6+1d6/SL Bludgeoning dmg and prone; loose ground is dif. ter.
+125|Earthbind|2|Druid,Sorcerer,Warlock,Wizard|Trans|1  standard action|300 ft|300 ft|V||Str|Conc, 1 min|1 creature(s)tures save or fly speed is reduced to 0; airborne creature(s)tures descend at 60 ft per round
+126|Earthquake|8|Cleric,Druid,Sorcerer|Evoc|1  standard action|500 ft|500 ft|V,S,M||—|Conc, 1 min|Cause an earthquake in a 100-ft rad, damaging structures and creature(s)ting dangerous fissures, see book
+127|Eldritch Blast|0|Warlock|Evoc|1  standard action|120 ft|120 ft|V,S||—|Instantaneous|Spell attack 1 beam 1d10 Force damage; beams can be combined or split; CL5:2, CL11:3, CL17:4 beams
+128|Elemental Bane|4|Druid,Warlock,Wizard|Trans|1  standard action|90 ft|90 ft|V,S||Con|Conc, 1 min|1+1/SL creature(s) in 30 ft save or first attack each round of chosen energy does +2d6 dmg; no resistance
+129|Elemental weapon|3|Paladin|Trans|1  standard action|Touch|Touch|V,S||—|Conc, 1 h|+1 magical weapon; +1d4 Acid, Cold, Fire, Lightning, or Thunder dmg; SL5: +2/+2d4, SL7: +3/+3d4
+130|Enhance Ability|2|Bard,Cleric,Druid,Sorcerer|Trans|1  standard action|Touch|Touch|V,S,M||—|Conc, 1 h|1+1/SL creature(s) adv. on checks with 1 stat; choosing Str, Dex, Con gives secondary benefits
+131|Enlarge/Reduce|2|Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|V,S,M||Con|Conc, 1 min|1 creature(s)/object save or enlarged (Str adv. +1d4 weapon dmg), reduced (Str disadvantage -1d4 weapon dmg)
+132|Ensnaring Strike|1|Ranger|Conj|1  standard action|Self|Self|V||Str|Conc, 1 min|Next creature(s) hit save (Large adv.) or restrained, 1d6+1d6/SL Piercing dmg/round; Str check to escape
+133|Entangle|1|Druid|Conj|1  standard action|90 ft|90 ft|V,S||Str|Conc, 1 min|20-ft square save or restrained; Str check vs. Spell DC to escape; for duration area is difficult terrain
+134|Enthrall|2|Bard,Warlock|Ench|1  standard action|60 ft|60 ft|V,S||Wis|1 min|As you speak any creature(s) save (adv. if fighting) or disadvantage on Wis(Perception) for any other than you
+135|Erupting Earth|3|Druid,Sorcerer,Wizard|Trans|1  standard action|120 ft|120 ft|V,S,M||—|Instantaneous|20-ft cube all creature(s) 3d12+1d12/SL Bludgeoning dmg;  save halves; area becomes difficult terrain
+136|Etherealness|7|Bard,Sorcerer,Warlock,Wizard|Trans|1  standard action|Self|Self|V,S||—|8 h (D)|1/SL willing creature(s) go to Ethereal Plane; move there, but able to perceive 60 ft into the normal plane
+137|Evard's Black Tentacles|4|Wizard|Conj|1  standard action|90 ft|90 ft|V,S,M||Dex|Conc, 1 min|All that enter 20-ft rad save or restrained and 3d6 Bludgeoning dmg/round; Str/Dex check to escape
+138|Expeditious Retreat|1|Sorcerer,Warlock,Wizard|Trans|1  standard action|Self|Self|V,S||—|Conc, 10 min|You can take Dash action now, and as a bonus action for the duration
+139|Eyebite|6|Bard,Sorcerer,Warlock,Wizard|Necr|1  standard action|Self|Self|V,S||Wis|Conc, 1 min|1 creature(s)/round within 60 ft save or either fall asleep, panicked, or sickened, your choice
+140|Fabricate|4|Wizard|Evoc|10  bonus action|120 ft|120 ft|V,S||—|Instantaneous|Create simple object from raw materials; or complex object if proficient in the appropriate artisan's tools
+141|Faerie Fire|1|Bard,Druid|Evoc|1  standard action|60 ft|60 ft|V||Dex|Conc, 1 min|20-ft cube all obj/creature(s) save or outlined in 10 ft dim light and attacks have adv.; see invisible creature(s)
+142|False Life|1|Sorcerer,Wizard|Necr|1  standard action|Self|Self|V,S,M||—|1 h|You gain 1d4+4+5/SL temporary hit points for the duration
+143|Fear|3|Bard,Sorcerer,Warlock,Wizard|Illus|1  standard action|30-ft cone|30-ft cone|V,S,M||Wis|Conc, 1 min|All creature(s) save or drop what it is holding and frightened; extra save/round if creature(s) is not in line of sight
+144|Feather Fall|1|Bard,Sorcerer,Wizard|Trans|1  reaction|60 ft|60 ft|V,M||—|1 min|5 creature(s)tures descent only 60 ft/round for duration or until landed, taking no falling damage
+145|Feeblemind|8|Bard,Druid,Warlock,Wizard|Ench|1  standard action|150 ft|150 ft|V,S,M||Int|Instantaneous|1 creature(s) 4d6 Psychic dmg and save or and Cha become 1; extra save every 30 days to end spell
+146|Feign Death|3|Bard,Cleric,Druid,Wizard|Necr|1  standard action|Touch|Touch|V,S,M||—|1 h (D)|Willing creature(s)ture appears dead; it is blinded, incapacitated, has dmg resist. all but Psychic, and speed 0
+147|Find Familiar|1|Wizard|Conj|1  hour(s)|10 ft|10 ft|V,S,M|10c|—|Instantaneous|Gain the services of a familiar; can see through its eyes; it can deliver touch spells; see book (10gp cons.)
+148|Find Steed|2|Paladin|Conj|10  bonus action|30 ft|30 ft|V,S||—|Instantaneous|Gain the services of a steed; can communicate with it telepathically; can share spells with it; see book
+149|Find the Path|6|Bard,Cleric,Druid|Div|1  bonus action|Self|Self|V,S,Mƒ|100gp|—|Conc, 1 day|Know the shortest route to a location you are familiar with and are on the same plane with (100gp)
+150|Find Traps|2|Cleric,Druid,Ranger|Div|1  standard action|120 ft|120 ft|V,S||—|Instantaneous|Sense presence of any trap within line of sight; not exact location, but general nature of trap
+151|Finger of Death|7|Sorcerer,Warlock,Wizard|Necr|1  standard action|60 ft|60 ft|V,S||Con|Instantaneous|1 creature(s) 7d8+30 Necrotic dmg; save halves; creature(s) killed becomes zombie under your command
+152|Fire Bolt|0|Sorcerer,Wizard|Evoc|1  standard action|120 ft|120 ft|V,S||—|Instantaneous|Spell attack for 1d10 Fire dmg; unattended flammable objects ignite; CL5:2d10, CL11:3d10, CL17:4d10
+153|Fire Shield|4|Wizard|Evoc|1  standard action|Self|Self|V,S,M||—|10 min (D)|Fiery shield gives either Fire or Cold dmg resist. and deals 2d8 of the same dmg type to melee attackers
+154|Fire Storm|7|Cleric,Druid,Sorcerer|Evoc|1  standard action|150 ft|150 ft|V,S||Dex|Instantaneous|10 connected 10-ft cubes all creature(s) 7d10 Fire dmg; save halves; unattended flammable objects ignite
+155|Fireball|3|Sorcerer,Wizard|Evoc|1  standard action|150 ft|150 ft|V,S,M||Dex|Instantaneous|20-ft rad all creature(s) 8d6+1d6/SL Fire dmg; save halves; unattended flammable objects ignite
+156|Flame Arrows|3|Druid,Ranger,Sorcerer,Wizard|Trans|1  standard action|Touch|Touch|V,S||—|Conc, 1 h|12+2/SL ammunition drawn from touched quiver do +1d6 Fire damage on a successful hit
+157|Flame Blade|2|Druid|Evoc|1  standard action|Self|Self|V,S,M||—|Conc, 10 min|Summon a fiery blade; 1 a to make a melee spell attack for 3d6+1d6/2SL Fire dmg; 10 ft bright light
+158|Flame Strike|5|Cleric|Evoc|1  standard action|60 ft|60 ft|V,S,M||Dex|Instantaneous|10-ft rad 40-ft high all creature(s) 4d6 Fire and 4d6 Radiant dmg; save halves; +1d6/SL Fire or Radiant
+159|Flaming Sphere|2|Druid,Wizard|Conj|1  standard action|60 ft|60 ft|V,S,M||Dex|Conc, 1 min|2.5-ft rad flaming sphere; bonus a move 30 ft; all within 5-ft rad 2d6+1d6/SL Fire dmg; save halves
+160|Flesh to Stone|6|Warlock,Wizard|Trans|1  standard action|60 ft|60 ft|V,S,M||Con|Conc, 1 min|1 creature(s) save or restrained; save at end of turn, 3 consecutive fail: petrified, 3 consecutive succes: free
+161|Fly|3|Sorcerer,Warlock,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|Conc, 10 min|1+1/SL willing creature(s)tures gain fly 60 ft speed
+162|Fog Cloud|1|Druid,Ranger,Sorcerer,Wizard|Conj|1  standard action|120 ft|120 ft|V,S||—|Conc, 1 h|20-ft+20-ft/SL rad fog that spreads around corners; heavily obscures; 10 mph wind disperses it
+163|Forbiddance|6|Cleric|Abjur|10  bonus action|Touch|Touch|V,S,Mƒ|1000gp|—|1 day|40K sq ft 30 ft high no extraplanar travel; 1 creature(s) type 5d10 Radiant/Necrotic dmg/round (1000gp)
+164|Forcecage|7|Bard,Warlock,Wizard|Evoc|1  standard action|100 ft|100 ft|V,S,Mƒ|1500gp|Cha|1 h|20-ft cube cage, or 10-ft cube solid; blocks all spells; extraplanar travel in/out on save (1500gp)
+165|Foresight|9|Bard,Druid,Warlock,Wizard|Div|1  bonus action|Touch|Touch|V,S,M||—|8 h|1 willing creature(s) can't be surprised; adv. on attacks, ability checks, and saves; disadvantage on attacks vs. target
+166|Freedom of Movement|4|Bard,Cleric,Druid,Ranger|Abjur|1  standard action|Touch|Touch|V,S,M||—|1 h|1 willing creature(s); magic cannot reduce speed, paralyze, restrain; use 5 ft to escape nonmagical restrains
+167|Friends|0|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|Self|Self|S,M||—|Conc, 1 min|Adv. on Cha checks vs. 1 creature(s) currently not hostile; when spell ends, creature(s) knows and becomes hostile
+168|Frostbite|0|Druid,Sorcerer,Warlock,Wizard|Evoc|1  standard action|60 ft|60 ft|V,S||Con|Instantaneous|1 creature(s) save or 1d6 Cold dmg and disadvantage on next weapon attack roll; CL5:2d6, CL11:3d6, CL17:4d6
+169|Gaseous Form|3|Sorcerer,Warlock,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||Con|Conc, 1 h|1 willing creature(s) into a misty cloud with fly 10 ft, resist. to nonmagical dmg, adv. on Str/Dex/saves
+170|Gate|9|Cleric,Sorcerer,Wizard|Conj|1  standard action|60 ft|60 ft|V,S,Mƒ|5000gp|—|Conc, 1 min|Create a portal to a precise location on a different plane; can transport named creature(s) to you (5000gp)
+171|Geas|5|Bard,Cleric,Druid,Paladin,Wizard|Ench|1  bonus action|60 ft|60 ft|V||Wis|30 days (D)|1 creature(s) save or charmed; it must obeys commands or 5d10 Psychic dmg; SL7: 1 year, SL9: until disp.
+172|Gentle Repose|2|Cleric,Wizard|Necr|1  standard action|Touch|Touch|V,S,M||—|10 days|1 corpse protected from decay and prevent it from becoming undead; add duration to raising dead
+173|Giant Insect|4|Druid|Trans|1  standard action|30 ft|30 ft|V,S||—|Conc, 10 min|Transform centipedes, spiders, wasps, or scorpions into giant versions that obey your verbal commands
+174|Glibness|8|Bard,Warlock|Trans|1  standard action|Self|Self|V||—|1 h|You can choose to roll a 15 on any Charisma check; magic cannot detect if you are lying
+175|Globe of Invulnerability|6|Sorcerer,Wizard|Abjur|1  standard action|10-ft rad|10-ft rad|V,S,M||—|Conc, 1 min|SL<(6+1/SL) cast outside area cannot effect inside area; casting with a higher spell slot does not help
+176|Glyph of Warding|3|Bard,Cleric,Wizard|Abjur|1  hour(s)|Touch|Touch|V,S,M|200c|—|Till triggered|Create a glyph that triggers on set condition; Int(Investigation) vs. Spell DC; see book (200gp cons.)
+177|Goodberry|1|Druid,Ranger|Trans|1  standard action|Touch|Touch|V,S,M||—|Instantaneous|Create 10 berries; 1 a to eat 1 berry for 1 hp and nourishment for 1 day; berries lose potency after 24h
+178|Grasping Vine|4|Druid,Ranger|Conj|1  standard action|30 ft|30 ft|V,S||Dex|Conc, 1 min|Conjure vine with 30 ft reach; bonus a to direct to 1 creature(s) save or pulled 20 ft to vine
+179|Grease|1|Wizard|Conj|1  standard action|60 ft|60 ft|V,S,M||Dex|1 min|10-ft square difficult terrain; all entering, in area at casting or at end of turn save or fall prone
+180|Greater Invisibility|4|Bard,Sorcerer,Wizard|Illus|1  standard action|Touch|Touch|V,S||—|Conc, 1 min|1 creature(s) invisible until end of the spell; anything the target is weaponring or carrying is also invisible
+181|Greater Restoration|5|Bard,Cleric,Druid|Abjur|1  standard action|Touch|Touch|V,S,M|100c|—|Instantaneous|Reduce exhaustion or end charm, petrify, curse, stat or max hp reduction (100gp cons.)
+182|Green-Flame Blade|0|Sorcerer,Warlock,Wizard|Evoc|1  standard action|5 ft|5 ft|V,M||—|Instantaneous|Melee weapon atk with cast; creature(s) in 5 ft spell mod Fire dmg; +1d8 to both at CL5, CL11, CL17
+183|Guardian of Faith|4|Cleric|Conj|1  standard action|30 ft|30 ft|V||Dex|8 h|Place spectre; hostile creature(s) in 10 ft of spectre save or 20 Radiant dmg; vanishes after it deals 60 dmg
+184|Guards and Wards|6|Bard,Wizard|Abjur|10  bonus action|Touch|Touch|V,S,Mƒ|10gp|—|24 h|Protect an area with an assortment of effects including fog, web, illusions and locks; see book (10gp)
+185|Guidance|0|Cleric,Druid|Div|1  standard action|Touch|Touch|V,S||—|Conc, 1 min|1 willing creature(s)ture adds 1d4 to ability check of its choice, after rolling, once during the duration
+186|Guiding Bolt|1|Cleric|Evoc|1  standard action|120 ft|120 ft|V,S||—|1 round|Spell attack for 4d6+1d6/SL Radiant dmg and next attack against target has advantage
+187|Gust|0|Druid,Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|V,S||Str|Instantaneous|Med. or smaller creature(s) save or push 5 ft; or push unattended 5 lb obj 10 ft; or harmless sensory effect
+188|Gust of Wind|2|Druid,Sorcerer,Wizard|Evoc|1  standard action|60-ft line|60-ft line|V,S,M||Str|Conc, 1 min|60-ft long 10-ft wide line of wind; creature(s) starting turn in wind save or pushed 15 ft; see book
+189|Hail of Thorns|1|Ranger|Conj|1  standard action|Self|Self|V||Dex|Conc, 1 min|Next ranged weapon attack, all within 5 ft of target 1d10+1d10/SL Piercing dmg; save halves
+190|Hallow|5|Cleric|Evoc|24  hour(s)|Touch|Touch|V,S,M|1000c|—|Till dispelled|30-ft rad protected against celestials, elementals, fey, fiend, and undead; add additional effects; see book
+191|Hallucinatory Terrain|4|Bard,Druid,Warlock,Wizard|Illus|10  bonus action|300 ft|300 ft|V,S,M||—|24 h|150-ft cube of terrain resembles some other sort of terrain; Int (Investigation) vs. Spell DC; see book
+192|Harm|6|Cleric|Necr|1  standard action|60 ft|60 ft|V,S||Con|Instantaneous|1 creature(s) 14d6 Necrotic dmg, reduce max hp by same; not <1 hp; save halves and no max hp reduce
+193|Haste|3|Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|V,S,M||—|Conc, 1 min|1 willing creature(s) +2 AC, speed doubled, adv. on Dex saves, extra action (1 attack, dash, disengage, hide)
+194|Heal|6|Cleric,Druid|Evoc|1  standard action|60 ft|60 ft|V,S||—|Instantaneous|1 creature(s)ture heals 70+10/SL hp and is cured of blindness, deafness, and all diseases
+195|Healing Word|1|Bard,Cleric,Druid|Evoc|1  standard action|60 ft|60 ft|V||—|Instantaneous|Heals 1 living creature(s)ture 1d4+1d4/SL+spellcasting ability modifier
+196|Heat Metal|2|Bard,Druid|Trans|1  standard action|60 ft|60 ft|V,S,M||Con|Conc, 1 min|1 metal obj 2d8+1d8/SL Fire dmg to touch; save or drop obj; if held: disadvantage atk/chk; bonus a reheat obj
+197|Hellish Rebuke|1|Warlock|Evoc|1  reaction|60 ft|60 ft|V,S||Dex|Instantaneous|Cast when taking dmg, creature(s) that dealt dmg 2d10+1d10/SL Fire dmg; save halves
+198|Heroes' Feast|6|Cleric,Druid|Conj|10  bonus action|30 ft|30 ft|V,S,M|1000c|—|Instantaneous|You+12 creature(s); 1h to consume; for 24h: disease/poison immune, +2d10 max hp, see book (1000gp cons.)
+199|Heroism|1|Bard,Paladin|Ench|1  standard action|Touch|Touch|V,S||—|Conc, 1 min|1+1/SL creature(s) immune to fear, gains spellcasting ability modifier temp. hp each turn that last as spell lasts
+200|Hex|1|Warlock|Ench|1  standard action|90 ft|90 ft|V,S,M||—|Conc, 1 h|1 creature(s) +1d6 Necrotic dmg from your attacks; disadvantage on chosen ability checks; SL3: conc, 8h; SL5: conc, 24h
+201|Hold Monster|5|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|90 ft|90 ft|V,S,M||Wis|Conc, 1 min|1+1/SL creature(s) within 30 ft of each other save or paralyzed; extra save at end of each turn
+202|Hold Person|2|Bard,Cleric,Druid,Sorcerer,Warlock,Wizard|Ench|1  standard action|60 ft|60 ft|V,S,M||Wis|Conc, 1 min|1+1/SL humanoid within 30 ft of each other save or paralyzed; extra save at end of each turn
+203|Holy Aura|8|Cleric|Abjur|1  standard action|30 ft|30 ft|V,S,Mƒ|1000gp|Con|Conc, 1 min|Any in area adv. on saves; disadvantage attacks vs. targets; fiend/undead atk a target save or blinded (1000gp)
+204|Hunger of Hadar|3|Warlock|Conj|1  standard action|150 ft|150 ft|V,S,M||Dex|Conc, 1 min|20-ft rad blinds all while in; all start turn in 2d6 Cold dmg; all end turn in save or 2d6 Acid dmg
+205|Hunter's Mark|1|Ranger|Div|1  standard action|90 ft|90 ft|V||—|Conc, 1 h|1 creature(s) +1d6 dmg from your weapon attacks; adv. on Wis(Perception/Survival) vs. target; SL3: 8h; SL5: 24h
+206|Hypnotic Pattern|3|Bard,Sorcerer,Warlock,Wizard|Illus|1  standard action|120 ft|120 ft|S,M||Wis|Conc, 1 min|30-ft cube all creature(s) save or charmed, incapacitated, speed 0 for duration; ends if creature(s) takes dmg
+207|Ice Knife|1|Druid,Sorcerer,Wizard|Conj|1  standard action|60 ft|60 ft|S,M||Dex|Instantaneous|Ranged atk for 1d10 Piercing dmg; hit/miss 5-ft rad on target all creature(s) save or 2d6+1d6/SL Cold dmg
+208|Ice Storm|4|Druid,Sorcerer,Wizard|Evoc|1  standard action|300 ft|300 ft|V,S,M||Dex|Instantaneous|20-ft rad 40-ft high all creature(s) 2d8+1d8/SL Bludg. and 4d6 Cold dmg; save halves; 1 round difficult terrain
+209|Identify|1|Bard,Wizard|Div|1  bonus action|Touch|Touch|V,S,Mƒ|100gp|—|Instantaneous|1 magical item or magic-imbued creature(s)/obj; learn properties, how to use, and spells affecting it (100gp)
+210|Illusory Script|1|Bard,Warlock,Wizard|Illus|1  bonus action|Touch|Touch|S,M|10c|—|10 days|Write a message that only you, designated creature(s), and any with truesight can understand (10gp cons.)
+211|Immolation|5|Sorcerer,Wizard|Evoc|1  standard action|90 ft|90 ft|V||Dex|Conc, 1 min|1 creature(s) save or 7d6 Fire dmg and burns for 3d6 Fire dmg/round; save each round to end; half dmg on save
+212|Imprisonment|9|Warlock,Wizard|Abjur|1  bonus action|30 ft|30 ft|V,S,M|500c/HD|Wis|Till dispelled|1 creature(s) save or trapped in chosen way with no means of escape; see book (500gp/HD cons.)
+213|Incendiary Cloud|8|Sorcerer,Wizard|Conj|1  standard action|150 ft|150 ft|V,S||Dex|Conc, 1 min|20-ft rad all 10d8 fire damage; save halves; heavily obscures; move 10 ft/round in chosen direction
+214|Inflict Wounds|1|Cleric|Necr|1  standard action|Touch|Touch|V,S||—|Instantaneous|Spell attack for 3d10+1d10/SL Necrotic dmg
+215|Insect Plague|5|Cleric,Druid,Sorcerer|Conj|1  standard action|300 ft|300 ft|V,S,M||Con|Conc, 10 min|20-ft rad all 4d10+1d10/SL Piercing dmg; save halves; ignores cover; lightly obscures; difficult terrain
+216|Investiture of Flame|6|Druid,Sorcerer,Warlock,Wizard|Trans|1  standard action|Self|Self|V,S||Dex|Conc, 10 min|Fire immune; Cold resist.; 1d10 Fire dmg in 5 ft; 1 a 15-ft long 5-ft wide all creature(s) 4d8 Fire dmg, save halves
+217|Investiture of Ice|6|Druid,Sorcerer,Warlock,Wizard|Trans|1  standard action|Self|Self|V,S||Con|Conc, 10 min|Cold immune; Fire resist.; 10-ft rad dif. ter.; 1 a 15-ft cone all creature(s) 4d6 Cold dmg, half speed, save halves
+218|Investiture of Stone|6|Druid,Sorcerer,Warlock,Wizard|Trans|1  standard action|Self|Self|V,S||Dex|Conc, 10 min|Nonmagical Bludg/Pierc/Slash resist.; 1 a 15-ft rad all creature(s) save or prone; move through earth/stone
+219|Investiture of Wind|6|Druid,Sorcerer,Warlock,Wizard|Trans|1  standard action|Self|Self|V,S||Con|Conc, 10 min|Ranged weapon attacks disadvantage vs. you; fly 60 ft; 1 a 15-ft cube in 60 ft all 2d10 Bludg. dmg, push 10 ft, save halves
+220|Invisibility|2|Bard,Sorcerer,Warlock,Wizard|Illus|1  standard action|Touch|Touch|V,S,M||—|Conc, 1 h|1+1/SL creature(s) invisible; attacking/casting makes the creature(s) visible; anything worn/carried is also invisible
+221|Jump|1|Druid,Ranger,Sorcerer,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|1 min|1 creature(s)ture's jump distance is tripled for the duration
+222|Knock|2|Bard,Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|V||—|Instantaneous|1 object is unlocked (1 lock), unstuck, unbarred, arcane lock suppressed for 10 min; audible for 300 ft
+223|Legend Lore|5|Bard,Cleric,Wizard|Div|10  bonus action|Self|Self|V,S,M|250c;200gp|—|Instantaneous|Learn summary of lore involved with named or described person, place, or object (200gp; 250gp cons.)
+224|Leomund's Secret Chest|4|Wizard|Conj|1  standard action|Touch|Touch|V,S,Mƒ|5050gp|—|Instantaneous|Hide chest with content in Ethereal Plane for 60 days, after that chance of loss; 1 a reappear (5050gp)
+225|Leomund's Tiny Hut|3|Bard,Wizard|Evoc|1  bonus action|10-ft rad|10-ft rad|V,S,M||—|8 h|10-ft rad immobile dome of force holds 9 Medium creature(s); blocks magic; ends if you leave; see book
+226|Lesser Restoration|2|Bard,Cleric,Druid,Paladin,Ranger|Abjur|1  standard action|Touch|Touch|V,S||—|Instantaneous|1 creature(s) cured of 1 disease, or 1 condition: blinded, deafened, paralyzed, or poisoned
+227|Levitate|2|Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|V,S,M||Con|Conc, 10 min|1 creature(s)/obj up to 500 lb save or rise vertically, up to 20 ft; 1 a (move a if self) move up/down 20 ft
+228|Light|0|Bard,Cleric,Sorcerer,Wizard|Evoc|1  standard action|Touch|Touch|V,M||—|1 h (D)|1 obj up to 10-ft cube sheds bright light 20-ft rad and dim light 20-ft; cannot have multiple instances
+229|Lightning Arrow|3|Ranger|Trans|1  standard action|Self|Self|V,S||Dex|Conc, 1 min|Next ranged weapon atk +4d8+1d8/SL Lightn. dmg, miss half; 10 ft all 2d8+1d8/SL Lightn. dmg, save halves
+230|Lightning Bolt|3|Sorcerer,Wizard|Evoc|1  standard action|100ft line|100ft line|V,S,M||Dex|Instantaneous|100-ft long 5-ft wide all 8d6+1d6/SL Lightn. dmg; save halves; unattended flammable obj ignite
+231|Lightning Lure|0|Sorcerer,Warlock,Wizard|Evoc|1  standard action|15 ft|15 ft|V||Str|Instantaneous|1 creature(s) you see save or pull 10 ft to you; if end in 5 ft, 1d8 Lightning dmg; CL5:2d8, CL11:3d8, CL17:4d8
+232|Locate Animals or Plants|2|Bard,Druid,Ranger|Div|1  standard action|Self|Self|V,S,M||—|Instantaneous|Learn direction and distance to closest named or described kind of beast or plant within 5 miles
+233|Locate creature(s)ture|4|Bard,Cleric,Druid,Paladin,Ranger,Wizard|Div|1  standard action|Self|Self|V,S,M||—|Conc, 1 h|Learn direction to closest named or described kind or specific creature(s)ture within 1000 ft; see book
+234|Locate Object|2|Bard,Cleric,Druid,Paladin,Ranger,Wizard|Div|1  standard action|Self|Self|V,S,M||—|Conc, 10 min|Learn direction to closest named or described kind or specific object within 1000 ft; see book
+235|Longstrider|1|Bard,Druid,Ranger,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|1 h|1+1/SL creature(s)ture's speed increature(s)ses by 10 ft for the duration
+236|Maelstrom|5|Druid|Evoc|1  standard action|120 ft|120 ft|V,S,M||Str|Conc, 1 min|5-ft deep 30-ft rad dif. ter.; all creature(s) starting turn in save or 6d6 Bludg. dmg and pulled 10 ft to center
+237|Mage Armor|1|Sorcerer,Wizard|Abjur|1  standard action|Touch|Touch|V,S,M||—|8 h (D)|1 creature(s) that isn't weaponring armor has AC 13 + Dex modifier for the duration; spell ends if it dons armor
+238|Mage Hand|0|Bard,Sorcerer,Warlock,Wizard|Conj|1  standard action|30 ft|30 ft|V,S||—|1 min (D)|Create spectral hand for simple tasks or carry up to 10 lb; 1 a to control; cannot have multiple instances
+239|Magic Circle|3|Cleric,Paladin,Warlock,Wizard|Abjur|1  bonus action|10 ft|10 ft|V,S,M|100c|—|1 h|Celes., elem., fey, fiends, or undead can't enter/leave; disadvantage on atk; +1h/SL dura.; see book (100gp cons.)
+240|Magic Jar|6|Wizard|Necr|1  bonus action|Self|Self|V,S,Mƒ|500gp|—|Till dispelled|Transport your soul into container from which you can attempt to possess humanoids; see book (500gp)
+241|Magic Missile|1|Sorcerer,Wizard|Evoc|1  standard action|120 ft|120 ft|V,S||—|Instantaneous|3+1/SL darts hit creature(s)ture(s) you can see for 1d4+1 Force dmg per dart
+242|Magic Mouth|2|Bard,Wizard|Illus|1  bonus action|30 ft|30 ft|V,S,M|10c|—|Till dispelled|Implant a 25 word message in an object that is uttered on chosen trigger condition (10g cons.)
+243|Magic Stone|0|Druid,Warlock|Trans|1  standard action|Touch|Touch|V,S||—|1 min|3 pebbles can be thrown 60 ft or with sling and deal 1d6+spellcasting modifier Bludgeoning dmg
+244|Magic weapon|2|Paladin,Wizard|Trans|1  standard action|Touch|Touch|V,S||—|Conc, 1 h|1 nonmagical weapon becomes magical with +1 bonus to attack and damage; SL4: +2, SL6: +3
+245|Major Image|3|Bard,Sorcerer,Warlock,Wizard|Illus|1  standard action|120 ft|120 ft|V,S,M||—|Conc, 10 min|20-ft cube illusion includes visible, audible, olfactory, temperature; 1 a move it; SL6: no conc.; see book
+246|Mass Cure Wounds|5|Bard,Cleric,Druid|Evoc|1  standard action|60 ft|60 ft|V,S||—|Instantaneous|6 creature(s) within 30-ft rad heal 3d8+1d8/SL+spellcasting ability modifier in hp
+247|Mass Heal|9|Cleric|Evoc|1  standard action|60 ft|60 ft|V,S||—|Instantaneous|Heal up to 700 hp to any creature(s)tures in range; also cured of all diseases, blindness and deafness
+248|Mass Healing Word|3|Cleric|Evoc|1  standard action|60 ft|60 ft|V||—|Instantaneous|6 creature(s) heal 1d4+1d4/SL+spellcasting ability modifier in hp 
+249|Mass Suggestion|6|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|60 ft|60 ft|V,M||Wis|24 h|12 creature(s) save or follow stated course of action; SL7: 10 day; SL8: 30 days; SL9: 366 days; see book
+250|Maximilian’s Earthen Grasp|2|Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|V,S,M||Str|Conc, 1 min|Medium hand attacks 1 creature(s); save or 2d6 Bludg. dmg and restrained; 1 a hand moves/attacks; see book
+251|Maze|8|Wizard|Conj|1  standard action|60 ft|60 ft|V,S||Int|Conc, 10 min|1 creature(s) banished to labyrinthine demiplane; DC 20 Int check each round to escape; appears in same spot
+252|Meld into Stone|3|Cleric,Druid|Trans|1  standard action|Touch|Touch|V,S||—|8 h|You merge into a stone object large enough to contain you; can't see through the stone; see book
+253|Melf’s Minute Meteors|3|Sorcerer,Wizard|Evoc|1  standard action|Self|Self|V,S,M||Dex|Conc, 10 min|6+2/SL meteors; at casting/bonus a send up to 2 meteors 120 ft for 5-ft rad all creature(s) 2d6 Fire dmg; save half
+254|Melf's Acid Arrow|2|Wizard|Evoc|1  standard action|90 ft|90 ft|V,S,M||—|Instantaneous|Spell attack for 4d4+1d4/SL and 2d4+1d4/SL acid dmg next turn; on miss half dmg no next turn
+255|Mending|0|Bard,Cleric,Druid,Sorcerer,Wizard|Trans|1  bonus action|Touch|Touch|V,S,M||—|Instantaneous|Repair a single broken object no larger than 1 cu ft; can't restore magic to broken magic item
+256|Message|0|Bard,Sorcerer,Wizard|Trans|1  standard action|120 ft|120 ft|V,S,M||—|1 round|1 creature(s) you point to hears whispered message and can reply with a whisper; nobody can overhear
+257|Meteor Swarm|9|Sorcerer,Wizard|Evoc|1  standard action|1 mile|1 mile|V,S||Dex|Instantaneous|4× 40-ft rad all 20d6 Bludgeoning dmg and 20d6 Fire dmg; save halves; areas do not stack
+258|Mind Blank|8|Bard,Wizard|Abjur|1  standard action|Touch|Touch|V,S||—|24 h|1 creature(s) immune to charms, psychic damage, divination, mind reading, and any mind altering effects
+259|Minor Illusion|0|Bard,Sorcerer,Warlock,Wizard|Illus|1  standard action|30 ft|30 ft|S,M||—|1 min (D)|5-ft cube illusion includes visible or audible; Int(Investigation) check vs. Spell DC; see book
+260|Mirage Arcane|7|Bard,Druid,Wizard|Illus|10  bonus action|Sight|Sight|V,S||—|10 days|1 sq mile alter terrain illusion includes visible, audible, olfactory, tactile; can make difficult ter; see book
+261|Mirror Image|2|Sorcerer,Warlock,Wizard|Illus|1  standard action|Self|Self|V,S||—|1 min (D)|Create three illusionary duplicates of you; destroyed if hit; randomize attacks; AC 10 + your Dex mod.
+262|Mislead|5|Bard,Wizard|Illus|1  standard action|Self|Self|S||—|Conc, 1 h|You invisible and illusionary duplicate of you; 1 a move it; bonus a switch between its senses and yours
+263|Misty Step|2|Sorcerer,Warlock,Wizard|Conj|1  standard action|Self|Self|V||—|Instantaneous|You teleport 30 feet to a unoccupied space you can see
+264|Modify Memory|5|Bard,Wizard|Ench|1  standard action|30 ft|30 ft|V,S||Wis|Conc, 1 min|1 creature(s) save or charmed, alter 1 memory of last (SL6: 7, SL7: 30, SL8: 365) day; SL:9 any memory
+265|Mold Earth|0|Druid,Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|S||—|Instant. or 1 h|5 cu ft earth; instant.: excavate; 1h: change to difficult or normal terrain, or change shape and color
+266|Moonbeam|2|Druid|Evoc|1  standard action|120 ft|120 ft|V,S,M||Con|Conc, 1 min|5-ft rad 40-ft high with dim light; all save or 2d10+1d10/SL; 1 a to move it 60 ft; see book
+267|Mordenkainen's Faithful Hound|4|Wizard|Conj|1  standard action|30 ft|30 ft|V,S,M||—|8 h (D)|Invisible, immobile dog melee attacks as spell atk for 4d8 Piercing dmg; sees invisible/ethereal; see book
+268|Mordenkainen's Magnificent Mansion|7|Bard,Wizard|Conj|1  bonus action|300 ft|300 ft|V,S,Mƒ|15gp|—|24 h|Create extradimensional mansion with rooms, food and servants to serve 100 people; see book (15gp)
+269|Mordenkainen's Private Sanctum|4|Wizard|Abjur|10  bonus action|120 ft|120 ft|V,S,M||—|24 h (D)|Up to 100+100/SL ft cube is magically secured in chosen way; see book
+270|Mordenkainen's Sword|7|Bard,Wizard|Evoc|1  standard action|60 ft|60 ft|V,S,Mƒ|250gp|—|Conc, 1 min|Hovering sword makes melee spell attacks for 3d10 Force dmg; bonus a to move 20 ft and/or attack
+271|Move Earth|6|Druid,Sorcerer,Wizard|Trans|1  standard action|120 ft|120 ft|V,S,M||—|Conc, 2 h|Every 10 min of concentration, gradually reshape 40 cu ft of dirt, sand, or clay; see book
+272|Nondetection|3|Bard,Ranger,Wizard|Abjur|1  standard action|Touch|Touch|V,S,M|25c|—|8 h|1 creature(s) or object up to 10 cu ft hidden from all divination magic (25gp cons.)
+273|Nystul's Magic Aura|2|Wizard|Illus|1  standard action|Touch|Touch|V,S,M||—|24 h|Create a false magic item with chosen properties or shroud a magical item from detection
+274|Otiluke's Freezing Sphere|6|Wizard|Evoc|1  standard action|300 ft|300 ft|V,S,M||Con|Instantaneous|60-ft rad all 10d6+1d6/SL Cold dmg; save halves; freezes water; can save up to 1 min before using
+275|Otiluke's Resilient Sphere|4|Wizard|Evoc|1  standard action|30 ft|30 ft|V,S,M||Dex|Conc, 1 min|1 creature(s)/obj up to Large save or enclosed in impenetrable sphere; can be moved as hamsterball 
+276|Otto's Irresistible Dance|6|Bard,Wizard|Ench|1  standard action|30 ft|30 ft|V||Dex|Conc, 1 min|1 creature(s) dances in place, can't move, disadvantage on attacks/saves, adv. on attacks vs. target; Wis save each round
+277|Pass Without Trace|2|Druid,Ranger|Abjur|1  standard action|Self|Self|V,S,M||—|Conc, 1 h|Any within 30-ft rad +10 Dex(Stealth) checks, leave no tracks, can't be tracked by nonmagical means
+278|Passwall|5|Wizard|Trans|1  standard action|30 ft|30 ft|V,S,M||—|1 h|Create a passage (max. 5 ft wide, 8 ft tall, 20 ft deep) in a wooden, plaster or stone surface for duration
+279|Phantasmal Force|2|Bard,Sorcerer,Wizard|Illus|1  standard action|60 ft|60 ft|V,S,M||Int|Conc, 1 min|1 creature(s) save or sees 10 ft cube illusion that does 1d6 Psychic dmg/round; Int(Investigation) vs. Spell DC
+280|Phantasmal Killer|4|Wizard|Illus|1  standard action|120 ft|120 ft|V,S||Wis|Conc, 1 min|1 creature(s) save or frightened; end of each turn save to end or 4d10+1d10/SL Psychic dmg
+281|Phantom Steed|3|Wizard|Illus|1  bonus action|30 ft|30 ft|V,S||—|1 h (D)|Summon quasi-real steed with 100 ft speed (10 mph); you designate rider; spells ends if it takes dmg
+282|Planar Ally|6|Cleric|Conj|10  bonus action|60 ft|60 ft|V,S||—|Instantaneous|Otherwordly entity sends celestial, elemental or fiend to a location near you; see book
+283|Planar Binding|5|Bard,Cleric,Druid,Wizard|Abjur|1  hour(s)|60 ft|60 ft|V,S,M|1000c|Cha|24 h|1 celestial/elem/fey/fiend save or bound; SL6: 10, SL7: 30, SL8: 180, SL9: 366 days (1000gp cons.)
+284|Plane Shift|7|Cleric,Druid,Sorcerer,Warlock,Wizard|Conj|1  standard action|Touch|Touch|V,S,Mƒ|250gp|Cha|Instantaneous|You + 8 willing creature(s) teleport to different plane; or spell attack save or transported to random plane
+285|Plant Growth|3|Bard,Druid,Ranger|Trans|1  standard action|150 ft|150 ft|V,S||—|Instantaneous|1 a: 100-ft rad plants overgrow for 1/4 speed; 8h: 1 mile diameter plants yield double food at harvest
+286|Poison Spray|0|Druid,Sorcerer,Warlock,Wizard|Conj|1  standard action|10 ft|10 ft|V,S||Con|Instantaneous|1 creature(s)ture save or 1d12 Poison dmg; CL5:2d12, CL11:3d12, CL17:4d12
+287|Polymorph|4|Bard,Druid,Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|V,S,M||Wis|Conc, 1 h|1 creature(s)ture with > 0 hp save or transformed into beast of choice of same CR or lower; see book
+288|Power Word Heal|9|Bard|Evoc|1  standard action|Touch|Touch|V,S||—|Instantaneous|1 creature(s) heals all hp and stops being charmed, frightened, paralyzed, stunned; it can use rea to stand up
+289|Power Word Kill|9|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|60 ft|60 ft|V||—|Instantaneous|1 creature(s)ture with 100 current hp or less dies
+290|Power Word Stun|8|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|60 ft|60 ft|V||Con|Instantaneous|1 creature(s)ture with 150 current hp or less is stunned; save at end of each turn to end spell
+291|Prayer of Healing|2|Cleric|Evoc|10  bonus action|30 ft|30 ft|V||—|Instantaneous|6 creature(s)tures heal 2d8+1d8/SL+spellcasting ability modifier hp
+292|Prestidigitation|0|Bard,Sorcerer,Warlock,Wizard|Trans|1  standard action|10 ft|10 ft|V,S||—|1 h (D)|Minor trick; harmless sensory effect, illusory image, snuff light, clean/soil/chill/warm/flavor etc.
+293|Primordial Ward|6|Druid|Abjur|1  standard action|Self|Self|V,S||—|Conc, 1 min|Acid, Cold, Fire, Lightning, and Thunder resistance; use rea to gain 1 immunity for 1 round, spell ends
+294|Prismatic Spray|7|Sorcerer,Wizard|Evoc|1  standard action|60-ft cone|60-ft cone|V,S||Dex|Instantaneous|All random effect, see book: either 10d6 dmg, restrained, or blinded; save halves/negates
+295|Prismatic Wall|9|Wizard|Abjur|1  standard action|60 ft|60 ft|V,S||Con|10 min|Up to 90 ft long 30 ft high 5 inch thick; all in 20 ft save or blinded; 7 layers with effects, see book
+296|Produce Flame|0|Druid|Conj|1  standard action|Self|Self|V,S||—|10 min (D)|Flame 10 ft bright light; once 30 ft ranged spell attack for 1d8 Fire dmg; CL5:2d8, CL11:3d8, CL17:4d8
+297|Programmed Illusion|6|Bard,Wizard|Illus|1  standard action|120 ft|120 ft|V,S,Mƒ|25gp|—|Till dispelled|30-ft cube illusion includes visible, audible; triggers on set condition; see book (25gp)
+298|Project Image|7|Bard,Wizard|Illus|1  standard action|500 miles|500 miles|V,S,Mƒ|5gp|—|Conc, 1 day|Project image of you to familiar place; 1 a manipulate it; bonus a switch between its senses and yours (5gp)
+299|Protection from Energy|3|Cleric,Druid,Ranger,Sorcerer,Wizard|Abjur|1  standard action|Touch|Touch|V,S||—|Conc, 1 h|1 creature(s)ture gains resistance to either Acid, Cold, Fire, Lightning, or Thunder damage for duration
+300|Protection from Evil and Good|1|Cleric,Paladin,Warlock,Wizard|Abjur|1  standard action|Touch|Touch|V,S,M||—|Conc, 10 min|1 creature(s) immune fear/charm/possess, disadvantage on attacks from abbe./celest./elem./fey/fiends/undead
+301|Protection from Poison|2|Cleric,Druid,Paladin,Ranger|Abjur|1  standard action|Touch|Touch|V,S||—|1 h|1 creature(s) cured from 1 poison, gains resistance to Poison damage, and adv. on saves against being poisoned
+302|Purify Food and Drink|1|Cleric,Druid,Paladin|Trans|1  standard action|10 ft|10 ft|V,S||—|Instantaneous|5-ft rad of food and drink is rendered free of all poison and disease
+303|Pyrotechnics|2|Bard,Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|V,S||Con|Instantaneous|5 cu ft flames extinguish, or 10-ft rad all creature(s) save or blinded 1 round, or 20-ft rad heavy obsc. for 1 min
+304|Raise Dead|5|Bard,Cleric,Paladin|Necr|1  hour(s)|Touch|Touch|V,S,M|500c|—|Instantaneous|Restores a creature(s)ture's body that has died in the last 10 days to life with 1 hp; see book (500gp cons.)
+305|Rary's Telepathic Bond|5|Wizard|Div|1  standard action|30 ft|30 ft|V,S,M||—|1 h|8 willing creature(s) with Int>2 gain a telepathic bond that works for any distance on the same plane
+306|Ray of Enfeeblement|2|Warlock,Wizard|Necr|1  standard action|60 ft|60 ft|V,S||Con|Conc, 1 min|Spell attack; creature(s) does half dmg with weapon attacks that use Str; save at end of each turn to end
+307|Ray of Frost|0|Sorcerer,Wizard|Evoc|1  standard action|60 ft|60 ft|V,S||—|Instantaneous|Spell attack for 1d8 Cold dmg and -10 ft speed until start of your next turn; CL5:2d8, CL11:3d8, CL17:4d8
+308|Ray of Sickness|1|Sorcerer,Wizard|Necr|1  standard action|60 ft|60 ft|V,S||Con|Instantaneous|Spell attack for 2d8+1d8/SL Poison dmg; save or also poisoned until end of your next turn
+309|Regenerate|7|Bard,Cleric,Druid|Trans|1  bonus action|Touch|Touch|V,S,M||—|1 h|1 creature(s) heals 4d8+15 hp and 1 hp/round for rest of duration; restores lost body parts in 2 min
+310|Reincarnate|5|Druid|Trans|1  hour(s)|Touch|Touch|V,S,M|1000c|—|Instantaneous|Brings humanoid that died in last 10 days to life in a new random adult body, see book (1000gp cons.)
+311|Remove Curse|3|Cleric,Paladin,Warlock,Wizard|Abjur|1  standard action|Touch|Touch|V,S||—|Instantaneous|1 creature(s)ture or object is freed of all curses; cursed magic items break attunement with owner
+312|Resistance|0|Cleric,Druid|Abjur|1  standard action|Touch|Touch|V,S,M||—|Conc, 1 min|1 willing creature(s) can add 1d4 to one saving throw after rolling, once during the duration
+313|Resurrection|7|Bard,Cleric|Necr|1  hour(s)|Touch|Touch|V,S,M|1000c|—|Instantaneous|Resurrects a creature(s)ture, that has died in the last century, with whole body; see book (1000gp cons.)
+314|Reverse Gravity|7|Druid,Sorcerer,Wizard|Trans|1  standard action|100 ft|100 ft|V,S,M||Dex|Conc, 1 min|50-ft rad 100-ft high everything falls upward; save to grab hold onto something solid
+315|Revivify|3|Cleric,Paladin|Necr|1  standard action|Touch|Touch|V,S,M|300c|—|Instantaneous|Restores a creature(s)ture's body that has died in the last min to life with 1 hp (300gp cons.)
+316|Rope Trick|2|Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|1 h|Rope up to 60 ft stands vertical; extradimensional space with invisible 3×5 ft entrance at top, for 8 creature(s)
+317|Sacred Flame|0|Cleric|Evoc|1  standard action|60 ft|60 ft|V,S||Dex|Instantaneous|1 creature(s)ture save or 1d8 Radiant dmg; no bonus for cover on save; CL5:2d8, CL11:3d8, CL17:4d8
+318|Sanctuary|1|Cleric|Abjur|1  standard action|30 ft|30 ft|V,S,M||Wis|1 min|1 creature(s) warded; any who want to attack/target must first make save; doesn't protect vs. area spells
+319|Scorching Ray|2|Sorcerer,Wizard|Evoc|1  standard action|120 ft|120 ft|V,S||—|Instantaneous|3+1/SL rays hit creature(s)ture(s) on spell attack with each ray for 2d6 Fire dmg per ray
+320|Scrying|5|Bard,Cleric,Druid,Warlock,Wizard|Div|10  bonus action|Self|Self|V,S,Mƒ|1000gp|Wis|Conc, 10 min|1 creature(s) save or sensor follows it around; or Create sensor in familiar location; see book (1000gp)
+321|Searing Smite|1|Paladin|Evoc|1  standard action|Self|Self|V||Con|Conc, 1 min|Next melee weapon hit +1d6+1d6/SL Fire dmg and target ignites; save to end spell or 1d6 Fire dmg
+322|See Invisibility|2|Bard,Sorcerer,Wizard|Div|1  standard action|Self|Self|V,S,M||—|1 h|See invisible and ethereal creature(s)tures and objects as if they were visible; ethereals are ghostly, translucent
+323|Seeming|5|Bard,Sorcerer,Wizard|Illus|1  standard action|30 ft|30 ft|V,S||Cha|8 h (D)|Any creature(s) save or disguised by changing physical appearance; Int(Investigation) check vs. spell DC
+324|Sending|3|Bard,Cleric,Wizard|Evoc|1  standard action|Unlimited|Unlimited|V,S,M||—|1 round|Send a 25 word message to a familiar creature(s)ture; it recognizes you and can respond with 25 words
+325|Sequester|7|Wizard|Trans|1  standard action|Touch|Touch|V,S,M|5000c|—|Till dispelled|1 willing creature(s)/obj suspended, invisible, hidden from divination magic; see book (5000gp cons.)
+326|Shape Water|0|Druid,Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|S||—|Instant. or 1 h|5 cu ft water; instant: move/change flow; 1h: simple shapes/change color or opacity/freeze
+327|Shapechange|9|Druid,Wizard|Trans|1  standard action|Self|Self|V,S,Mƒ|1500gp|—|Conc, 1 h|Take form of creature(s)ture with CR of CL or lower; keep Int, Wis, Cha and alignment; see book (1500gp)
+328|Shatter|2|Bard,Sorcerer,Warlock,Wizard|Evoc|1  standard action|60 ft|60 ft|V,S,M||Con|Instantaneous|10-ft rad all 3d8+1d8/SL Thunder dmg; save halves; nonmagical unattended objects also take dmg
+329|Shield|1|Sorcerer,Wizard|Abjur|1  reaction|Self|Self|V,S||—|1 round|If hit by attack +5 AC until start of next turn; or stop Magic Missile spell from doing any dmg to you
+330|Shield of Faith|1|Cleric,Paladin|Abjur|1  standard action|60 ft|60 ft|V,S,M||—|Conc, 10 min|1 creature(s)ture gains +2 AC for the duration
+331|Shillelagh|0|Druid|Trans|1  standard action|Touch|Touch|V,S,M||—|1 min|Club or quarterstaff you hold does 1d8 dmg and you use your spellcasting ability modifier instead of Str
+332|Shocking Grasp|0|Sorcerer,Wizard|Evoc|1  standard action|Touch|Touch|V,S||—|Instantaneous|Spell attack, adv. if metal armor, 1d8 Lightning dmg, no rea 1 turn; CL5:2d8, CL11:3d8, CL17:4d8
+333|Silence|2|Bard,Cleric,Ranger|Illus|1  standard action|120 ft|120 ft|V,S||—|Conc, 10 min|20-ft rad no sound can propagate; all within deafened, immune to Thunder dmg, can't use verbal comp.
+334|Silent Image|1|Bard,Sorcerer,Wizard|Illus|1  standard action|60 ft|60 ft|V,S,M||—|Conc, 10 min|15-ft cube illusion includes visible; 1 a move it; Int(Investigation) check vs. spell DC; see book
+335|Simulacrum|7|Wizard|Illus|12  hour(s)|Touch|Touch|V,S,M|1500c|—|Till dispelled|Create snow/ice duplicate of humanoid/beast; follows your verbal commands; see book (1500gp cons.)
+336|Skywrite|2|Bard,Druid,Wizard|Trans|1  standard action|Sight|Sight|V,S||—|Conc, 1 h|Write up to 10 words with clouds in a part of the sky you can see; strong wind can diperse the clouds
+337|Sleep|1|Bard,Sorcerer,Wizard|Ench|1  standard action|90 ft|90 ft|V,S,M||—|1 min|20-ft rad 5d8+2d8/SL hp of conscious creature(s)tures fall asleep, starting with the lowest current hp creature(s)
+338|Sleet Storm|3|Druid,Sorcerer,Wizard|Conj|1  standard action|150 ft|150 ft|V,S,M||Dex|Conc, 1 min|40-ft rad 20-ft high; heavily obsc.; douses flames; difficult terrain; save or prone; Con save or lose conc.
+339|Slow|3|Sorcerer,Wizard|Trans|1  standard action|120 ft|120 ft|V,S,M||Wis|Conc, 1 min|6 creature(s) in 40-ft cube save or half spd, -2 AC, -2 Dex saves, no rea, only 1 a or bonus a; 1 atk; see book
+340|Snilloc’s Snowball Swarm|2|Sorcerer,Wizard|Evoc|1  standard action|90 ft|90 ft|V,S,M||—|Instantaneous|5-ft radius all creature(s)tures 3d6+1d6/SL Cold damage; save halves
+341|Spare the Dying|0|Cleric|Necr|1  standard action|Touch|Touch|V,S||—|Instantaneous|1 living creature(s)ture with 0 current hp becomes stable
+342|Speak with Animals|1|Bard,Druid,Ranger|Div|1  standard action|Self|Self|V,S||—|10 min|Speak verbally with and understand beasts for duration; interaction limited by intelligence of the beasts
+343|Speak with Dead|3|Bard,Cleric|Necr|1  standard action|10 ft|10 ft|V,S,M||—|10 min|1 corpse with mouth answers 5 questions with knowledge it had in life; can cast on same every 10 days
+344|Speak with Plants|3|Bard,Druid,Ranger|Trans|1  standard action|30-ft rad|30-ft rad|V,S||—|10 min|Speak with plants in range about last 24h events; turn difficult plant terrain to normal or vice versa
+345|Spider Climb|2|Sorcerer,Warlock,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|Conc, 1 h|1 gains climbing speed equal to walking speed; can go on walls and ceilings with hands free
+346|Spike Growth|2|Druid,Ranger|Trans|1  standard action|150 ft|150 ft|V,S,M||—|Conc, 10 min|20-ft rad difficult terrain; all 2d4 Piercing dmg every 5 ft moved; Wis(Perception) vs. Spell DC to recognize
+347|Spirit Guardians|3|Cleric|Conj|1  standard action|15-ft rad|15-ft rad|V,S,M||Wis|Conc, 10 min|Undesignated creature(s) start turn/enter in area half speed, 3d8+1d8/SL Radiant/Necrotic dmg; save halves
+348|Spiritual weapon|2|Cleric|Evoc|1  standard action|60 ft|60 ft|V,S||—|1 min|Create weapon; spell attack 1d8+1d8/2SL+ability modifier Force dmg; bonus a to move 20 ft and/or attack
+349|Staggering Smite|4|Paladin|Evoc|1  standard action|Self|Self|V||Wis|Conc, 1 min|Next melee weapon hit +4d6 Psychic dmg and save or disadvantage on attacks/chks, no rea, until end next turn
+350|Stinking Cloud|3|Bard,Sorcerer,Wizard|Conj|1  standard action|90 ft|90 ft|V,S,M||Con|Conc, 1 min|20-ft rad; ignores cover, heavily obscures; all in area at start of turn save against poison or can't act
+351|Stone Shape|4|Cleric,Druid,Wizard|Trans|1  standard action|Touch|Touch|V,S,M||—|Instantaneous|Form 5 cu ft of stone into any shape; can have up to two hinges and a latch, but no finer mechanisms
+352|Stoneskin|4|Druid,Ranger,Sorcerer,Wizard|Abjur|1  standard action|Touch|Touch|V,S,M|100c|—|Conc, 1 h|1 willing creature(s) resistance to nonmagical Bludgeoning, Piercing, and Slashing dmg (100gp cons.)
+353|Storm of Vengeance|9|Druid|Conj|1  standard action|Sight|Sight|V,S||Con|Conc, 1 min|360-ft rad all save or 2d6 Thunder dmg and deafened for 5 min; intensifies every round; see book
+354|Storm Sphere|4|Sorcerer,Wizard|Evoc|1  standard action|150 ft|150 ft|V,S||Str|Conc, 1 min|20-ft rad dif. ter.; all creature(s) + end turn save or 2d6+1d6/SL Bludg.; bonus a 60 ft ranged atk 4d6 Lightning
+355|Suggestion|2|Bard,Sorcerer,Warlock,Wizard|Ench|1  standard action|30 ft|30 ft|V,M||Wis|Conc, 8 h|1 creature(s) save or follow understood reasonable stated course of action; ends if you or allies harm target
+356|Sunbeam|6|Druid,Sorcerer,Wizard|Evoc|1  standard action|60-ft line|60-ft line|V,S,M||Con|Conc, 1 min|60-ft long 5-ft wide all 6d8 Radiant dmg, 1 round blind; save halves and not blinded; 1 a for new line
+357|Sunburst|8|Druid,Sorcerer,Wizard|Evoc|1  standard action|150 ft|150 ft|V,S,M||Con|Instantaneous|60-ft rad all 12d6 Radiant dmg, 1 min blind; save halves and not blinded; save at end of each turn
+358|Swift Quiver|5|Ranger|Trans|1  standard action|Touch|Touch|V,S,M||—|Conc, 1 min|Quiver gives nonmagical ammo; bonus a to make 2 attacks with weapon that uses ammo from that quiver
+359|Sword Burst|0|Sorcerer,Warlock,Wizard|Conj|1  standard action|5 ft|5 ft|V||Dex|Instantaneous|All creature(s) in range save or 1d6 Force damage; CL5:2d6, CL11:3d6, CL17:4d6
+360|Symbol|7|Bard,Cleric,Wizard|Abjur|1  bonus action|Touch|Touch|V,S,M|1000c|—|Till triggered|Inscribe a glyph to activate for chosen effect on set trigger; see book (1000gp cons.)
+361|Tasha's Hideous Laughter|1|Bard,Wizard|Ench|1  standard action|30 ft|30 ft|V,S,M||Wis|Conc, 1 min|1 creature(s) with Int>4 save or fall prone, incapacitated, can't stand; save end of each turn or if taking dmg
+362|Telekinesis|5|Sorcerer,Wizard|Trans|1  standard action|60 ft|60 ft|V,S||—|Conc, 10 min|Move Huge creature(s)ture or 1000 lb object 30 ft as 1 a; ability check with spellcasting ability vs. Str; see book
+363|Telepathy|8|Wizard|Evoc|1  standard action|Unlimited|Unlimited|V,S,M||—|24 h|1 willing familiar creature(s) Int>0 and you telepathic link; share words, sensory information if on same plane
+364|Teleport|7|Bard,Sorcerer,Wizard|Conj|1  standard action|10 ft|10 ft|V||—|Instantaneous|You, 8 willing creature(s), or an object teleport to a place you know, have seen, or can describe; see book
+365|Teleportation Circle|5|Bard,Sorcerer,Wizard|Conj|1  bonus action|10 ft|10 ft|V,M|50c|—|1 round|Create a circle to teleport to another teleportation circle on same plane; see book (50gp cons.)
+366|Tenser's Floating Disk|1|Wizard|Conj|1  standard action|30 ft|30 ft|V,S,M||—|1 h|Create a 3 ft diameter disk that carries 500 lb and follows you if you move more than 20 ft away
+367|Thaumaturgy|0|Cleric|Trans|1  standard action|30 ft|30 ft|V||—|1 min (D)|Minor wonder; your voice booms, flames flicker, tremors in the ground, ominous sounds, etc.
+368|Thorn Whip|0|Druid|Trans|1  standard action|30 ft|30 ft|V,S,M||—|Instantaneous|Melee spell attack for 1d6 Piercing dmg and pull creature(s) 10 ft to you; CL5:2d6, CL11:3d6, CL17:4d6
+369|Thunderclap|0|Bard,Druid,Sorcerer,Warlock,Wizard|Evoc|1  standard action|5-ft rad|5-ft rad|S||Con|Instantaneous|100-ft rad audible; all creature(s) but you in area save or 1d6 Thunder dmg; CL5:2d6, CL11:3d6, CL17:4d6
+370|Thunderous Smite|1|Paladin|Evoc|1  standard action|Self|Self|V||Str|Conc, 1 min|Next melee weapon hit +2d6 Thunder dmg and save or 10 ft push and prone; audible in 300 ft
+371|Thunderwave|1|Bard,Druid,Sorcerer,Wizard|Evoc|1  standard action|15-ft cube|15-ft cube|V,S||Con|Instantaneous|All creature(s)/obj in area 2d8+1d8/SL Thunder dmg, pushed 10 ft away; save halves and not pushed
+372|Tidal Wave|3|Druid,Wizard|Conj|1  standard action|120 ft|120 ft|V,S,M||Dex|Instantaneous|30-ft x 10-ft, 10-ft high all creature(s) 4d8 Bludg. dmg and prone; save halves not prone; extinguish flames
+373|Time Stop|9|Sorcerer,Wizard|Trans|1  standard action|Self|Self|V||—|Instantaneous|You instantly take 1d4+1 turns; if affecting other creature(s)tures or worn or carried object the spell ends
+374|Tongues|3|Bard,Cleric,Sorcerer,Warlock,Wizard|Div|1  standard action|Touch|Touch|V,M||—|1 h|1 creature(s) understands all spoken languages, all with a language can understand what it means
+375|Transmute Rock|5|Druid,Wizard|Trans|1  standard action|120 ft|120 ft|V,S,M||—|Instantaneous|40 cu ft stone to mud or mud to stone; mud and stone restrains; mud from ceiling falls; see book
+376|Transport via Plants|6|Druid|Conj|1  standard action|10 ft|10 ft|V,S||—|1 round|For duration all can transport from a Large plant to a plant on the same plane that you have touched
+377|Tree Stride|5|Druid,Ranger|Conj|1  standard action|Self|Self|V,S||—|Conc, 1 min|You can teleport 1/round for 5 ft move through a tree to another tree of the same kind within 500 ft
+378|True Polymorph|9|Bard,Warlock,Wizard|Trans|1  standard action|30 ft|30 ft|V,S,M||Wis|Conc, 1 h|1 creature(s)/obj > 0 hp save or transformed into another creature(s)/obj with equal CR or lower; see book
+379|True Resurrection|9|Cleric,Druid|Necr|1  hour(s)|Touch|Touch|V,S,M|25K c|—|Instantaneous|Resurrects a creature(s)ture, that has died in last 200 years, with new body; see book (25000gp cons.)
+380|True Seeing|6|Bard,Cleric,Sorcerer,Warlock,Wizard|Div|1  standard action|Touch|Touch|V,S,M|25c|—|1 h|1 willing creature(s) gains truesight 120 ft; see through illusions, hidden doors, ethereal plane (25gp cons.)
+381|True Strike|0|Bard,Sorcerer,Warlock,Wizard|Div|1  standard action|30 ft|30 ft|S||—|Conc, 1 round|1 creature(s)ture against whom you gain advantage on your next attack roll
+382|Tsunami|8|Druid|Conj|1  bonus action|Sight|Sight|V,S||Str|Conc, 6 round|300×50×300ft (l×w×h) wall of water moves away at 50 ft/round; 6d10 Bludg. dmg; save halves; see book
+383|Unseen Servant|1|Bard,Warlock,Wizard|Conj|1  standard action|60 ft|60 ft|V,S,M||—|1 h|Create an invisible, mindless, shapeless servant for simple tasks; bonus a to mentally command it
+384|Vampiric Touch|3|Warlock,Wizard|Necr|1  standard action|Self|Self|V,S||—|Conc, 1 min|Spell attack each turn as 1 a for 3d6+1d6/SL Necrotic dmg; you heal half the damage dealt
+385|Vicious Mockery|0|Bard|Ench|1  standard action|60 ft|60 ft|V||Wis|Instantaneous|1 creature(s)ture save or 1d4 Psychic dmg and disadvantage on next attack roll; CL5:2d4, CL11:3d4, CL17:4d4
+386|Vitriolic Sphere|4|Sorcerer,Wizard|Evoc|1  standard action|150 ft|150 ft|V,S,M||Dex|Instantaneous|20-ft rad all creature(s) 10d4+2d4/SL now and 5d4 Acid dmg at end next turn; save halves & no dmg next turn
+387|Wall of Fire|4|Druid,Sorcerer,Wizard|Evoc|1  standard action|120 ft|120 ft|V,S,M||Dex|Conc, 1 min|60×1×20ft (l×w×h) or 10-ft rad all in and 10 ft on 1 side 5d8+1d8/SL Fire dmg; save halves; see book
+388|Wall of Force|5|Wizard|Evoc|1  standard action|120 ft|120 ft|V,S,M||—|Conc, 10 min|10 10×10-ft panels or 10-ft rad (hemi)sphere invisible, impenetrable wall; can float in air; see book
+389|Wall of Ice|6|Wizard|Evoc|1  standard action|120 ft|120 ft|V,S,M||Dex|Conc, 10 min|10 10×10-ft panels 1-ft thick wall; at casting 10d6 Cold dmg; save halves; can cut through; see book
+390|Wall of Sand|3|Wizard|Evoc|1  standard action|90 ft|90 ft|V,S,M||—|Conc, 10 min|30×10×10ft (l×w×h) wall on the ground; blocks line of sight; blinded while inside; 1/3 move
+391|Wall of Stone|5|Druid,Sorcerer,Wizard|Evoc|1  standard action|120 ft|120 ft|V,S,M||—|Conc, 10 min|"10 10×10-ft panels 6"" thick wall connected with existing stone; half thickness, double surface; see book"
+392|Wall of Thorns|6|Druid|Conj|1  standard action|120 ft|120 ft|V,S,M||Dex|Conc, 10 min|60×2×20ft (l×w×h) or 10-ft rad all 7d8+1d8/SL Piercing dmg; save halves; 1/4 move; see book
+393|Wall of Water|3|Druid,Sorcerer,Wizard|Evoc|1  standard action|60 ft|60 ft|V,S,M||—|Conc, 10 min|30×1×10ft (l×w×h) or 20-ft rad 20-ft high; dif. ter.; ranged weapon disadvantage; Fire dmg halved; Cold dmg freezes
+394|Warding Bond|2|Cleric|Abjur|1  standard action|Touch|Touch|V,S,Mƒ|100gp|—|1 h (D)|1 creature(s) +1 AC, +1 saves, resistance all dmg; if it takes dmg you take same dmg; ends if >60 ft away
+395|Warding Wind|2|Bard,Druid,Sorcerer|Evoc|1  standard action|10-ft rad|10-ft rad|V||—|Conc, 10 min|Strong (20 mph) wind in area deafens/extinguishes unprotected flames/dif. ter./ranged weapon have dis
+396|Water Breathing|3|Druid,Ranger,Sorcerer,Wizard|Trans|1  standard action|30 ft|30 ft|V,S,M||—|24 h|10 willing creature(s)tures can breathe underwater for the duration
+397|Water Walk|3|Cleric,Druid,Ranger,Sorcerer|Trans|1  standard action|30 ft|30 ft|V,S,M||—|1 h|10 willing creature(s)tures can move across any liquid for the duration; rise to surface if underwater
+398|Watery Sphere|4|Druid,Sorcerer,Wizard|Conj|1  standard action|90 ft|90 ft|V,S,M||Str|Conc, 1 min|10-ft rad all creature(s) < Huge save or restrained; on save ejected; save each round; 1 a move sphere 30 ft
+399|Web|2|Sorcerer,Wizard|Conj|1  standard action|60 ft|60 ft|V,S,M||Dex|Conc, 1 h|20-ft cube, anchored, all save or restrained; dif. ter.; lightly obscures; Str check vs. Spell DC to free
+400|Weird|9|Wizard|Illus|1  standard action|120 ft|120 ft|V,S||Wis|Conc, 1 min|30-ft rad all save or frightened for duration; extra save at end of each round or 4d10 Psychic dmg
+401|Whirlwind|7|Druid,Wizard|Evoc|1  standard action|300 ft|300 ft|V,M||Dex|Conc, 1 min|10-ft rad 30-ft high all creature(s) 10d6 Bludg. dmg; save halves; restrains; 1 a move 30 ft; see book
+402|Wind Walk|6|Druid|Trans|1  standard action|30 ft|30 ft|V,S,M||—|8 h|You + 10 willing creature(s)tures assume gaseous form with fly 300 ft, resist. to nonmagical dmg; see book
+403|Wind Wall|3|Druid,Ranger|Evoc|1  standard action|120 ft|120 ft|V,S,M||Str|Conc, 1 min|50×1×15ft (l×w×h) wall, any line-shape, all 3d8 Bludgeoning dmg; save halves; blocks arrows
+404|Wish|9|Sorcerer,Wizard|Conj|1  standard action|Self|Self|V||—|Instantaneous|Duplicate any 8th lvl or lower spell, Create objects, heal, resurrect, alter time, etc.; see book
+405|Witch Bolt|1|Sorcerer,Warlock,Wizard|Evoc|1  standard action|30 ft|30 ft|V,S,M||—|Conc, 1 min|Spell attack 1d12+1d12/SL Lightning dmg; 1 a, if consecutive, for dmg again; ends if out of range
+406|Word of Recall|6|Cleric|Conj|1  standard action|5 ft|5 ft|V||—|Instantaneous|You + 5 willing creature(s) teleport to sanctuary of your deity, designated as such by casting this spell there
+407|Wrathful Smite|1|Paladin|Evoc|1  standard action|Self|Self|V||Wis|Conc, 1 min|Next melee weapon hit +1d6 Psychic dmg and save or frightened; it can take 1 a for extra save
+408|Zone of Truth|2|Bard,Cleric,Paladin|Ench|1  standard action|60 ft|60 ft|V,S||Cha|10 min|15-ft rad all in or enter save or unable to lie; you aware if saved or not; creature(s) aware it cannot lie

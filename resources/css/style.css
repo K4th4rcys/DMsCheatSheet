@@ -1,6 +1,96 @@
-body{
-    margin:0px;
-    background-color: #555;
-    color: #fafafa;
-    font-family: "Arial";
+@import url("master.css");
+
+#maindiv{
+  position:absolute;
+  height:100%;
+  width:100%;
+  overflow:hidden;
+  top:0pt;
+  left:0pt;
+}
+
+
+
+#mainmenu {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  margin: auto;
+  width: 80%;
+  height: 55%;
+  border: 6pt solid rgb(46, 33, 24);
+  -moz-box-shadow: 0 0 10pt #000,inset 0 0 10pt #000;
+  -webkit-box-shadow: 0 0 10pt #000,inset 0 0 10pt #000;
+  box-shadow: 0 0 10pt #000,inset 0 0 10pt #000;
+  border-style:groove;
+  border-collapse: separate;
+  border-spacing: 10pt;
+
+}
+
+.mainlink {
+  position:relative;
+  width: 90%;
+  height:100%;
+  margin:auto;
+  background-color: rgb(68, 47, 33);
+  border: 3pt solid rgb(37, 27, 21);
+  border-style:outset;
+  border-radius: 20pt;
+  -moz-box-shadow: inset 5pt 5pt 10pt rgba(134, 109, 54, 0.77), 5pt 5pt 15pt rgba(0, 0, 0, 0.77);
+  -webkit-box-shadow: inset 5pt 5pt 10pt rgba(134, 109, 54, 0.77), 5pt 5pt 15pt rgba(0, 0, 0, 0.77);
+  box-shadow: inset 5pt 5pt 10pt rgba(134, 109, 54, 0.77), 5pt 5pt 15pt rgba(0, 0, 0, 0.77);
+  overflow:hidden;
+  transition: 0.1s;
+}
+
+.mainlink a{
+  cursor:default;
+  text-decoration:none;
+  /* color:transparent; */
+  display: block;
+  margin:auto;
+  width: 100%;
+  height:100%;
+  text-align: center;
+  font-size:2.5vw;
+  line-height: 250%;
+  /* text-shadow: 2pt 2pt rgb(224,159,33); */
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: rgba(226, 152, 9, 0.7);
+  -webkit-text-fill-color: rgba(226, 152, 9, 0.7);
+  text-shadow: 1px 4px 6px rgb(68, 47, 33), 0 0 10pt #000, 1px 4px 6px rgb(68, 47, 33);
+}
+
+.mainlink:hover{
+  -moz-box-shadow: inset 3pt 3pt 5pt rgba(134, 109, 54, 0.77), 3pt 3pt 10pt rgba(0, 0, 0, 0.77);
+  -webkit-box-shadow: inset 3pt 3pt 5pt rgba(134, 109, 54, 0.77), 3pt 3pt 10pt rgba(0, 0, 0, 0.77);
+  box-shadow: inset 3pt 3pt 5pt rgba(134, 109, 54, 0.77), 3pt 3pt 10pt rgba(0, 0, 0, 0.77);
+  transition: 0.03s;
+}
+.shadow:active{
+  border-style:inset;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  transition: 0.03s;
+}
+.mainlink:active{
+  -moz-box-shadow: inset 3pt 3pt 30pt rgba(0, 0, 0, 0.77);
+  -webkit-box-shadow: inset 3pt 3pt 30pt rgba(0, 0, 0, 0.77);
+  box-shadow: inset 3pt 3pt 30pt rgba(0, 0, 0, 0.77);
+  transition: 0.03s;
+}
+
+.maintd {
+  height: 20%;
+  padding: 0pt;
+}
+
+.maintr {
+  margin: 5pt, auto, 5pt, auto;
+  height: 20%;
+  padding: 0pt;
 }

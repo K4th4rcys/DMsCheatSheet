@@ -1,0 +1,3713 @@
+{"id":11131,"name":"Shield",
+"full_text":"
+<div><h2>Shield</h2>
+<p>&nbsp;</p>
+<p>A shield is made &nbsp;from wood or metal and is carried in one hand. Wielding a shield increases yourArmor Class by 2. You can benefit only from one shield at a time.</p>
+<p><b>Family:</b> Armor and Shields<br /><b>Category:</b> Armor<br /><b>Subcategory:</b> Shields<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Armor and Shields",
+"category":"Armor",
+"subcategory":"Shields",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"+2",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11132,"name":"Morningstar",
+"full_text":"
+<div><h2>Morningstar</h2>
+<p><b>Family:</b> Weapons<br /><b>Category:</b> Martial Weapons<br /><b>Subcategory:</b> One-Handed Melee Weapons<br /><b>Type:</b> Piercing</p>
+<hr />
+<p><i>Damage medium:</i> 1d8</p>
+<hr />
+<p><b>Cost:</b> 15 gp<br /><b>Weight:</b> 4 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Weapons",
+"category":"Martial Weapons",
+"subcategory":"One-Handed Melee Weapons",
+"cost":"15 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"1d8",
+"weight":"4 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"Piercing",
+"reference":"Usergen"},
+
+{"id":11133,"name":"Alchemist's supplies",
+"full_text":"
+<div><h2>Alchemist's supplies</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 50 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11134,"name":"Calligrapher's supplies",
+"full_text":"
+<div><h2>Calligrapher's supplies</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services</p>
+<p><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11135,"name":"Carpenter's tools",
+"full_text":"
+<div><h2>Carpenter's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 8 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"8 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11136,"name":"Cartographer's tools",
+"full_text":"
+<div><h2>Cartographer's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 15 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"15 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11137,"name":"Cobbler's tools",
+"full_text":"
+<div><h2>Cobbler's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 5 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"5 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11138,"name":"Cook's utensils",
+"full_text":"
+<div><h2>Cook's utensils</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11139,"name":"Glassblower's tools",
+"full_text":"
+<div><h2>Glassblower's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11140,"name":"Jeweler's tools",
+"full_text":"
+<div><h2>Jeweler's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11141,"name":"Leatherworker's tools",
+"full_text":"
+<div><h2>Leatherworker's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 5 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"5 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11142,"name":"Mason's tools",
+"full_text":"
+<div><h2>Mason's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11143,"name":"Painter's supplies",
+"full_text":"
+<div><h2>Painter's supplies</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11144,"name":"Potter's tools",
+"full_text":"
+<div><h2>Potter's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 3 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"3 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11145,"name":"Smith's tools",
+"full_text":"
+<div><h2>Smith's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 20 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"20 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11146,"name":"Tinker's tools",
+"full_text":"
+<div><h2>Tinker's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 50 gp<br /><b>Weight:</b> 10 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"10 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11147,"name":"Weaver's tools",
+"full_text":"
+<div><h2>Weaver's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11148,"name":"Woodcarver's tools",
+"full_text":"
+<div><h2>Woodcarver's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11149,"name":"Disguise kit",
+"full_text":"
+<div><h2>Disguise kit</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>
+</div>
+</div>
+</div>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 3 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"3 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11150,"name":"Dice set",
+"full_text":"
+<div><h2>Dice set</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>Gaming Set. This item encompasses a wide range<br /> of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 sp<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11151,"name":"Dragonchess set",
+"full_text":"
+<div><h2>Dragonchess set</h2>
+<p>Gaming Set. This item encompasses a wide range<br />of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Weight:</b> 1/2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1/2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11152,"name":"Playing card set",
+"full_text":"
+<div><h2>Playing card set</h2>
+<p>Gaming Set. This item encompasses a wide range<br />of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11153,"name":"Three-Dragon Ante set",
+"full_text":"
+<div><h2>Three-Dragon Ante set</h2>
+<p>Gaming Set. This item encompasses a wide range<br />of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11154,"name":"Thieves' tools",
+"full_text":"<h2>Thieves' tools</h2>
+<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11155,"name":"Bagpipes",
+"full_text":"<h2>Bagpipes</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b> </p>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11156,"name":"Drum",
+"full_text":"<h2>Drum</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 6 gp<br /><b>Weight:</b> 3 lb<br /><b>Reference:</b> </p>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"6 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"3 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11157,"name":"Dulcimer",
+"full_text":"
+<div><h2>Dulcimer</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 10 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"10 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11158,"name":"Flute",
+"full_text":"
+<div><h2>Flute</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b>&nbsp;2 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"35 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11159,"name":"Lute",
+"full_text":"
+<div><h2>Lute</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 35 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"35 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11160,"name":"Lyre",
+"full_text":"
+<div><h2>Lyre</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11161,"name":"Horn",
+"full_text":"
+<div><h2>Horn</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 3 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"3 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11162,"name":"Pan Flute",
+"full_text":"
+<div><h2>Pan Flute</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 12 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"12 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11163,"name":"Shawm",
+"full_text":"
+<div><h2>Shawm</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 2 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"2 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11164,"name":"Viol",
+"full_text":"
+<div><h2>Viol</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11165,"name":"Donkey",
+"full_text":"
+<div><h2>Donkey</h2>
+<p><b>Carrying capacity: </b>420 lb</p>
+<p><b>Speed: </b>40 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 8 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"8 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11166,"name":"Mule",
+"full_text":"
+<div><h2>Mule</h2>
+<p><b>Carrying capacity: </b>420 lb</p>
+<p><b>Speed: </b>40 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 8 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"8 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11167,"name":"Horse (draft)",
+"full_text":"
+<div><h2>Horse (draft)</h2>
+<p><b>Carrying capacity:&nbsp;</b>540 lb</p>
+<p><b>Speed: </b>40 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 50 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11168,"name":"Horse (riding)",
+"full_text":"
+<div><h2>Horse (riding)</h2>
+<p><b>Carrying capacity:&nbsp;</b>480 lb</p>
+<p><b>Speed: </b>60 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 75 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"75 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11169,"name":"Bit and bridle",
+"full_text":"
+<div><h2>Bit and bridle</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 2 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"2 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11170,"name":"Carriage",
+"full_text":"
+<div><h2>Carriage</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 100 gp<br /><b>Weight:</b> 600 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"100 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"600 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11171,"name":"Cart",
+"full_text":"
+<div><h2>Cart</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 15 gp<br /><b>Weight:</b> 200 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"15 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"200 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11172,"name":"Chariot",
+"full_text":"
+<div><h2>Chariot</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 250 gp<br /><b>Weight:</b> 100 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"250 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"100 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11173,"name":"Feed (per day)",
+"full_text":"
+<div><h2>Feed (per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 5 cp<br /><b>Weight:</b> 10 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"5 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"10 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11174,"name":"Saddle (Exotic)",
+"full_text":"
+<div><h2>Saddle (Exotic)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 60 gp<br /><b>Weight:</b> 40 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"60 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"40 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11175,"name":"Saddle (Military)",
+"full_text":"
+<div><h2>Saddle (Military)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 20 gp<br /><b>Weight:</b> 30 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"20 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"30 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11176,"name":"Saddle (Pack)",
+"full_text":"
+<div><h2>Saddle (Pack)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 5 gp<br /><b>Weight:</b> 15 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"5 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"15 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11177,"name":"Saddle (Riding)",
+"full_text":"
+<div><h2>Saddle (Riding)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 25 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"25 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11178,"name":"Saddlebags",
+"full_text":"
+<div><h2>Saddlebags</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 4 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"4 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11179,"name":"Sled",
+"full_text":"
+<div><h2>Sled</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 20 gp<br /><b>Weight:</b> 300 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"20 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"300 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11180,"name":"Stabling (per day)",
+"full_text":"
+<div><h2>Stabling (per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11181,"name":"Wagon",
+"full_text":"
+<div><h2>Wagon</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 35 gp<br /><b>Weight:</b> 400 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"35 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"400 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11182,"name":"Galley",
+"full_text":"
+<div><h2>Galley</h2>
+<p><b>Speed:&nbsp;</b>4 mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 30000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"30000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11183,"name":"Keelboat",
+"full_text":"
+<div><h2>Keelboat</h2>
+<p><b>Speed: </b>1&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 3000 gp<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"3000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11184,"name":"Longship",
+"full_text":"
+<div><h2>Longship</h2>
+<p><b>Speed:&nbsp;</b>3&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 10000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"10000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11185,"name":"Rowboat",
+"full_text":"
+<div><h2>Rowboat</h2>
+<p><b>Speed:&nbsp;</b>1 1/2&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 50 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11186,"name":"Sailing ship",
+"full_text":"
+<div><h2>Sailing ship</h2>
+<p><b>Speed:&nbsp;</b>2 mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 10000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"10000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11187,"name":"Warship",
+"full_text":"
+<div><h2>Warship</h2>
+<p><b>Speed: </b>2 1/2&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 25000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"25000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11188,"name":"Lifestyle Expenses (Wretched)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Wretched)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 0<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"0",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11189,"name":"Lifestyle Expenses (Squalid)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Squalid)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11190,"name":"Lifestyle Expenses (Poor)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Poor)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11191,"name":"Lifestyle Expenses (Modest)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Modest)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11192,"name":"Lifestyle Expenses (Comfortable)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Comfortable)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11193,"name":"Lifestyle Expenses (Wealthy)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Wealthy)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 4 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"4 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11194,"name":"Lifestyle Expenses (Aristocratic)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Aristocratic)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 10 gp per day minimum<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"10 gp per day minimum",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11195,"name":"Ale (gallon)",
+"full_text":"
+<div><h2>Ale (gallon)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11196,"name":"Ale (mug)",
+"full_text":"
+<div><h2>Ale (mug)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 4 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"4 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11197,"name":"Banquet (per person)",
+"full_text":"
+<div><h2>Banquet (per person)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 10 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11198,"name":"Bread (loaf)",
+"full_text":"
+<div><h2>Bread (loaf)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11199,"name":"Cheese (hunk)",
+"full_text":"
+<div><h2>Cheese (hunk)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11200,"name":"Inn stay (Squalid, per day)",
+"full_text":"
+<div><h2>Inn stay (Squalid, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 7 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"7 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11201,"name":"Inn stay (Poor, per day)",
+"full_text":"
+<div><h2>Inn stay (Poor, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11202,"name":"Inn stay (Modest, per day)",
+"full_text":"
+<div><h2>Inn stay (Modest, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11203,"name":"Inn stay (Comfortable, per day)",
+"full_text":"
+<div><h2>Inn stay (Comfortable, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 8 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"8 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11204,"name":"Inn stay (Wealthy, per day)",
+"full_text":"
+<div><h2>Inn stay (Wealthy, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 gp <br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 gp  ",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11205,"name":"Inn stay (Aristocratic, per day)",
+"full_text":"
+<div><h2>Inn stay (Aristocratic, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 4 gp <br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"4 gp ",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11206,"name":"Meals (Squalid, per day)",
+"full_text":"
+<div><h2>Meals (Squalid, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 3 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"3 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11207,"name":"Meals (Poor, per day)",
+"full_text":"
+<div><h2>Meals (Poor, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 6 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"6 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11208,"name":"Meals (Modest, per day)",
+"full_text":"
+<div><h2>Meals (Modest, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 3 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"3 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11209,"name":"Meals (Comfortable, per day)",
+"full_text":"
+<div><h2>Meals (Comfortable, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11210,"name":"Meals (Wealthy, per day)",
+"full_text":"
+<div><h2>Meals (Wealthy, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 8 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"8 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11211,"name":"Meals (Aristocratic, per day)",
+"full_text":"
+<div><h2>Meals (Aristocratic, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11212,"name":"Meat (chunk)",
+"full_text":"
+<div><h2>Meat (chunk)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 3 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"3 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11213,"name":"Wine (common, pitcher)",
+"full_text":"
+<div><h2>Wine (common, pitcher)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11214,"name":"Wine (fine, bottle)",
+"full_text":"
+<div><h2>Wine (fine, bottle)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 10 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11215,"name":"Coach cab (between towns)",
+"full_text":"
+<div><h2>Coach cab (between towns)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 3 cp per mile<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"3 cp per mile",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11216,"name":"Coach cab (within a city)",
+"full_text":"
+<div><h2>Coach cab (within a city)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 1 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"1 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11217,"name":"Hireling (skilled)",
+"full_text":"
+<div><h2>Hireling (skilled)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 2 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"2 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11218,"name":"Hireling (untrained)",
+"full_text":"
+<div><h2>Hireling (untrained)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 2 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"2 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11219,"name":"Messenger",
+"full_text":"
+<div><h2>Messenger</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 2 cp per mile<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"2 cp per mile",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11220,"name":"Road or gate toll",
+"full_text":"
+<div><h2>Road or gate toll</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 1 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"1 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"Usergen"},
+
+{"id":11221,"name":"Ship's passage",
+"full_text":"
+<div><h2>Ship's passage</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 1 sp per mile<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"1 sp per mile",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11131,"name":"Shield",
+"full_text":"
+<div><h2>Shield</h2>
+<p>&nbsp;</p>
+<p>A shield is made &nbsp;from wood or metal and is carried in one hand. Wielding a shield increases yourArmor Class by 2. You can benefit only from one shield at a time.</p>
+<p><b>Family:</b> Armor and Shields<br /><b>Category:</b> Armor<br /><b>Subcategory:</b> Shields<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Armor and Shields",
+"category":"Armor",
+"subcategory":"Shields",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"+2",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11132,"name":"Morningstar",
+"full_text":"
+<div><h2>Morningstar</h2>
+<p><b>Family:</b> Weapons<br /><b>Category:</b> Martial Weapons<br /><b>Subcategory:</b> One-Handed Melee Weapons<br /><b>Type:</b> Piercing</p>
+<hr />
+<p><i>Damage medium:</i> 1d8</p>
+<hr />
+<p><b>Cost:</b> 15 gp<br /><b>Weight:</b> 4 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Weapons",
+"category":"Martial Weapons",
+"subcategory":"One-Handed Melee Weapons",
+"cost":"15 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"1d8",
+"weight":"4 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"Piercing",
+"reference":"PhB"},
+
+{"id":11133,"name":"Alchemist's supplies",
+"full_text":"
+<div><h2>Alchemist's supplies</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 50 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11134,"name":"Calligrapher's supplies",
+"full_text":"
+<div><h2>Calligrapher's supplies</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services</p>
+<p><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11135,"name":"Carpenter's tools",
+"full_text":"
+<div><h2>Carpenter's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 8 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"8 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11136,"name":"Cartographer's tools",
+"full_text":"
+<div><h2>Cartographer's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 15 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"15 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11137,"name":"Cobbler's tools",
+"full_text":"
+<div><h2>Cobbler's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 5 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"5 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11138,"name":"Cook's utensils",
+"full_text":"
+<div><h2>Cook's utensils</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11139,"name":"Glassblower's tools",
+"full_text":"
+<div><h2>Glassblower's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11140,"name":"Jeweler's tools",
+"full_text":"
+<div><h2>Jeweler's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11141,"name":"Leatherworker's tools",
+"full_text":"
+<div><h2>Leatherworker's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 5 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"5 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11142,"name":"Mason's tools",
+"full_text":"
+<div><h2>Mason's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11143,"name":"Painter's supplies",
+"full_text":"
+<div><h2>Painter's supplies</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11144,"name":"Potter's tools",
+"full_text":"
+<div><h2>Potter's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 3 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"3 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11145,"name":"Smith's tools",
+"full_text":"
+<div><h2>Smith's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 20 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"20 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11146,"name":"Tinker's tools",
+"full_text":"
+<div><h2>Tinker's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 50 gp<br /><b>Weight:</b> 10 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"10 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11147,"name":"Weaver's tools",
+"full_text":"
+<div><h2>Weaver's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11148,"name":"Woodcarver's tools",
+"full_text":"
+<div><h2>Woodcarver's tools</h2>
+<p>These special tools include the items needed to pursue this single craft or trade. Proficiency with this set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools. Each type of artisan's tools requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Weight:</b> 5 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"5 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11149,"name":"Disguise kit",
+"full_text":"
+<div><h2>Disguise kit</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>
+</div>
+</div>
+</div>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b>&nbsp;Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 3 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"3 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11150,"name":"Dice set",
+"full_text":"
+<div><h2>Dice set</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>Gaming Set. This item encompasses a wide range<br /> of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 sp<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11151,"name":"Dragonchess set",
+"full_text":"
+<div><h2>Dragonchess set</h2>
+<p>Gaming Set. This item encompasses a wide range<br />of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Weight:</b> 1/2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1/2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11152,"name":"Playing card set",
+"full_text":"
+<div><h2>Playing card set</h2>
+<p>Gaming Set. This item encompasses a wide range<br />of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11153,"name":"Three-Dragon Ante set",
+"full_text":"
+<div><h2>Three-Dragon Ante set</h2>
+<p>Gaming Set. This item encompasses a wide range<br />of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 1 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"1 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11154,"name":"Thieves' tools",
+"full_text":"<h2>Thieves' tools</h2>
+<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11155,"name":"Bagpipes",
+"full_text":"<h2>Bagpipes</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 6 lb<br /><b>Reference:</b> </p>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"6 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11156,"name":"Drum",
+"full_text":"<h2>Drum</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 6 gp<br /><b>Weight:</b> 3 lb<br /><b>Reference:</b> </p>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"6 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"3 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11157,"name":"Dulcimer",
+"full_text":"
+<div><h2>Dulcimer</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 25 gp<br /><b>Weight:</b> 10 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"25 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"10 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11158,"name":"Flute",
+"full_text":"
+<div><h2>Flute</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b>&nbsp;2 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"35 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11159,"name":"Lute",
+"full_text":"
+<div><h2>Lute</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 35 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"35 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11160,"name":"Lyre",
+"full_text":"
+<div><h2>Lyre</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11161,"name":"Horn",
+"full_text":"
+<div><h2>Horn</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 3 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"3 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11162,"name":"Pan Flute",
+"full_text":"
+<div><h2>Pan Flute</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 12 gp<br /><b>Weight:</b> 2 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"12 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"2 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11163,"name":"Shawm",
+"full_text":"
+<div><h2>Shawm</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 2 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"2 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11164,"name":"Viol",
+"full_text":"
+<div><h2>Viol</h2>
+<div class="page" title="Page 155">
+<div class="layoutArea">
+<div class="column">
+<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to&nbsp;any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10 of the PH. Each type of musical instrument requires a separate proficiency.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Tools and Skill Kits<br /><b>Cost:</b> 30 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Tools and Skill Kits",
+"cost":"30 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11165,"name":"Donkey",
+"full_text":"
+<div><h2>Donkey</h2>
+<p><b>Carrying capacity: </b>420 lb</p>
+<p><b>Speed: </b>40 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 8 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"8 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11166,"name":"Mule",
+"full_text":"
+<div><h2>Mule</h2>
+<p><b>Carrying capacity: </b>420 lb</p>
+<p><b>Speed: </b>40 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 8 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"8 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11167,"name":"Horse (draft)",
+"full_text":"
+<div><h2>Horse (draft)</h2>
+<p><b>Carrying capacity:&nbsp;</b>540 lb</p>
+<p><b>Speed: </b>40 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 50 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11168,"name":"Horse (riding)",
+"full_text":"
+<div><h2>Horse (riding)</h2>
+<p><b>Carrying capacity:&nbsp;</b>480 lb</p>
+<p><b>Speed: </b>60 ft</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 75 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"75 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11169,"name":"Bit and bridle",
+"full_text":"
+<div><h2>Bit and bridle</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 2 gp<br /><b>Weight:</b> 1 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"2 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"1 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11170,"name":"Carriage",
+"full_text":"
+<div><h2>Carriage</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 100 gp<br /><b>Weight:</b> 600 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"100 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"600 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11171,"name":"Cart",
+"full_text":"
+<div><h2>Cart</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 15 gp<br /><b>Weight:</b> 200 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"15 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"200 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11172,"name":"Chariot",
+"full_text":"
+<div><h2>Chariot</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 250 gp<br /><b>Weight:</b> 100 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"250 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"100 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11173,"name":"Feed (per day)",
+"full_text":"
+<div><h2>Feed (per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 5 cp<br /><b>Weight:</b> 10 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"5 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"10 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11174,"name":"Saddle (Exotic)",
+"full_text":"
+<div><h2>Saddle (Exotic)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 60 gp<br /><b>Weight:</b> 40 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"60 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"40 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11175,"name":"Saddle (Military)",
+"full_text":"
+<div><h2>Saddle (Military)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 20 gp<br /><b>Weight:</b> 30 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"20 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"30 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11176,"name":"Saddle (Pack)",
+"full_text":"
+<div><h2>Saddle (Pack)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 5 gp<br /><b>Weight:</b> 15 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"5 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"15 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11177,"name":"Saddle (Riding)",
+"full_text":"
+<div><h2>Saddle (Riding)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 10 gp<br /><b>Weight:</b> 25 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"25 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11178,"name":"Saddlebags",
+"full_text":"
+<div><h2>Saddlebags</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 4 gp<br /><b>Weight:</b> 8 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"4 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"8 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11179,"name":"Sled",
+"full_text":"
+<div><h2>Sled</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 20 gp<br /><b>Weight:</b> 300 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"20 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"300 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11180,"name":"Stabling (per day)",
+"full_text":"
+<div><h2>Stabling (per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11181,"name":"Wagon",
+"full_text":"
+<div><h2>Wagon</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Mounts and Related Gear<br /><b>Cost:</b> 35 gp<br /><b>Weight:</b> 400 lb<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Mounts and Related Gear",
+"cost":"35 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"400 lb",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11182,"name":"Galley",
+"full_text":"
+<div><h2>Galley</h2>
+<p><b>Speed:&nbsp;</b>4 mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 30000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"30000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11183,"name":"Keelboat",
+"full_text":"
+<div><h2>Keelboat</h2>
+<p><b>Speed: </b>1&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 3000 gp<br /><b>Reference:</b></p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"3000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11184,"name":"Longship",
+"full_text":"
+<div><h2>Longship</h2>
+<p><b>Speed:&nbsp;</b>3&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 10000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"10000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11185,"name":"Rowboat",
+"full_text":"
+<div><h2>Rowboat</h2>
+<p><b>Speed:&nbsp;</b>1 1/2&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 50 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"50 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11186,"name":"Sailing ship",
+"full_text":"
+<div><h2>Sailing ship</h2>
+<p><b>Speed:&nbsp;</b>2 mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 10000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"10000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11187,"name":"Warship",
+"full_text":"
+<div><h2>Warship</h2>
+<p><b>Speed: </b>2 1/2&nbsp;mph</p>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 25000 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Transport",
+"cost":"25000 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11188,"name":"Lifestyle Expenses (Wretched)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Wretched)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 0<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"0",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11189,"name":"Lifestyle Expenses (Squalid)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Squalid)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11190,"name":"Lifestyle Expenses (Poor)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Poor)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11191,"name":"Lifestyle Expenses (Modest)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Modest)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11192,"name":"Lifestyle Expenses (Comfortable)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Comfortable)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11193,"name":"Lifestyle Expenses (Wealthy)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Wealthy)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 4 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"4 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11194,"name":"Lifestyle Expenses (Aristocratic)",
+"full_text":"
+<div><h2>Lifestyle Expenses (Aristocratic)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 10 gp per day minimum<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"10 gp per day minimum",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11195,"name":"Ale (gallon)",
+"full_text":"
+<div><h2>Ale (gallon)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11196,"name":"Ale (mug)",
+"full_text":"
+<div><h2>Ale (mug)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 4 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"4 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11197,"name":"Banquet (per person)",
+"full_text":"
+<div><h2>Banquet (per person)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 10 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11198,"name":"Bread (loaf)",
+"full_text":"
+<div><h2>Bread (loaf)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11199,"name":"Cheese (hunk)",
+"full_text":"
+<div><h2>Cheese (hunk)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11200,"name":"Inn stay (Squalid, per day)",
+"full_text":"
+<div><h2>Inn stay (Squalid, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 7 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"7 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11201,"name":"Inn stay (Poor, per day)",
+"full_text":"
+<div><h2>Inn stay (Poor, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 1 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"1 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11202,"name":"Inn stay (Modest, per day)",
+"full_text":"
+<div><h2>Inn stay (Modest, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11203,"name":"Inn stay (Comfortable, per day)",
+"full_text":"
+<div><h2>Inn stay (Comfortable, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 8 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"8 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11204,"name":"Inn stay (Wealthy, per day)",
+"full_text":"
+<div><h2>Inn stay (Wealthy, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 gp <br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 gp  ",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11205,"name":"Inn stay (Aristocratic, per day)",
+"full_text":"
+<div><h2>Inn stay (Aristocratic, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 4 gp <br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"4 gp ",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11206,"name":"Meals (Squalid, per day)",
+"full_text":"
+<div><h2>Meals (Squalid, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 3 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"3 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11207,"name":"Meals (Poor, per day)",
+"full_text":"
+<div><h2>Meals (Poor, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 6 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"6 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11208,"name":"Meals (Modest, per day)",
+"full_text":"
+<div><h2>Meals (Modest, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 3 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"3 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11209,"name":"Meals (Comfortable, per day)",
+"full_text":"
+<div><h2>Meals (Comfortable, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 5 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"5 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11210,"name":"Meals (Wealthy, per day)",
+"full_text":"
+<div><h2>Meals (Wealthy, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 8 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"8 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11211,"name":"Meals (Aristocratic, per day)",
+"full_text":"
+<div><h2>Meals (Aristocratic, per day)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11212,"name":"Meat (chunk)",
+"full_text":"
+<div><h2>Meat (chunk)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 3 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"3 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11213,"name":"Wine (common, pitcher)",
+"full_text":"
+<div><h2>Wine (common, pitcher)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 2 sp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"2 sp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11214,"name":"Wine (fine, bottle)",
+"full_text":"
+<div><h2>Wine (fine, bottle)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Item<br /><b>Subcategory:</b> Food, Drink, and Lodging<br /><b>Cost:</b> 10 gp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Item",
+"subcategory":"Food, Drink, and Lodging",
+"cost":"10 gp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11215,"name":"Coach cab (between towns)",
+"full_text":"
+<div><h2>Coach cab (between towns)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 3 cp per mile<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"3 cp per mile",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11216,"name":"Coach cab (within a city)",
+"full_text":"
+<div><h2>Coach cab (within a city)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 1 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"1 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11217,"name":"Hireling (skilled)",
+"full_text":"
+<div><h2>Hireling (skilled)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 2 gp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"2 gp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11218,"name":"Hireling (untrained)",
+"full_text":"
+<div><h2>Hireling (untrained)</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 2 sp per day<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"2 sp per day",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11219,"name":"Messenger",
+"full_text":"
+<div><h2>Messenger</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 2 cp per mile<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"2 cp per mile",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11220,"name":"Road or gate toll",
+"full_text":"
+<div><h2>Road or gate toll</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 1 cp<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"1 cp",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"},
+
+{"id":11221,"name":"Ship's passage",
+"full_text":"
+<div><h2>Ship's passage</h2>
+<p><b>Family:</b> Goods and Services<br /><b>Category:</b> Services<br /><b>Subcategory:</b> Transport<br /><b>Cost:</b> 1 sp per mile<br /><b>Reference:</b> </p>
+</div>",
+"family":"Goods and Services",
+"category":"Services",
+"subcategory":"Transport",
+"cost":"1 sp per mile",
+"dmg_s":"",
+"armor_shield_bonus":"",
+"maximum_dex_bonus":"",
+"dmg_m":"",
+"weight":"",
+"critical":"",
+"armor_check_penalty":"",
+"type":"None",
+"reference":"PhB"}

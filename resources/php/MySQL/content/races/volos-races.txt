@@ -1,0 +1,212 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[{"id":436,
+"name":"Aasimar",
+"full_text":"<h1>Aasimar</h1><h2>Aasimar Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Charisma score increases by 2.</p>
+<p><strong>Age.</strong> Aasimar mature at the same rate as humans, but they can live up to 160 years.</p>
+<p><strong>Alignment.</strong> Imbued with celestial power, most Aasimar are good. Outcast Aasimar are most often neutral or even evil.</p>
+<p><strong>Size.</strong> Aasimar have the same range of height and weight as humans.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Celestial Resistance.</strong> You have resistance to necrotic damage and radiant damage.</p>
+<p><strong>Healing Hands</strong>. As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.</p>
+<p><strong>Light Bearer</strong>. You know the <a href="http://spell.com/light" target="_blank">light</a>&nbsp;cantrip. Charisma is your spellcasting ability for it.</p>
+<p><strong>Languages</strong>. You can speak, read, and write Common and Celestial.</p>
+<p><strong>Subrace.</strong> Three subraces of aasimar exist: protector aasimar, scourge aasimar, and fallen aasimar. Choose one of them for your character.</p>
+<p>&nbsp;</p><hr />
+<p>&nbsp;</p><h2>Protector Aasimar</h2>
+<p>Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil.</p>
+<p><strong>Ability Score Increase.</strong> Your Wisdom score increases by 1.</p>
+<p><strong>Radiant Soul.</strong> Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.</p>
+<p>Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</p>
+<p>Once you use this trait, you can't use it again until you finish a long rest.</p>
+<p>&nbsp;</p><hr />
+<p>&nbsp;</p><h2>Scourge Aasimar</h2>
+<p>Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil &ndash; a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 1.</p>
+<p><strong>Radiant Consumption.</strong> Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.</p>
+<p>Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</p>
+<p>Once you use this trait, you can't use it again until you finish a long rest.</p>
+<p>&nbsp;</p><hr /><h2>Fallen Aasimar</h2>
+<p>An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen-a group of aasimar whose inner light has been replaced by shadow.</p>
+<p><strong>Ability Score Increase.</strong> Your Strength score increases by 1.</p>
+<p><strong>Necrotic Shroud.</strong> Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.</p>
+<p>Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.</p>
+<p>Once you use this trait, you can't use it again until you finish a long rest.</p>",
+"reference":"Usergen"},
+
+{"id":437,
+"name":"Firbolg",
+"full_text":"<h1>Firbolg</h1><h2>Firbolg Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Wisdom score increases by 2, and your Strength score increases by 1.</p>
+<p><strong>Age</strong>. As humanoids related to the fey, Firbolg have long lifespans. A Firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.</p>
+<p><strong>Alignment.</strong> As people who follow the rhythm of nature and see themselves as its caretakers, Firbolg are typically neutral good. Evil Firbolg are rare and are usually the sworn enemies of the rest of their kind.</p>
+<p><strong>Size.</strong> Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Firbolg Magic.</strong> You can cast <em><a href="http://spell.com/detect magic" target="_blank">detect magic</a>&nbsp;</em>and <em><a href="http://spell.com/disguise self" target="_blank">disguise self</a></em>&nbsp;with this trait, using Wisdom as your spell casting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of <em>disguise self</em>, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.</p>
+<p><strong>Hidden Step.</strong> As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.</p>
+<p><strong>Powerful Build.</strong> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p>
+<p><strong>Speech of Beast and Leaf.</strong> You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common, Elvish, and Giant.</p>",
+"reference":"Usergen"},
+
+{"id":438,
+"name":"Kenku",
+"full_text":"<h1>Kenku</h1><h2>Kenku Traits</h2>
+<p><strong>Ability Scare Increase.</strong> Your Dexterity score increases by 2, and your Wisdom score increases by 1.</p>
+<p><strong>Age.</strong> Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60.</p>
+<p><strong>Alignment.</strong> Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook.</p>
+<p><strong>Size.</strong> Kenku are around 5 feet tall and weigh between 90 and 120 pounds. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Expert Forgery.</strong> You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.</p>
+<p><strong>Kenku Training.</strong> You are proficient in your choice of two of the following skills: <a href="http://skills.com/Acrobatics" target="_blank">Acrobatics</a>, <a href="http://skills.com/Deception" target="_blank">Deception</a>, <a href="http://skills.com/Stealth" target="_blank">Stealth</a>, and <a href="http://skills.com/Sleight of Hand" target="_blank">Sleight of Hand</a>.</p>
+<p><strong>Mimicry.</strong> You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (<a href="http://skills.com/Insight" target="_blank">Insight</a>) check opposed by your Charisma (Deception) check.</p>
+<p><strong>Languages.</strong> You can read and write Common and Auran, but you can speak only by using your Mimicry trait.</p>",
+"reference":"Usergen"},
+
+{"id":439,
+"name":"Lizardfolk",
+"full_text":"<h1>Lizardfolk</h1><h2>Lizardfolk Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2, and your Wisdom score increases by 1.</p>
+<p><strong>Age.</strong> Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.</p>
+<p><strong>Alignment.</strong> Most Lizardfolk are neutral. They see the world as a place of predators and prey, where life and death are natural processes. They wish only to survive, and prefer to leave other creatures to their own devices.</p>
+<p><strong>Size.</strong> Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet, and you have a swimming speed of 30 feet.</p>
+<p><strong>Bite.</strong> Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+<p><strong>Cunning Artisan.</strong> As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.</p>
+<p><strong>Hold Breath.</strong> You can hold your breath for up to 15 minutes at a time.</p>
+<p><strong>Hunter's Lore.</strong> You gain proficiency with two of the following skills of your choice: <a href="http://skills.com/Animal Handling" target="_blank">Animal Handling</a>, <a href="http://skills.com/Nature" target="_blank">Nature</a>, <a href="http://skills.com/Perception" target="_blank">Perception</a>, <a href="http://skills.com/Stealth" target="_blank">Stealth</a>, and <a href="http://skills.com/Survival" target="_blank">Survival</a>.</p>
+<p><strong>Natural Armor.</strong> You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</p>
+<p><strong>Hungry Jaws. </strong>In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.</p>
+<p><strong>Languages. </strong>You can speak, read, and write Common and Draconic.</p>",
+"reference":"Usergen"},
+
+{"id":440,
+"name":"Tabaxi",
+"full_text":"<h1>Tabaxi</h1><h2>Tabaxi Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 2, and your Charisma score increases by 1.</p>
+<p><strong>Age.</strong> Tabaxi have lifespans equivalent to humans.</p>
+<p><strong>Alignment.</strong> Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed or other dark impulses.</p>
+<p><strong>Size.</strong> Tabaxi are taller on average than humans and relatively slender. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Feline Agility.</strong> Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the tum. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.</p>
+<p><strong>Cat's Claws.</strong> Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+<p><strong>Cat's Talent.</strong> You have proficiency in the <a href="http://skills.com/Perception" target="_blank">Perception</a>&nbsp;and <a href="http://skills.com/Stealth" target="_blank">Stealth</a>&nbsp;skills.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and one other language of your choice.</p>",
+"reference":"Usergen"},
+
+{"id":441,
+"name":"Triton",
+"full_text":"<h1>Triton</h1><h2>Triton Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Strength, Constitution, and Charisma scores each increase by 1.</p>
+<p><strong>Age.</strong> Tritons reach maturity around age 15 and can live up to 200 years.</p>
+<p><strong>Alignment.</strong> Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence.</p>
+<p><strong>Size</strong>. Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet, and you have a swimming speed of 30 feet.</p>
+<p><strong>Amphibious.</strong> You can breathe air and water.</p>
+<p><strong>Control Air and Water.</strong> A child of the sea, you can call on the magic of elemental air and water. You can cast <em><a href="http://spell.com/fog cloud" target="_blank">fog cloud</a></em>&nbsp;with this trait. Starting at 3rd level, you can cast <em><a href="http://spell.com/gust of wind" target="_blank">gust of wind</a></em>&nbsp;with it, and starting at 5th level, you can also cast <em><a href="http://spell.com/wall of water" target="_blank">wall of water</a></em>&nbsp;with it. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+<p><strong>Emissary of the Sea.</strong> Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.</p>
+<p><strong>Guardians of the Depths.</strong> Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Primordial.</p>",
+"reference":"Usergen"},
+
+{"id":442,
+"name":"Bugbear",
+"full_text":"<h1>Bugbear</h1><h2>Bugbear Traits</h2>
+<p><strong>Ability Score Increase. </strong>Your Strength score increases by 2, and your Dexterity score increases by 1.</p>
+<p><strong>Age. </strong>Bugbears reach adulthood at age 16 and live up to 80 years.</p>
+<p><strong>Alignment</strong>. Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic evil.</p>
+<p><strong>Size. </strong>Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium.</p>
+<p><strong>Speed. </strong>Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision. </strong>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Long-Limbed. </strong>When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.</p>
+<p><strong>Powerful Build. </strong>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p>
+<p><strong>Sneaky. </strong>You are proficient in the <a href="http://skill.com/Stealth" target="_blank">Stealth</a>&nbsp;skill.</p>
+<p><strong>Surprise Attack. </strong>If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.</p>
+<p><strong>Languages. </strong>You can speak, read, and write Common and Goblin.</p>",
+"reference":"Usergen"},
+
+{"id":443,
+"name":"Goblin",
+"full_text":"<h1>Goblin</h1><h2>Goblin Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 2, and your Constitution score increases by 1.</p>
+<p><strong>Age.</strong> Goblins reach adulthood at age 8 and live up to 60 years.</p>
+<p><strong>Alignment.</strong> Goblins are typically neutral evil, as they care only for their own needs. A few goblins might tend toward good or neutrality, but only rarely.</p>
+<p><strong>Size.</strong> Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.</p>
+<p><strong>Speed</strong>. Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Fury of the Small.</strong> When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.</p>
+<p><strong>Nimble Escape.</strong> You can take the Disengage or Hide action as a bonus action on each of your turns.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Goblin.</p>",
+"reference":"Usergen"},
+
+{"id":444,
+"name":"Hobgoblin",
+"full_text":"<h1>Hobgoblin</h1><h2>Hobgoblin Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2, and your Intelligence score increases by 1.</p>
+<p><strong>Age.</strong> Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.</p>
+<p><strong>Alignment.</strong> Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil.</p>
+<p><strong>Size.</strong> Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision</strong>. You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Martial Training.</strong> You are proficient with two martial weapons of your choice and with light armor.</p>
+<p><strong>Saving Face.</strong> Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Goblin.</p>",
+"reference":"Usergen"},
+
+{"id":445,
+"name":"Kobold",
+"full_text":"<h1>Kobold</h1><h2>Kobold Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 2, and your Strength score is reduced by 2.</p>
+<p><strong>Age.</strong> Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so.</p>
+<p><strong>Alignment.</strong> Kobolds are fundamentally selfish, making them evil, but their reliance on the strength of their group makes them trend toward law.</p>
+<p><strong>Size.</strong> Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Grovel, Cower, and Beg.</strong> As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest.</p>
+<p><strong>Pack Tactics.</strong> You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
+<p><strong>Sunlight Sensitivity.</strong> You have disadvantage on attack rolls and on Wisdom (<a href="http://skill.com/Perception" target="_blank">Perception</a>) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Draconic.</p>",
+"reference":"Usergen"},
+
+{"id":446,
+"name":"Orc",
+"full_text":"<h1>Orc</h1><h2>Orc Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Strength score increases by 2, your Constitution score increases by 1, and your Intelligence score is reduced by 2.</p>
+<p><strong>Age.</strong> Ores reach adulthood at age 12 and live up to 50 years.</p>
+<p><strong>Alignment.</strong> Ores are vicious raiders, who believe that the world should be theirs. They also respect strength above all else and believe the strong must bully the weak to ensure that weakness does not spread like a disease. They are usually chaotic evil.</p>
+<p><strong>Size.</strong> Ores are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+<br />
+ <strong>Aggressive.</strong> As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.</p>
+<p><strong>Menacing.</strong> You are trained in the <a href="http://skill.com/Intimidation" target="_blank">Intimidation</a>&nbsp;skill.</p>
+<p><strong>Powerful Build.</strong> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Orc.</p>",
+"reference":"Usergen"},
+
+{"id":447,
+"name":"Yuan-ti",
+"full_text":"<h1>Yuan-ti</h1><h2>Yuan-ti Traits</h2>
+<p><strong>Ability Score Increase.</strong> Your Charisma score increases by 2, and your Intelligence score increases by 1.</p>
+<p><strong>Age.</strong> Purebloods mature at the same rate as humans and have lifespans similar in length to theirs.</p>
+<p><strong>Alignment.</strong> Purebloods are devoid of emotion and see others as tools to manipulate. They care little for law or chaos and are typically neutral evil.</p>
+<p><strong>Size.</strong> Purebloods match humans in average size and weight. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong>Innate Spellcasting.</strong> You know the <em><a href="http://spell.com/poison spray" target="_blank">poison spray</a>&nbsp;</em>cantrip. You can cast <em><a href="http://spell.com/animal friendship" target="_blank">animal friendship</a></em>&nbsp;an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast <em><a href="http://spell.com/suggestion" target="_blank">suggestion</a>&nbsp;</em>with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+<p><strong>Magic Resistance.</strong> You have advantage on saving throws against spells and other magical effects.</p>
+<p><strong>Poison Immunity.</strong> You are immune to poison damage and the poisoned condition.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common, Abyssal, and Draconic.</p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[]]

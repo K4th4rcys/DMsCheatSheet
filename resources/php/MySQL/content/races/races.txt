@@ -1,0 +1,89 @@
+[{"id":929,"name":"Elf (Dark/Drow)",
+"full_text":"<h1>Elf (Dark/Drow)</h1>
+<p>Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to&nbsp;evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac. silver, pink. red, and blue. They tend to be smaller and thinner than most elves.</p>
+<p>Drow adventurers are rare, and the race does not exist in all worlds. Check with your Dungeon Master to see<br /> if you can play a drow character.</p>
+<h2>Elf (Dark/Drow) Traits</h2>
+<p><strong>Ability Score Increase.</strong>Your Charisma score increases by 1.</p>
+<p><strong>Superior Darkvision.</strong> Your darkvision has a radius of 120 feet.</p>
+<p><strong>Sunlight Sensitivity.</strong> You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+<p><strong>Drow Magic.</strong>You know the dancing lights cantrip. When you reach 3rd level, you can cast the Merle fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells.</p>
+<p><strong>Drow Weapon Training.</strong> You have proficiency with rapiers, shortswords, and hand crossbows.</p>",
+"reference":"PhB"},
+
+{"id":931,"name":"Mountain Dwarf",
+"full_text":"<h1>Mountain Dwarf</h1>
+<p>See&nbsp;<a href="http://race.com/Dwarves, Hill Dwarves">Dwarves, Hill Dwarves</a> for details about the Dwarves.</p>
+<p>As a mountain dwarf, you're strong and hardy,&nbsp;accustomed to a difficult life in rugged terrain. You&rsquo;re probably on the tall side (for a dwarf), and tend toward lighter coloration.</p>
+<p>The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.</p>
+<h2>Mountain Dwarf Traits</h2>
+<p><strong>Ability Score Increase.</strong> <br />Your Strength score increases by 2.</p>
+<p><strong>Dwarven Armor Training.</strong></p>
+<p>You have proficiency with light and medium armor.</p>",
+"reference":"PH"},
+
+{"id":932,"name":"Wood Elf",
+"full_text":"<h1>Wood Elf</h1>
+<p>See <a href="http://race.com/Elves, High Elves">Elves, High Elves</a>&nbsp;for details about the Elves in general.</p>
+<p>As a wood elf, you have keen senses and intuition, and<br />your fleet feet carry you quickly and stealthily through your native forests. This category includes the w<em>ild elves (grugach) of Greyhawk</em> and the <em>Kagonesti of Dragonlance</em>, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves.</p>
+<p>Wood elves&rsquo; skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.</p>
+<h2>Wood Elf Traits</h2>
+<p><em><strong>Ability Score Increase.</strong> </em><br />Your Wisdom score increases by 1.</p>
+<p><em><strong>Elf Weapon Training.</strong> </em><br />You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+<p><em><strong>Fleet of Foot.</strong></em><br />Your base walking speed increases to 35 feet.</p>
+<p><em><strong>Mask of the Wild.</strong> </em><br />You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>",
+"reference":"PH"},
+
+{"id":934,"name":"Stout Halfling",
+"full_text":"<h1>Stout</h1>
+<p>See&nbsp;<a href="http://race.com/Halflings, Lightfoot">Halflings, Lightfoot</a>&nbsp;for details about the Halflings&nbsp;in general.</p>
+<p>As a stout halfling, you're hardier than average and have&nbsp;some resistance to poison. Some say that stouts have&nbsp;dwarven blood. In the Forgotten Realms, these halflings&nbsp;are called stronghearts, and they&rsquo;re most common&nbsp;in the south.</p>
+<h2>Stout Traits</h2>
+<p><em><strong>Ability Score Increase</strong></em>.<br />Your Constitution score increases by 1.</p>
+<p><em><strong>Stout Resilience.</strong></em> <br />You have advantage on saving&nbsp;throws against poison, and you have resistance&nbsp;against poison damage.</p>",
+"reference":"PH"},
+
+{"id":935,"name":"Forest Gnome",
+"full_text":"<h1>Forest Gnome</h1>
+<p>See&nbsp;<a href="http://race.com/Gnomes, Rock Gnomes">Gnomes, Rock Gnomes</a>&nbsp;for details about the Gnomes&nbsp;in general.</p>
+<p>As a forest gnome, you have a natural knack for illusion&nbsp;and inherent quickness and stealth. In the worlds of&nbsp;D&amp;D, forest gnomes are rare and secretive. They gather&nbsp;in hidden communities in sylvan forests, using illusions&nbsp;and trickery to conceal themselves from threats or&nbsp;to mask their escape should they be detected. Forest&nbsp;gnomes tend to be friendly with other good-spirited&nbsp;woodland folk, and they regard elves and good fey as&nbsp;their most important allies. These gnomes also befriend small forest animals and rely on them for information&nbsp;about threats that might prowl their lands.</p>
+<h2>Forest Gnome Traits</h2>
+<p><em><strong>Ability Score Increase.</strong> </em><br />Your Dexterity score&nbsp;increases by 1.</p>
+<p><em><strong>Natural Illusionist.</strong> </em><br />You know the minor illusion&nbsp;cantrip. Intelligence is your spellcasting ability for it.</p>
+<p><em><strong>Speak with Small Beasts.</strong> </em><br />Through sounds and&nbsp;gestures, you can communicate simple ideas with Small&nbsp;or smaller beasts. Forest gnomes love animals and often&nbsp;keep squirrels, badgers, rabbits, moles, woodpeckers,&nbsp;and other creatures as beloved pets.</p>",
+"reference":"PH"},
+
+{"id":936,"name":"Humans",
+"full_text":"
+<div><h1><strong>Human</strong></h1><h2><strong>Human Traits</strong></h2>
+<p>It's hard to make generalizations about humans, but your human character has these traits.</p>
+<p><strong><em>Ability Score Increase. </em></strong> Your ability scores each increase by 1.</p>
+<p><strong><em>Age. </em></strong> Humans reach adulthood in their late teens and live less than a century.</p>
+<p><strong><em>Alignment. </em></strong> Humans tend toward no particular alignment. The best and the worst are found among them.</p>
+<p><strong><em>Size. </em></strong> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</p>
+<p><em>Speed. </em> Your base walking speed is 30 feet.<strong><em>&nbsp;</em></strong></p>
+<p><strong style="font-size: 12pt; -webkit-text-size-adjust: 100%;"><em>Languages. </em></strong>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.</p>
+<p>They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</p>
+</div>",
+"reference":"user"},
+
+{"id":938,"name":"Dwarves, Hill Dwarves",
+"full_text":"<h1><strong>Dwarf</strong></h1><h2><strong>Dwarf Traits</strong></h2>
+<p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>
+<p><em><strong>Ability Score Increase</strong><strong>.</strong> </em>Your Constitution score increases by 2.</p>
+<p><em><strong>Age</strong><strong>.</strong></em>&nbsp;Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</p>
+<p><em><strong>Alignment.</strong></em>&nbsp;Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.</p>
+<p><em><strong>Size.</strong></em>&nbsp;Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.</p>
+<p><em><strong>Speed. </strong></em>Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.</p>
+<p><em><strong>Darkvision. </strong></em>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><em><strong>Dwarven Resilience.</strong></em> You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+<p><em><strong>Dwarven Combat Training. </strong></em>You have proficiency with the battleaxe, handaxe. throwing hammer and warhammer.</p>
+<p><em><strong>Tool Proficiency.</strong></em> You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.</p>
+<p><em><strong>Stonecunning.</strong></em> Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>
+<p><em><strong>Languages.</strong></em> You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</p>
+<p><em><strong>Subraces.</strong></em> Two main subraces of dwarves populate the worlds of D&amp;D: hill dwarves and mountain dwarves. Choose one of these subraces.</p>
+<h2>Hill Dwarf</h2>
+<p>As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerein in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.</p>
+<p><em><strong>Ability Score Increase.</strong></em> Your Wisdom score increases by 1.</p>
+<p><em><strong>Dwarven Toughness.</strong></em> Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+<p>&nbsp;</p>",
+"reference":"PhB"}

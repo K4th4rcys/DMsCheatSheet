@@ -1,0 +1,210 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[{"id":498,
+"name":"Changeling",
+"full_text":"
+<p><span class="fontstyle0">Changelings are subtle shapeshifters capable of disguising their appearance. Their ability to adopt other creatures&rsquo; guises makes them consummate spies and criminals.
+<br />
+</span></p>
+<p><span class="fontstyle0">As a changeling, you have the following racial traits.</span></p>
+<p><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Dexterity and Charisma scores increase by 1.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Size.</strong> </span><span class="fontstyle0">Changelings are built much like humans, but a little leaner. Your size is Medium.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Speed.</strong> </span><span class="fontstyle0">Your base walking speed is 30 feet.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Duplicity.</strong> </span><span class="fontstyle0">You gain proficiency in the Deception skill.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Shapechanger.</strong> </span><span class="fontstyle0">As an action, you can polymorph into any humanoid of your size that you have seen, or back into your true form. However, your equipment does not change with you. If you die, you revert to your natural appearance.</span></p>
+<p><span class="fontstyle2"><strong>Languages.</strong> </span><span class="fontstyle0">You can speak, read, and write Common and two other languages of your choice.</span> </p>",
+"reference":"Usergen"},
+
+{"id":499,
+"name":"Shifter",
+"full_text":"
+<p><span class="fontstyle0">Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.
+<br />
+</span></p>
+<p><span class="fontstyle0">As a shifter, you have the following racial traits.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Dexterity score increases by 1.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Size.</strong> </span><span class="fontstyle0">Shifters are about the same size as humans. Your size is Medium.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Speed.</strong> </span><span class="fontstyle0">Your base walking speed is 30 feet.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Darkvision.</strong> </span><span class="fontstyle0">Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Shifting.</strong> </span><span class="fontstyle0">On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+<br />
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below.
+<br />
+You must finish a short or long rest before you can shift again.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Languages.</strong> </span><span class="fontstyle0">You can speak, read, and write Common and Sylvan.
+<br />
+</span></p>
+<p><span class="fontstyle2">Subrace. </span><span class="fontstyle0">Several subraces of shifter exist, each with its own animalistic features. Choose one of the options below.
+<br />
+</span></p>
+<p><span class="fontstyle0"><strong>Beasthide</strong>
+<br />
+</span><span class="fontstyle0">As a beasthide shifter, you are especially tough and persistent in battle.
+<br />
+</span><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Constitution score increases by 1.
+<br />
+</span><span class="fontstyle2"><strong>Shifting Feature.</strong> </span><span class="fontstyle0">While shifting, you gain a +1 bonus to AC.
+<br />
+</span></p>
+<p><strong><span class="fontstyle0">Cliffwalk
+<br />
+</span></strong><span class="fontstyle0">Your cliffwalk heritage grants you the agility of a mountain goat.
+<br />
+</span><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Dexterity score increases by 1.
+<br />
+</span><span class="fontstyle2"><strong>Shifting Feature.</strong> </span><span class="fontstyle0">While shifting, you gain a climb speed of 30 feet.
+<br />
+</span></p>
+<p><strong><span class="fontstyle0">Longstride
+<br />
+</span></strong><span class="fontstyle0">Longstride shifters are fleet and elusive.
+<br />
+</span><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Dexterity score increases by 1.
+<br />
+</span><span class="fontstyle2"><strong>Shifting Feature.</strong> </span><span class="fontstyle0">While shifting, you can use the Dash action as a bonus action.
+<br />
+</span></p>
+<p><strong><span class="fontstyle0">Longtooth
+<br />
+</span></strong><span class="fontstyle0">As a longtooth shifter, you are a ferocious combatant.
+<br />
+</span><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Strength score increases by 1.
+<br />
+</span><span class="fontstyle2"><strong>Shifting Feature.</strong> </span><span class="fontstyle0">While shifting, you can make a bite attack as an action. This is a melee weapon attack that uses Strength for its attack roll and damage bonus and deals 1d6 piercing damage. If this attack hits a target that is your size or smaller, the target is also grappled.
+<br />
+</span></p>
+<p><strong><span class="fontstyle0">Razorclaw
+<br />
+</span></strong><span class="fontstyle0">As a razorclaw shifter, you make swift, slashing strikes in battle.
+<br />
+</span><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Dexterity score increases by 1.
+<br />
+</span><span class="fontstyle2"><strong>Shifting Feature.</strong> </span><span class="fontstyle0">While shifting, you can make an unarmed strike as a bonus action. You can use your Dexterity for its attack roll and damage bonus, and this attack deals slashing damage.</span></p>
+<p><strong><span class="fontstyle0">Wildhunt
+<br />
+</span></strong><span class="fontstyle0">Your wildhunt heritage makes you a consummate tracker and survivor.
+<br />
+</span><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Wisdom score increases by 1.
+<br />
+</span><span class="fontstyle2"><strong>Shifting Feature.</strong> </span><span class="fontstyle0">While shifting, you gain advantage on all Wisdom-based checks and saving throws.</span> </p>",
+"reference":"Usergen"},
+
+{"id":500,
+"name":"Warforged",
+"full_text":"
+<p><span class="fontstyle0">The warforged were made as the ideal soldiers to serve in the devastating Last War. Although they are constructs, they have much in common with living creatures, including emotions and social bonds, and perhaps even souls.
+<br />
+</span></p>
+<p><span class="fontstyle0">Traits
+<br />
+</span><span class="fontstyle0">As a warforged, you have the following racial traits.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Ability Score Increase.</strong> </span><span class="fontstyle0">Your Strength and Constitution scores increase by 1.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Size.</strong> </span><span class="fontstyle0">Warforged are generally broader and heavier than humans. Your size is Medium.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Speed.</strong> </span><span class="fontstyle0">Your base walking speed is 30 feet.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Composite Plating.</strong> </span><span class="fontstyle0">Your construction incorporates wood and metal, granting you a +1 bonus to Armor Class.
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Living Construct.</strong> </span><span class="fontstyle0">Even though you were constructed, you are a living creature. You are immune to disease. You do not need to eat or breathe, but you can ingest food and drink if you wish. Instead of sleeping, you enter an inactive state for 4 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.&nbsp;</span></p>
+<p><span class="fontstyle2"><strong>Languages.</strong> </span><span class="fontstyle0">You can speak, read, and write Common and one other language of your choice.</span> </p>",
+"reference":"Usergen"},
+
+{"id":501,
+"name":"Minotaur",
+"full_text":"<h1><span class="fontstyle0">Minotaur (Krynn)</span></h1><hr />
+<p><span class="fontstyle0">In the world of Krynn, the setting of the Dragonlance saga, minotaurs live in an honoru2010based society where strength determines power in both the gladiatorial arenas and in daily life. At home on both land and sea, the minotaurs of Krynn are ferocious sea raiders who rank as the ablest and most dangerous sailors in the world. </span></p><h2><span class="fontstyle0">Arrogant Conquerors</span></h2>
+<p><span class="fontstyle0">Minotaurs embrace the notion that the weak should perish and that the strong must rule&mdash;and that they themselves are the strongest and most powerful race on Krynn. They believe their destiny is to rule the world, and that their dominion will be one of conquest and military might. To that end, all minotaurs are trained in weapons, armor, and tactics from a young age. The minotaurs&rsquo; arrogance stems from a combination of strength, cunning, and intellect&mdash;three virtues they hold dear, and which they deem the foundation of their greatness. They believe that this combination of traits is what sets them apart from their rivals. </span></p><h2><span class="fontstyle0">Trial by Combat 
+<br />
+</span></h2>
+<p><span class="fontstyle0">Minotaur society is built on the principle that might makes right, and that considerations of justice are unnecessary. The minotaurs are led by an emperor served by a council of eight minotaurs called the Supreme Circle. All posts within the government, including the emperor&rsquo;s, are won by the strongest and cleverest minotaurs, as proved by combat in the Circus. The Circus is the only means by which a minotaur can rise in society. It is a grand, annual display of single combat in which minotaurs battle each other for supremacy. Minotaur youths must prove themselves in the Circus to earn their passage to adulthood. Participation in the Circus is yet another reason why minotaurs look down on other folk. To the minotaurs, death and glory in battle are a natural process. Combat is the key to ensuring that the strong survive, and that the weak are set aside before they can undermine their superiors&rsquo; grand schemes of conquest. </span></p><h2><span class="fontstyle0">Honor above All 
+<br />
+</span></h2>
+<p><span class="fontstyle0">For all their cruelty, minotaurs are bound by a powerful sense of honor. Each victory brings greater honor to both individual minotaurs and their families. Defeat invokes a stain that only death can fully wash away. </span><span class="fontstyle0">Honor demands that minotaurs keep their word once it is offered, and each minotaur remains faithful to friends and clan above all else. Minotaurs rarely befriend folk of other races, as they all too often encounter them only in battle. If a minotaur does strike up a friendship, it is typically with other creatures that display the minotaurs&rsquo; virtues and love of battle. To such friends, a minotaur becomes an ally whose support will never waver. </span></p><h2><span class="fontstyle0">Sea Reavers 
+<br />
+</span></h2>
+<p><span class="fontstyle0">In the world of Krynn, the minotaurs rule a chain of islands dominated by the isles of Mithas and Kothas. Bound by the sea on all sides, the minotaurs focused their tenacity, strength, and cunning to become some of the most skilled and ferocious mariners in the world. They range across the water in their ships, raiding and pillaging as they wish. Minotaurs sometimes engage in trade, but they much prefer to take what they want by force. After all, as the strongest of all folk, they deserve the treasures and goods that lesser creatures have gathered. </span></p><h2><span class="fontstyle0">Minotaur Names </span></h2>
+<p><span class="fontstyle0">Minotaur clan names originate with a great hero whose descendants take on that name as their own, doing their best to live up to the ideals of their ancestor. On Krynn, clan names are always preceded by the prefix &ldquo;esu2010&rdquo; for minotaurs from lands controlled by the island of Mithas, or &ldquo;deu2010&rdquo; for minotaurs from areas under the sway of Kothas.</span></p>
+<p><strong><span class="fontstyle3">Male Names:</span></strong><span class="fontstyle0"> Beliminorgath, Cinmac, Dastrun, Edder, Galdar, Ganthirogani, Hecariverani, Kyris, Tosher, Zurgas 
+<br />
+</span><strong><span class="fontstyle3">Female Names:</span></strong><span class="fontstyle0"> Ayasha, Calina, Fliara, Helati, Keeli, Kyri, Mogara, Sekra, Tariki, Telia 
+<br />
+</span><strong><span class="fontstyle3">Clan Names:</span></strong><span class="fontstyle0"> Athak, Bregan, Entragath, Kaziganthi, Lagrangli, Mascun, Orilg, Sumarr, Teskos, Zhakan 
+<br />
+</span></p><h2><span class="fontstyle0">Minotaur Traits 
+<br />
+</span></h2>
+<p><span class="fontstyle0">Your minotaur character possesses a number of traits that reflect the power and superiority of your kind. 
+<br />
+</span></p>
+<p><strong><span class="fontstyle4">Ability Score Increase.</span></strong><span class="fontstyle0"> Your Strength score increases by 1. 
+<br />
+</span><strong><span class="fontstyle4">Conqueror&rsquo;s Virtue.</span></strong><span class="fontstyle0"> From a young age, you focused on one of the three virtues of strength, cunning, or intellect. Your choice of your Strength, Intelligence, or Wisdom score increases by 1. 
+<br />
+</span><strong><span class="fontstyle4">Age.</span></strong><span class="fontstyle0"> Minotaurs enter adulthood at around the age of 17 and can live up to 150 years. 
+<br />
+</span><strong><span class="fontstyle4">Alignment.</span></strong><span class="fontstyle0"> Minotaurs believe in a strict code of honor, and thus tend toward law. They are loyal to the death and make implacable enemies, even as their brutal culture and disdain for weakness push them toward evil. 
+<br />
+</span><strong><span class="fontstyle4">Size.</span></strong><span class="fontstyle0"> Minotaurs typically stand well over 6 feet tall and weigh an average of 300 pounds. Your size is Medium. 
+<br />
+</span><strong><span class="fontstyle4">Speed.</span></strong><span class="fontstyle0"> Your base walking speed is 30 feet. 
+<br />
+</span><strong><span class="fontstyle4">Horns.</span></strong><span class="fontstyle0"> You are never unarmed. You are proficient with your horns, which are a melee weapon that deals 1d10 piercing damage. Your horns grant you advantage on all checks made to shove a creature, but not to avoid being shoved yourself. 
+<br />
+</span><strong><span class="fontstyle4">Goring Rush.</span></strong><span class="fontstyle0"> When you use the Dash action during your turn, you can make a melee attack with your horns as a bonus action. 
+<br />
+</span><strong><span class="fontstyle4">Hammering Horns.</span></strong><span class="fontstyle0"> When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone. 
+<br />
+</span><strong><span class="fontstyle4">Labyrinthine Recall.</span></strong><span class="fontstyle0"> You can perfectly recall any path you have traveled. 
+<br />
+</span><strong><span class="fontstyle4">Sea Reaver.</span></strong><span class="fontstyle0"> You gain proficiency with navigator&rsquo;s tools and vehicles (water). 
+<br />
+</span><strong><span class="fontstyle4">Languages.</span></strong><span class="fontstyle0"> You can speak, read, and write Common. 
+<br />
+</span></p><h2><span class="fontstyle0">Minotaur Bonds 
+<br />
+</span></h2>
+<p><span class="fontstyle0">When creating a minotaur character rooted in Krynn (or in any campaign that draws on the backstory presented here), you can use the following table of bonds to help flesh out your character. Use this table in addition to or in place of your background&rsquo;s bond or a bond of your creation. </span></p><h3><span class="fontstyle5">d6 Bond
+<br />
+</span></h3><ol><li><span class="fontstyle2">My opponent in the Circus for my trial of adulthood was chosen years ago. Though we sparred only once, I fell deeply in love. Rather than fight my beloved to the death, I fled from home and have been branded a coward.</span></li><li><span class="fontstyle2">I&rsquo;m the last of my clan. If I die without achieving great deeds, the hero who is my clan&rsquo;s patron will be forgotten.</span></li><li><span class="fontstyle2">I was part of a raiding party that was defeated and enslaved. I&rsquo;ve escaped and sworn revenge.</span></li><li><span class="fontstyle2">I never shared my people&rsquo;s love of violence. I&rsquo;m part of a conspiracy to topple the emperor&rsquo;s violent regime.</span></li><li><span class="fontstyle2">I claim that I am an exile from my people, but in truth I have been sent to serve as a spy. I&rsquo;m expected to leave secret messages telling my folk of villages and towns that are ripe targets for conquest.</span></li><li><span class="fontstyle2">I&rsquo;m the last survivor of a ship wrecked in a storm. Occasionally, the spirits of my shipmates appear in my dreams and ask me to complete tasks they left unfinished in life.</span></li></ol><h2><span class="fontstyle2">Minotaurs in Your Campaign
+<br />
+</span></h2>
+<p><span class="fontstyle2">We chose the minotaurs of Krynn as the model for our depiction of this race for a very specific reason. Tying them to the sea and a distinct culture helps give minotaurs more flavor than serving as just another big, brutish monster race. After all, we already have halfu2010orcs in the </span><span class="fontstyle6">Player&rsquo;s Handbook </span><span class="fontstyle2">and the goliath in our&nbsp;</span><span class="fontstyle6">Elemental Evil Player&rsquo;s Companion. </span><span class="fontstyle2">As an added bonus, these minotaurs are Medium (as opposed to Large for the monstrous version) and are thus much easier to
+<br />
+balance against the </span><span class="fontstyle6">Player&rsquo;s Handbook </span><span class="fontstyle2">races. Casting minotaurs as conquestu2010minded, honorable pirates gives them a distinct flavor while providing many roleplaying hooks for players. When adding a new race to your own campaign, it&rsquo;s always a good idea to think about its culture, its relationship to other folk, and how the two can combine to give it a unique place in your world. Creating a table of bonds such as the one provided for minotaurs can be a good place to start. Casting minotaurs as mariners has some interesting implications for a setting. The Labyrinthine Recall ability makes minotaurs perfect sailors, as they can travel the eas with little fear of becoming lost or losing their way. A minotaur navigator is an unmatched master of the sea. When adapting races to your campaign, look for similar hooks that might be buried in special abilities or elements of a creature&rsquo;s story that you might otherwise overlook. Remember that the story we provide is only a starting point. Modifying this minotaur to move it away from its roots in Krynn is as easy as swapping the proficiencies&nbsp;provided by Sea Reaver for some other option that better reflects your setting. As a guideline, consider swapping the tool proficiencies for proficiency in any one skill, for proficiency with thieves&rsquo; tools, or for proficiency with two tools other than thieves&rsquo; tools.</span></p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[]]

@@ -1,0 +1,620 @@
+{"id":11315,
+"name":"Baba Lysaga's Creeping Hut",
+"full_text":"<h2>Baba Lysaga's Creeping Hut</h2>
+<p><em>gargantuan construct, unaligned</em></p><hr />
+<p>&nbsp;</p>
+<p><strong><strong>Armor Class&nbsp;</strong></strong>16 (natrual armor)</p>
+<p><strong>Hit Points</strong> 263 (17d20+85)</p>
+<p><strong>Speed</strong> 30ft</p><hr />
+<p>&nbsp;</p><table style="height: 61px;" width="463"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>26 (+8)</td><td>7 (-2)</td><td>20 (+5)</td><td>1 (-5)</td><td>3 (-4)</td><td>3 (-4)</td></tr></tbody></table><hr />
+<p><strong>Saving Throws&nbsp;</strong>Con+9, Wis +0, Cha +0</p>
+<p><strong>Damage Immunities&nbsp;</strong>poison, psychic&nbsp;</p>
+<p><strong>Condition Immunities&nbsp;</strong>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrifried, prone</p>
+<p><strong>Senses&nbsp;</strong>blindsight 120 ft. (blind beyond radius), Passive Perception 6&nbsp;</p>
+<p>&nbsp;</p>
+<p><b>Challenge rating:</b> 11</p><hr />
+<p><strong>Antimagic Susceptibility.</strong> The hut is incapacitated while the magic gem that animates it is in the area of an antimagic field.<br />If targeted by dispel magic, the hut must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for l minute.</p>
+<p><strong>Siege Monster.</strong> The hut deals double damage to objects and structures.</p><hr />
+<div class="monster-detail"><b><i>Multiattack.</i></b> The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Root.</i></b> Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 30 (4d10+8) bludgeoning damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Rock.</i></b> Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: 21 (3d8+8) bludegoning damage</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p>",
+"family":"Construct",
+"ch":"11",
+"size":"Gargantuan",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Construct",
+"challenge_rating":"11",
+"alignment":"Neutral",
+"reference":"Usergen"},
+{"id":11316,
+"name":"Broom of Animated Attack ",
+"full_text":"<h2>Broom of Animated Attack</h2><hr />
+<p>&nbsp;</p>
+<p><i>Small construct, unaligned</i><br /><b>Armor Class</b> 15 (natural armor)<br /><b>Hit Points</b> 17 (5d6)<br /><b>Speed</b> 0 ft., fly 50 ft. (hover)</p><hr /><table style="height: 49px;" width="409"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>10 (+0)</td><td>17 (+3)</td><td>10 (+0)</td><td>1 (-5)</td><td>5 (-3)</td><td>1 (-5)</td></tr></tbody></table><hr />
+<p><b>Damage Immunities</b> poison, psychic<br /><b>Condition Immunities</b> blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone<br /><b>Senses</b> blindsight 30 ft. (blind beyond this radius), passive Perception 7<br /><b>Challenge rating:</b>&nbsp;1/4 (50xp)</p><hr />
+<div class="monster-detail"><b><i>Constructed Nature</i></b> An animated object doesn't require air, food, drink, or sleep.<br />The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Antimagic Susceptibility.</i></b> The broom is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>False Appearance.</i></b> While the broom remains motionless and isn't flying, it is indistinguishable from a normal broom.</div>
+<div class="monster-sub-title">&nbsp;</div>
+<div class="monster-detail"><hr /></div>
+<div class="monster-detail"><b>Actions</b></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> The broom makes two melee attacks.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Broomstick.</i></b> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) bludgeoning damage.</div>
+<div class="monster-sub-title"><hr /></div>
+<div class="monster-sub-title"><strong>Reactions</strong></div>
+<div class="monster-detail"><b><i>Animated Attack.</i></b> If the broom is motionless and a creature grabs hold of it, the broom makes a Dexterity check contested by the creature's Strength check. If the broom wins the contest, it flies out of the creature's grasp and makes a melee attack against it with advantage on the attack roll.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p>",
+"family":"",
+"ch":"1",
+"size":"Small",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Construct",
+"challenge_rating":"1",
+"alignment":"Neutral",
+"reference":"Usergen"},
+
+{"id":11317,
+"name":"Guardian Portrait ",
+"full_text":"<h2>Guardian Portrait</h2>
+<p><i>Medium construct, unaligned</i></p><hr />
+<p>&nbsp;<b>Armor Class</b> 5 (natural armor)</p>
+<p><b>Hit Points</b> 22 (5d8)</p>
+<p><b>Speed</b> 0 ft.</p><hr />
+<p>&nbsp;</p><table style="height: 61px;" width="538"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>1 (-5)</td><td>1 (-5)</td><td>10 (+0)</td><td>14 (+2)</td><td>10 (+0)</td><td>10 (+0)</td></tr></tbody></table><hr />
+<p><b>Damage Immunities</b> poison<br /><b>Condition Immunities</b> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br /><b>Senses</b> darkvision 60 ft., passive Perception 10<br /><b>Languages</b> Common, plus up to two other languages</p>
+<p><b>Challenge rating:</b> 1 (200xp)</p><hr />
+<div class="monster-detail"><b><i>Constructed Nature</i></b> An animated object doesn't require air, food, drink, or sleep.<br />The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Antimagic Susceptibility.</i></b> The portrait is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the portrait must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Innate Spellcasting</i></b> The portrait's innate spellcasting ability os Intelligence (spell save DC 12). The portrait can innately cast the following spells, requiring no material components:<br />3/day each: counterspell, crown of madness, hypnotic pattern, telekinesis</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>False Appearance.</i></b> While the figure in the portrait remains motionless, it is indistinguishable from a normal painting.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p>",
+"family":"",
+"ch":"1",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Construct",
+"challenge_rating":"1",
+"alignment":"Neutral",
+"reference":"Usergen"},
+{"id":11318,
+"name":"Strahd's Animated Armor ",
+"full_text":"<h2>Strahd's Animated Armor</h2>
+<p><i>Medium construct, lawful evil</i></p><hr />
+<p><b>Armor Class</b> 21 (natural armor)<br /><b>Hit Points</b> 112 (15d8+45)<br /><b>Speed</b> 30 ft.</p>
+<p>&nbsp;</p><hr />
+<p>&nbsp;</p><table style="height: 61px;" width="517"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>17 (+3)</td><td>13 (+1)</td><td>16 (+3)</td><td>9 (-1)</td><td>10 (+0)</td><td>9 (-1)</td></tr></tbody></table><hr />
+<p><b>Skills</b> Perception +3<br /><b>Damage Resistances</b> cold, fire<br /><b>Damage Immunities</b> lightning, poison<br /><b>Condition Immunities</b> blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned<br /><b>Senses</b> blindsight 60 ft. (blind beyond this radius), passive Perception 13<br /><b>Languages</b> understands Common but can't speak<br /><b>Challenge</b> 6(2,300 XP)</p><hr />
+<div class="monster-detail"><b><i>Constructed Nature</i></b> An animated object doesn't require air, food, drink, or sleep.<br />The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Antimagic Susceptibility.</i></b> The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>False Appearance.</i></b> While the armor remains motionless, it is indistinguishable from a normal suit of armor.</div><hr />
+<p><strong>Actions</strong></p>
+<div class="monster-detail"><b><i>Multiattack.</i></b> The armor makes two melee attacks or uses Shocking Bolt twice.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Greatsword.</i></b> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage plus 3 (1d6) lightning damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Shocking Bolt.</i></b> Ranged Spell Attack: +4 to hit (with advantage on the attack roll if the target is wearing armor made of metal), range 60 ft., one target. Hit: 10 (3d6) lightning damage.</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><b>Reference:</b>&nbsp;CoS<br /><br /></p>",
+"family":"",
+"ch":"6",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Construct",
+"challenge_rating":"6",
+"alignment":"Lawful Evil",
+"reference":"Usergen"},
+
+{"id":11319,
+"name":"Baba Lysaga ",
+"full_text":"<h2>Baba Lysaga</h2>
+<p><i>Medium humanoid (human, shapchanger), chaotic evil</i></p><hr />
+<p><b>Armor Class</b> 15 (natural armor)<br /><b>Hit Points</b> 120 (16d8+48)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 40px;" width="536"><tbody><tr><td>&nbsp;STR</td><td>DEX&nbsp;</td><td>CON&nbsp;</td><td>INT&nbsp;</td><td>WIS&nbsp;</td><td>CHA&nbsp;</td></tr><tr><td>&nbsp;18 (+4)</td><td>10 (+0)&nbsp;</td><td>16 (+3)&nbsp;</td><td>20 (+5)&nbsp;</td><td>&nbsp;17 (+3)</td><td>13 (+1)&nbsp;</td></tr></tbody></table><hr />
+<p><b>Saving Throws</b> Wis +7<br /><b>Skills</b> Arcana +13, Religion +13<br /><b>Senses</b> passive Perception 13<br /><b>Languages</b> Abyssal, Common, Draconic, Dwarvish, Giant<br /><b>Challenge</b> 11(7,200 XP)</p><hr />
+<div class="monster-detail"><b><i>Shapechanger.</i></b> Baba Lysaga can use an action to polymorph into a swarm of insects (flies) or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Blessing of Mother Night.</i></b> Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spellcasting</i></b> Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following wizard spells prepared:<br />&bull; Cantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation<br />&bull;1st level (4 slots): detect magic, magic missile, sleep, witch bolt<br />&bull;2nd level (3 slots): crown of madness, enlarge/reduce, misty step<br />&bull;3rd level (3 slots): dispel magic, fireball, lightning bolt<br />&bull;4th level (3 slots): blight, Everard's black tentacles, polymorph<br />&bull;5th level (2 slots): cloudkill, geas, scrying<br />&bull;6th level (1 slot): programmed illusion, true seeing<br />&bull;7th level (1 slot): finger of death, mirage arcane<br />&bull;8th level (1 slot): power word stun</div><hr />
+<div class="monster-detail"><strong>Action</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> Baba Lysaga makes three attacks with her quarterstaff</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Quarterstaff.</i></b> Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) bludgeoning damage if wielded with two hands.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Summon Swarms of Insects (Recharges after a Short or Long Rest).</i></b> Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p>",
+"family":"",
+"ch":"11",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"11",
+"alignment":"Chaotic Evil",
+"reference":"Usergen"},
+
+{"id":11320,
+"name":"Barovian Witch",
+"full_text":"
+<div><h2>Barovian Witch</h2>
+<p><i>Medium humanoid (human), chaotic evil</i></p><hr />
+<p><b>Armor Class</b> 10<br /><b>Hit Points</b> 16 (3d8+3)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 40px;" width="566"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>7 (-2)</td><td>11 (+0)</td><td>13 (+1)</td><td>14 (+2)</td><td>11 (+0)</td><td>12 (+1)</td></tr></tbody></table><hr />
+<p><b>Skills</b> Arcana +4, Perception +2<br /><b>Senses</b> darkvision 60 ft., passive Perception 12<br /><b>Languages</b> Common<br /><b>Challenge</b> 1/2(100 XP)</p><hr />
+<p><b><i>Spellcasting</i></b> The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:<br />&bull; Cantrips (at will): mage hand, prestidigitation, ray of frost<br />&bull;1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter<br />&bull;2nd level (2 slots): alter self, invisibility</p><hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Claws (Requires Alter Self).</i></b> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) slashing damage. This attack is magical.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Dagger.</i></b> Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (1d4) piercing damage.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"1",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"1",
+"alignment":"Chaotic Evil",
+"reference":"Usergen"},
+
+
+{"id":11321,
+"name":"Tree Blight ",
+"full_text":"
+<div><h2>Tree Blight</h2>
+<p><i>Huge plant, neutral evil</i></p><hr />
+<p><b>Armor Class</b> 15 (natural armor)<br /><b>Hit Points</b> 149 (13d12+65)<br /><b>Speed</b> 30 ft</p><hr /><table style="height: 54px;" width="454"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CON</td></tr><tr><td>23 (+6)</td><td>10 (+0)</td><td>20 (+5)</td><td>6 (-2)</td><td>10 (+0)</td><td>3 (-4)</td></tr></tbody></table><br /><hr />
+<p><b>Condition Immunities</b> blinded, deafened<br /><b>Senses</b> blindsight 60 ft. (blind beyond this radius), passive Perception 10<br /><b>Languages</b> understands Common and Druidic but doesn't speak<br /><b>Challenge</b> 7(2,900 XP)</p><hr />
+<div class="monster-detail"><b><i>False Appearance.</i></b> While the blight remains motionless, it is indistinguishable from a dead tree.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Siege Monster.</i></b> The blight deals double damage to objects and structures.</div>
+<div class="monster-detail"><hr /></div>
+<div class="monster-detail"><b>Action</b></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> The blight makes four attacks: two with its branches and two with its grasping roots, If it has a target grappled, the blight can also make a bite attack against the target as a bonus action.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Bite.</i></b> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 19 (3d8+6) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Branch.</i></b> Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit (3d6+6) bludgeoning damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Grasping Root.</i></b> Melee Weapon Attack: +9 to hit, reach 15 ft., one creature not grappled by the blight. Hit: the target is grappled (escape DC 15). Until the grapple ends, the target takes 9 (1d6+6) bludegoning damage at the start of each of its turns. The root has AC 15 and can be severed by dealing 6 slashing damage or more to it at once. Cutting the root doesn't hurt the blight but ends the grapple.</div>
+<div class="monster-detail"><hr /></div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"7",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Plant",
+"challenge_rating":"7",
+"alignment":"Neutral Evil",
+"reference":"Usergen"},
+
+{"id":11322,
+"name":"Ezmerelda d'Avenir ",
+"full_text":"<h2>Ezmerelda d'Avenir</h2>
+<p><i>Medium humanoid (human), chaotic good</i></p><hr />
+<p><b>Armor Class</b> 17 (studded leather armor +1)<br /><b>Hit Points</b> 82 (11d8+33)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 59px;" width="514"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>14 (+2)</td><td>19 (+4)</td><td>16 (+3)</td><td>16 (+3)</td><td>11 (+0)</td><td>17 (+3)</td></tr></tbody></table><hr />
+<p><b>Saving Throws</b> Wis +3<br /><b>Skills</b> Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicine +3, Perception +6, Performance +6, Sleight of Hand +7, Stealth +7, Survival +6<br /><b>Senses</b> passive Perception 16<br /><b>Languages</b> Common, Elvish<br /><b>Challenge</b> 8(3,900 XP)</p><hr />
+<div class="monster-detail"><b><i>Special Equipment.</i></b> In addition to her magic armor and weapons, Ezmerelda has two potions of greater healing, six vials of holy water, and three wooden stakes.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spellcasting</i></b> Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Ezmerelda has the following wizard spells prepared:<br />&bull; Cantrips (at will): fire bolt, light, mage hand, prestidigitation<br />&bull;1st level (4 slots): protection from good and evil, magic missile, shield<br />&bull;2nd level (3 slots): darkvision, knock, mirror image<br />&bull;3rd level (3 slots): clairvoyance, lightning bolt, magic circle<br />&bull;4th level (1 slot): greater invisibility</div><hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-sub-title">&nbsp;</div>
+<div class="monster-sub-title"><b><i>Multiattack.</i></b> Ezmerelda makes three attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Rapier +1.</i></b> Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Handaxe +1.</i></b> Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6+3) slashing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Silvered Shortsword.</i></b> Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Curse (Recharges after a Long Rest).</i></b> Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Ezmerelda takes 3d6 psychic damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Evil Eye (Recharges after a Short or Long Rest).</i></b> Ezmerelda targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save DC 14), requiring neither somatic nor material components to do so: animal friendship, charm person, or hold person. If the target succeeds on the initial saving throw, Ezmerelda is blinded until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS<b>&nbsp;</b>&nbsp;<br /><br /></p>",
+"family":"",
+"ch":"8",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"8",
+"alignment":"Chaotic Good",
+"reference":"Usergen"},
+
+
+{"id":11323,
+"name":"Izek Strazni",
+"full_text":"<h2>Izek Strazni</h2>
+<p><i>Medium humanoid (human), neutral evil</i></p><hr />
+<p><b>Armor Class</b> 14 (studded leather armor)<br /><b>Hit Points</b> 112 (15d8+45)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 50px;" width="484"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>18 (+4)</td><td>15 (+2)</td><td>16 (+3)</td><td>10 (+0)</td><td>9 (-1)</td><td>15 (+2)</td></tr></tbody></table><hr />
+<p><b>Skills</b> Intimidation +8, Perception +2<br /><b>Senses</b> passive Perception 12<br /><b>Languages</b> Common<br /><b>Challenge</b> 5(1,800 XP)</p><hr />
+<p>&nbsp;<b><i>Brute.</i></b> A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).</p><hr />
+<p>&nbsp;</p>
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> Izek makes two attacks with his battleaxe.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Battleaxe.</i></b> Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8+4) slashing damage, or 15 (2d10+4) when used with two hands.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Hurl Flame.</i></b> Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it catches fire.</div>
+<p><br /><b>Reference:</b>&nbsp;CoS<br /><br /></p>",
+"family":"",
+"ch":"5",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"5",
+"alignment":"Neutral Evil",
+"reference":"Usergen"},
+
+{"id":11324,
+"name":"Madam Eva ",
+"full_text":"<h2>Madam Eva</h2>
+<p>&nbsp;<i>Medium humanoid (human), chaotic neutral</i></p><hr />
+<p><b>Armor Class</b> 10<br /><b>Hit Points</b> 88 (16d8+16)<br /><b>Speed</b> 20 ft.</p><hr /><table style="height: 84px;" width="477"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>8 (-1)</td><td>11 (+0)</td><td>12 (+1)</td><td>17 (+3)</td><td>20 (+5)</td><td>18 (+4)</td></tr></tbody></table><hr />
+<p><b>Saving Throws</b> Con +5<br /><b>Skills</b> Arcana +7, Deception +8, Insight +13, Intimidation +8, Perception +9, Religion +7<br /><b>Senses</b> passive Perception 19<br /><b>Languages</b> Abyssal, Common, Elvish, Infernal<br /><b>Challenge</b> 10(5,900 XP)</p><hr />
+<p><b><i>Spellcasting</i></b> Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following cleric spells prepared:<br />&bull; Cantrips (at will): light, mending, sacred flame, thaumaturgy<br />&bull;1st level (4 slots): bane, command, detect evil and good, protection from evil and good<br />&bull;2nd level (3 slots): lesser restoration, protection from poison, spiritual weapon<br />&bull;3rd level (3 slots): create food and water, speak with dead, spirit guardians<br />&bull;4th level (3 slots): divination, freedom of movement, guardians of faith<br />&bull;5th level (2 slots): greater restoration, raise dead<br />&bull;6th level (1 slot): find the path, harm, true seeing<br />&bull;7th level (1 slot): fire storm, regenerate<br />&bull;8th level (1 slot): earthquake</p><hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Dagger.</i></b> Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Curse (Recharges after a Long Rest).</i></b> Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Evil Eye (Recharges after a Short or Long Rest).</i></b> Madam Eva targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save DC 17), requiring neither somatic nor material components to do so: animal friendship, charm person, or hold person. If the target succeeds on the initial saving throw, Madam Eva is blinded until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS<br /><br /></p>",
+"family":"",
+"ch":"10",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"10",
+"alignment":"Chaotic Neutral",
+"reference":"Usergen"},
+
+
+{"id":11325,
+"name":"Mongrelfolk ",
+"full_text":"
+<div><h2>Mongrelfolk</h2>
+<p><i>Medium humanoid (mongrelfolk), any alignment</i></p><hr />
+<p><b>Armor Class</b> 11 (natural armor)<br /><b>Hit Points</b> 26 (4d8+8)<br /><b>Speed</b> 20 ft.</p><hr /><table style="height: 81px;" width="484"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>12 (+1)</td><td>9 (+1)</td><td>15 (+2)</td><td>9 (-1)</td><td>10 (+0)</td><td>6 (-2)</td></tr></tbody></table><hr /><b>Skills</b> Deception +2, Perception +2, Stealth +3<br /><b>Senses</b> passive Perception 12<br /><b>Languages</b> Common<br /><b>Challenge</b> 1/4(50 XP)<hr />
+<div class="monster-detail"><b><i>Extraordinary Feature</i></b> The mongrelfolk has one of the following extraordinary features, determined randomly by rolling a d20 or chosen by the DM:<br /><br />1-3 &mdash; Amphibious: The mongrelfolk can breathe air and water.<br />4-9 &mdash; Darkvision: The mongrelfolk has darkvision out to a range of 60 feet.<br />10 &mdash; Flight: The mongrelfolk has leathery wings and a flying speed of 40 feet.<br />11-15 &mdash; Keen Hearing and Smell: The mongrelfolk has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br />16-17 &mdash; Spider Climb: The mongrelfolk can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br />18-19 &mdash; Standing Leap: The mongrelfolk's long jump is up to 20 feet and its high jump up to 10 feet, with or without a running start.<br />20 &mdash; Two-Headed: The mongrelfolk has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Mimicry.</i></b> The mongrelfolk can mimic any sounds it has beard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.<hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Bite.</i></b> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Claw.</i></b> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) slashing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Dagger.</i></b> Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4+1) piercing damage.</div></div>
+<p><br /><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>
+<p><span style="color: #444444; font-family: ScalySans; font-size: 22px; background-color: #fdf1dc;">&nbsp;</span></p>",
+"family":"",
+"ch":"1",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"1",
+"alignment":"Neutral",
+"reference":"Usergen"},
+
+
+{"id":11326,
+"name":"Phantom Warrior ",
+"full_text":"
+<div><h2>Phantom Warrior</h2>
+<p><i>Medium undead, any alignment</i></p><hr />
+<p><b>Armor Class</b> 16<br /><b>Hit Points</b> 45 (6d8+18)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 76px;" width="416"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>16 (+3)</td><td>11 (+0)</td><td>16 (+3)</td><td>8 (-1)</td><td>10 (+0)</td><td>15 (+2)</td></tr></tbody></table><hr /><b>Skills</b> Perception +2, Stealth +4<br /><b>Damage Resistances</b> bludgeoning, piercing, and slashing from nonmagical attacks<br /><b>Damage Immunities</b> cold, necrotic, poison<br /><b>Condition Immunities</b> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br /><b>Senses</b> darkvision 60 ft., passive Perception 12<br /><b>Languages</b> any languages it knew in life<br /><b>Challenge</b>&nbsp;3(700 XP)<hr />
+<div class="monster-detail"><b><i>Ethereal Sight.</i></b> The phantom warrior can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Incorporeal Movement.</i></b> The phantom warrior can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spectral Armor and Shield.</i></b> The phantom warrior's AC accounts for its spectral armor and shield.<hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> The phantom warrior makes two attacks with its spectral longsword.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spectral Longsword.</i></b> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) force damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Etherealness.</i></b> The phantom warrior enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.</div></div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"3",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Undead",
+"challenge_rating":"3",
+"alignment":"Neutral",
+"reference":"Usergen"},
+
+{"id":11327,
+"name":"Pidlwich II",
+"full_text":"
+<div><h2>Pidlwich II</h2>
+<p><i>Small construct, neutral evil</i></p><hr />
+<p><b>Armor Class</b> 14 (natural armor)<br /><b>Hit Points</b> 10 (3d6)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 74px;" width="436"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>10 (+0)</td><td>14 (+2)</td><td>11 (+0)</td><td>8 (-1)</td><td>13 (+1)</td><td>10 (+0)</td></tr></tbody></table><hr /><b>Skills</b> Performance +3<br /><b>Damage Immunities</b> poison<br /><b>Condition Immunities</b> paralyzed, petrified, poisoned<br /><b>Senses</b> passive Perception 11<br /><b>Languages</b> understands Common but doesn't speak and can't read or write<br /><b>Challenge</b> 1/4(50 XP)<hr /><b><i>Ambusher.</i></b> During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.<hr /></div>
+<div>
+<div id="results">
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Club.</i></b> Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Dart.</i></b> Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.</div></div></div>
+<div>
+<p><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"1",
+"size":"Small",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Construct",
+"challenge_rating":"1",
+"alignment":"Neutral Evil",
+"reference":"Usergen"},
+{"id":11328,
+"name":"Rahadin",
+"full_text":"
+<div><h2>Rahadin</h2>
+<p><i>Medium humanoid (elf), lawful evil</i></p><hr />
+<p><b>Armor Class</b> 18 (studded leather)<br /><b>Hit Points</b> 135 (18d8+54)<br /><b>Speed</b> 35 ft.</p><hr /><table style="height: 75px;" width="394"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>14 (+2)</td><td>22 (+6)</td><td>17 (+3)</td><td>15 (+2)</td><td>16 (+3)</td><td>18 (+4)</td></tr></tbody></table><hr /><b>Saving Throws</b> Con +7, Wis +7<br /><b>Skills</b> Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14<br /><b>Senses</b> darkvision 60 ft., passive Perception 21<br /><b>Languages</b> Common, Elvish<br /><b>Challenge</b> 10(5,900 XP)<hr />
+<div class="monster-detail"><b><i>Deathly Choir.</i></b> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Fey Ancestry.</i></b> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Innate Spellcasting</i></b> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br />3/day: misty step, phantom steed<br />1/day: magic weapon, nondetection</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Mask of the Wild.</i></b> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.<hr /></div>
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> Rahadin attacks three times with his scimitar, or twice with his poisoned darts.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Scimitar.</i></b> Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d6+6) slashing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Poisoned Dart.</i></b> Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit: 8 (1d4+6) piercing damage plus 5 (2d4) poison damage.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"10",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"10",
+"alignment":"Lawful Evil",
+"reference":"Usergen"},
+
+
+{"id":11329,
+"name":"Rictavio ",
+"full_text":"
+<div><h2>Rictavio</h2>
+<p><i>Medium humanoid (human), lawful good</i></p><hr />
+<p><b>Armor Class</b> 12 (leather armor)<br /><b>Hit Points</b> 77 (14d8+14)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 82px;" width="478"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>9 (-1)</td><td>12 (+1)</td><td>13 (+1)</td><td>16 (+3)</td><td>18 (+4)</td><td>16 (+3)</td></tr></tbody></table><hr /><b>Saving Throws</b> Con +4, Wis +7<br /><b>Skills</b> Arcana +9, Insight +7, Medicine +7, Perception +7, Religion +6, Sleight of Hand +4<br /><b>Senses</b> passive Perception 17<br /><b>Languages</b> Abyssal, Common, Elvish, Infernal<br /><b>Challenge</b> 5(1,800 XP)<hr />
+<div class="monster-detail"><b><i>Special Equipment.</i></b> In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spellcasting</i></b> Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following cleric spells prepared:<br />&bull; Cantrips (at will): guidance, light, mending, thaumaturgy<br />&bull;1st level (4 slots): cure wounds, detect evil and good, protection from evil and good, sanctuary<br />&bull;2nd level (3 slots): augury, lesser restoration, protection from poison<br />&bull;3rd level (3 slots): magic circle, remove curse, speak with dead<br />&bull;4th level (3 slots): death ward, freedom of movement<br />&bull;5th level (1 slot): dispel evil and good</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Undead Slayer.</i></b> When Rictavio hits an undead with a weapon attack, the undead takes an extra 10 (3d6) damage of the weapon's type.<hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> Rictavio makes two attacks with his sword cane.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Sword Cane.</i></b> Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).</div></div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"5",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"5",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+
+{"id":11330,
+"name":"Strahd von Zarovich",
+"full_text":"
+<div><h2>Strahd von Zarovich</h2>
+<p><i>Medium undead (shapchanger), lawful evil</i></p><hr />
+<p><b>Armor Class</b> 16 (natural armor)<br /><b>Hit Points</b> 144 (17d8+68)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 90px;" width="464"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>18 (+4)</td><td>18 (+4)</td><td>18 (+4)</td><td>20 (+5)</td><td>15 (+2)</td><td>18 (+4)</td></tr></tbody></table><hr /><b>Saving Throws</b> Dex +9, Wis +7, Cha +9<br /><b>Skills</b> Arcana +15, Perception +12, Religion +10, Stealth +14<br /><b>Damage Resistances</b> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br /><b>Senses</b> darkvision 120 ft., passive Perception 22<br /><b>Languages</b> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br /><b>Challenge</b> 15(13,000 XP)<hr />
+<div class="monster-detail"><b><i>Shapechanger</i></b> If Strahd isn't in running water or sunlight, he can use his action to polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back into his true form.<br />While in bat or wolf form, Strahd can't speak. In bat form, his walking speed is 5 feet, and he has a flying speed of 30 feet. In wolf form, his walking speed is 40 feet. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies.<br />While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage he takes from sunlight.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Legendary Resistance (3/Day).</i></b> If Strahd fails a saving throw, he can choose to succeed instead.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Misty Escape</i></b> When he drops to 0 hit points outside his coffin, Strahd transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that he isn't in running water or sunlight. If he can't transform, he is destroyed.<br />While he has 0 hit points in mist form, he can't revert to his vampire form, and he must reach his coffin within 2 hours or be destroyed. Once in his coffin, he reverts to his vampire form. He is then paralyzed until he regains at least 1 hit point. After spending 1 hour in his coffin with 0 hit points, he regains 1 hit point.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Regeneration.</i></b> Strahd regains 20 hit points at the start of his turn if he has at least 1 hit point and isn't in running water or sunlight. If he takes radiant damage or damage from holy water, this trait doesn't function at the start of his next turn.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spellcasting</i></b> Strahd is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). Strahd has the following wizard spells prepared:<br />&bull; Cantrips (at will): mage hand, prestidigitation, ray of frost<br />&bull;1st level (4 slots): comprehend languages, fog cloud, sleep<br />&bull;2nd level (3 slots): detect thoughts, gust of wind, mirror image<br />&bull;3rd level (3 slots): animate dead, fireball, nondetection<br />&bull;4th level (3 slots): blight, greater invisibility, polymorph<br />&bull;5th level (1 slot): animate objects, scrying</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Spider Climb.</i></b> Strahd can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Vampire Weaknesses</i></b> Strahd has the following flaws. <br />Forbiddance: He can't enter a residence without an invitation from one of the occupants.<br />Harmed by Running Water: He takes 20 acid damage if he ends his turn in running water.<br />Stake to the Heart: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.<br />Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.<hr /></div>
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack (Vampire Form Only).</i></b> Strahd makes two attacks, only one of which can be a bite attack.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Unarmed Strike (Vampire Form Only).</i></b> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 8 (1d8+4) bludgeoning damage, plus 14 (4d6) necrotic damage. If the target is a creature, Strahd can grapple it (escape DC 18) instead of dealing the bludgeoning damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Bite (Bat or Vampire Form Only).</i></b> Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. Hit: 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strahd's control.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Charm</i></b> Strahd targets one humanoid he can see within 30 ft. of him. If the target can see Strahd, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed. The charmed target regards Strahd as a trusted friend to be heeded and protected. The target isn't under Strahd's control, but it takes Strahd's requests and actions in the most favorable way and lets Strahd bite it.<br />Each time Strahd or his companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until Strahd is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Children of the Night (1/day).</i></b> Strahd magically calls 2d4 swarms of bats or swarms rats, provided that the sun isn't up. While outdoors, Strahd can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd and obeying his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until he dismisses them as a bonus action.<hr /></div>
+<div class="monster-sub-title"><strong>Legendary Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>.</i></b> Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of his turn.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Move.</i></b> Strahd moves up to his speed without provoking opportunity attacks.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Unarmed Strike.</i></b> Strahd makes one unarmed strike.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Bite (Costs 2 Actions).</i></b> Strahd makes one bite attack.</div>
+<p><br /><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>
+<p><span style="color: #444444; font-family: ScalySans; font-size: 22px; background-color: #fdf1dc;">&nbsp;</span></p>",
+"family":"",
+"ch":"15",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Undead",
+"challenge_rating":"15",
+"alignment":"Lawful Evil",
+"reference":"Usergen"},
+
+
+{"id":11331,
+"name":"Strahd Zombie",
+"full_text":"
+<div><h2>Strahd Zombie</h2>
+<p><i>Medium undead,unaligned</i></p><hr />
+<p><b>Armor Class</b> 8<br /><b>Hit Points</b> 30 (4d8+12)<br /><b>Speed</b> 20 ft.</p><hr /><table style="height: 79px;" width="427"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>13 (+1)</td><td>6 (-2)</td><td>16 (+3)</td><td>3 (-4)</td><td>6 (-2)</td><td>5 (-3)</td></tr></tbody></table><hr /><b>Saving Throws</b> Wis +0<br /><b>Damage Immunities</b> poison<br /><b>Condition Immunities</b> poisoned<br /><b>Senses</b> darkvision 60 ft., passive Perception 8<br /><b>Languages</b> understands the languages it knew in life but can't speak<br /><b>Challenge</b> 1(200 XP)<hr /><b><i>Loathsome Limbs</i></b> Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it: <br />1-8: One leg is severed from the zombie if it has any legs left.<br />9-16: One arm is severed from the zombie if it has any arms left.<br />17-20: The zombie is decapitated.<br />If the zombie is reduced to 0 hit points, all parts of it die. Until then, a severed part acts on the zombie's initiative and has its own action and movement. A severed part has AC 8. Any damage it takes is subtracted from the zombie's hit points.<br />A severed leg is unable to attack and has a speed of 5 feet.<br />A severed arm has a speed of 5 feet and can make one claw attack on its turn, with disadvantage on the attack roll. Each time the zombie loses an arm, it loses a claw attack.<br />If its head is severed, the zombie loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet. It can make a bite attack but only against a target in its space.<br />The zombie's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.<hr />
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> The zombie makes three attacks: one with its bite and two with its claws.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Bite.</i></b> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Claw.</i></b> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) slashing damage.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Undead",
+"challenge_rating":"",
+"alignment":"Neutral",
+"reference":"Usergen"},
+
+
+{"id":11332,
+"name":"Wereraven ",
+"full_text":"
+<div><h2>Wereraven</h2>
+<p>&nbsp;</p>
+<p><i>Medium humanoid (human, shapshifter), lawful good</i></p><hr />
+<p><i><b>Armor Class</b> 12<br /><b>Hit Points</b> 31 (7d8)<br /><b>Speed</b> 30 ft., fly 50 ft. in raven and hybrid forms</i></p><hr /><table style="height: 77px;" width="452"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>10 (+0)</td><td>15 (+2)</td><td>11 (+0)</td><td>13 (+1)</td><td>15 (+2)</td><td>14 (+2)</td></tr></tbody></table><hr /><b>Skills</b> Insight +4, Perception +6<br /><b>Damage Immunities</b> bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons<br /><b>Senses</b> passive Perception 16<br /><b>Languages</b> Common (can't speak in raven form)<br /><b>Challenge</b> 2(450 XP)<hr />
+<div class="monster-detail"><b><i>Shapechanger.</i></b> The wereraven can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Mimicry.</i></b> The wereraven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.<hr /></div>
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack (Human or Hybrid Form Only).</i></b> The wereraven makes two weapon attacks, one of which can be with its hand crossbow.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Beak (Raven or Hybrid Form Only).</i></b> Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage in raven form, or 4 (1d4+2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Shortsword (Humanoid or Hybrid Form Only).</i></b> Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Hand Crossbow (Humanoid or Hybrid Form Only).</i></b> Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6+2) piercing damage.</div>
+<p><br /><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"2",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"2",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+
+{"id":11333,
+"name":"Vladimir Horngaard",
+"full_text":"
+<div><h2>Vladimir Horngaard</h2>
+<p><i>Medium undead, lawful evil</i></p><hr />
+<p><b>Armor Class</b> 17 (half plate)<br /><b>Hit Points</b> 192 (16d8+64)<br /><b>Speed</b> 30 ft.</p><hr /><table style="height: 78px;" width="494"><tbody><tr><td>STR</td><td>DEX</td><td>CON</td><td>INT</td><td>WIS</td><td>CHA</td></tr><tr><td>18 (+4)</td><td>14 (+2)</td><td>18 (+4)</td><td>13 (+1)</td><td>16 (+3)</td><td>18 (+4)</td></tr></tbody></table><hr /><b>Saving Throws</b> Str +7, Con +7, Wis +6, Cha +7<br /><b>Damage Resistances</b> necrotic, psychic<br /><b>Damage Immunities</b> poison<br /><b>Condition Immunities</b> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br /><b>Senses</b> darkvision 60 ft., passive Perception 13<br /><b>Languages</b> Common, Draconic<br /><b>Challenge</b> 7(2,900 XP)<hr />
+<div class="monster-detail"><b><i>Regeneration.</i></b> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Rejuvenation.</i></b> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Turn Immunity.</i></b> Vladimir is immune to effects that turn undead.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Vengeful Tracker.</i></b> Vladimir knows the distance to and direction of any creature against which it seeks revenge, even if the creature and Vladimir are on different planes of existence. If the creature being tracked by Vladimir dies, Vladimir knows.<hr /></div>
+<div class="monster-sub-title"><strong>Actions</strong></div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Multiattack.</i></b> Vladimir makes two fist attacks or two attacks with his +2 Greatsword.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Fist.</i></b> Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) bludgeoning damage. If the target is a creature against which Vladimir has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Greatsword +2.</i></b> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 20 (4d6+4) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6) slashing damage with this weapon.</div>
+<div class="monster-detail">&nbsp;</div>
+<div class="monster-detail"><b><i>Vengeful Glare.</i></b> Vladimir targets one creature he can see within 30 feet of him and against which he has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralyzed until Vladimir deals damage to it, or until the end of Vladimir's next turn. When the paralysis ends, the target is frightened of Vladimir for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see Vladimir, ending the frightened condition on itself on a success.</div>
+<p><br /><b>Reference:</b>&nbsp;CoS</p></div>",
+"family":"",
+"ch":"7",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Undead",
+"challenge_rating":"7",
+"alignment":"Lawful Evil",
+"reference":"Usergen"}

@@ -1,0 +1,197 @@
+
+[
+[],
+[],
+[],
+[],
+[{"id":1873,
+"name":"Dragonmark",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1><span class="fontstyle0">Dragonmark</span></h1><hr />
+<p><span class="fontstyle0">You have a magical mark that indicates you are a member of one of the dragonmarked houses. Select one of the options from the Dragonmarks table.
+<br />
+</span></p>
+<p><span class="fontstyle0">You gain the ability to innately cast spells and cantrips, as summarized in the Dragonmark Benefits table, using the spellcasting ability listed under the Ability column. You cast each spell at its lowest level. </span></p>
+<p><span class="fontstyle0">Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You
+<br />
+must still expend any material components. Your dragonmark confers the following benefits:
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">When you first take this feat, you gain the </span><span class="fontstyle3">least dragonmark</span><span class="fontstyle0">. You learn the spells listed under the Least column.</span>
+<br />
+<span class="fontstyle2">&bull; </span><span class="fontstyle0">At 5th level and higher, your mark becomes more potent, improving to </span><span class="fontstyle3">lesser dragonmark</span><span class="fontstyle0">. You also learn the spell listed under the Lesser column.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">At 9th level and higher, your mark&rsquo;s power increases again, becoming a </span><span class="fontstyle3">greater dragonmark</span><span class="fontstyle0">. You also learn the spell listed under the Greater column.
+<br />
+</span></p><table width="747"><tbody>
+<td><td width="174">Dragonmark Benefits</td><td width="81">&nbsp;</td><td width="219">&nbsp;</td><td width="119">&nbsp;</td><td width="154">&nbsp;</td></tr>
+<td><td>Mark</td><td>Ability</td><td>Least</td><td>Lesser</td><td>Greater</td></tr>
+<td><td>Detection</td><td>Wisdom</td><td>Detect magic, mage hand</td><td>Detect thoughts</td><td>Clairvoyance</td></tr>
+<td><td>Finding</td><td>Wisdom</td><td>Identify, mage hand</td><td>Locate object</td><td>Clairvoyance</td></tr>
+<td><td>Handling</td><td>Wisdom</td><td>Druidcraft, speak with animals</td><td>Beast sense</td><td>Conjure animals</td></tr>
+<td><td>Healing</td><td>Wisdom</td><td>Cure wounds, spare the dying</td><td>Lesser restoration</td><td>Revivify</td></tr>
+<td><td>Hospitality</td><td>Charisma</td><td>Friends, unseen servant</td><td>Rope trick</td><td>Leomund&rsquo;s tiny hut</td></tr>
+<td><td>Making</td><td>Intelligence</td><td>Identify, mending</td><td>Magic weapon</td><td>Fabricate</td></tr>
+<td><td>Passage</td><td>Intelligence</td><td>Expeditious retreat, light</td><td>Misty step</td><td>Teleportation circle</td></tr>
+<td><td>Scribing</td><td>Intelligence</td><td>Comprehend languages, message</td><td>Sending</td><td>Tongues</td></tr>
+<td><td>Sentinel</td><td>Wisdom</td><td>Blade ward, compelled duel</td><td>Blur</td><td>Protection from energy</td></tr>
+<td><td>Shadow</td><td>Charisma</td><td>Dancing lights, disguise self</td><td>Darkness</td><td>Nondetection</td></tr>
+<td><td>Storm</td><td>Intelligence</td><td>Fog cloud, shocking grasp</td><td>Gust of wind</td><td>Sleet storm</td></tr>
+<td><td>Warding</td><td>Intelligence</td><td>Alarm, resistance</td><td>Arcane lock</td><td>Magic circle</td></tr></tbody></table>",
+"reference":"Usergen"},
+
+{"id":1874,
+"name":"Fell Handed",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any of them:
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You gain a +1 bonus to attack rolls you make with the weapon.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can knock the target prone if the lower of the two d20 rolls would also hit the target.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls 
+<br />
+would have hit.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">If you use the Help action to aid an ally&rsquo;s melee attack while you&rsquo;re wielding the weapon, you knock the target&rsquo;s shield aside momentarily. In addition to the ally gaining advantage on theattack roll, the ally gains a +2 bonus to the roll if the target is using a shield.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1875,
+"name":"Blade Mastery",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain the following benefits when using any of them:
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You gain a +1 bonus to attack rolls you make with the weapon.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants you a +1 bonus to your AC until the start of your next turn or until you&rsquo;re not holding the weapon.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">When you make an opportunity attack with the weapon, you have advantage on the attack roll.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1876,
+"name":"Flail Mastery",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">The flail is a tricky weapon to use, but you have spent countless hours mastering it. You gain the following benefits.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You gain a +1 bonus to attack rolls you make with a flail.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets&rsquo; shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1877,
+"name":"Spear Mastery",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You gain the following benefits.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You gain a +1 bonus to attack rolls you make with a spear.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon&rsquo;s die.)
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creatures moves within your spear&rsquo;s reach on its next turn, you can make a melee attack 
+<br />
+against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can&rsquo;t use this ability if the creature used the Disengage action before moving.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1878,
+"name":"Alchemist",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">You have studied the secrets of alchemy and are an expert in its practice, gaining the following benefits:
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">Increase your Intelligence score by 1, to a maximum of 20.
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">You gain proficiency with alchemist&rsquo;s supplies. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">As an action, you can identify one potion within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">Over the course of any short rest, you can temporarily improve the potency of one </span><span class="fontstyle3">potion of healing </span><span class="fontstyle0">of any rarity. To use this benefit, you must have alchemist&rsquo;s supplies with you, and the potion must be within reach. If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion&rsquo;s die roll and regains the maximum number of hit points that the potion can restore.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1879,
+"name":"Burglar",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">Increase your Dexterity score by 1, to a maximum of 20.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You gain proficiency with thieves&rsquo; tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1880,
+"name":"Gourmand",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">Increase your Constitution score by 1, to a maximum of 20.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">You gain proficiency with cook&rsquo;s utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
+<br />
+</span><span class="fontstyle2">&bull; </span><span class="fontstyle0">During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook&rsquo;s utensils, and other supplies on hand. The meal serves up to six 
+<br />
+people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.</span> </p>",
+"reference":"Usergen"},
+
+{"id":1881,
+"name":"Master of Disguise",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"
+<p><span class="fontstyle0">You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">Increase your Charisma score by 1, to a maximum of 20.
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">You gain proficiency with the disguise kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
+<br />
+</span><span class="fontstyle1">&bull; </span><span class="fontstyle0">If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.</span> </p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[],
+[]]

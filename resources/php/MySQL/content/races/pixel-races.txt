@@ -1,0 +1,712 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[{"id":174,
+"name":"Dwarf (Hill/Gold)",
+"full_text":"<h1>Dwarf Base Traits</h1>
+<p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Constitution score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Dwarves mature at the same rate as humans, but they&rsquo;re considered young until they reach the age of 50. On average, they live about 350 years.</p>
+<p><strong><em>Alignment. </em></strong>Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.</p>
+<p><strong><em>Size. </em></strong>Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Dwarven Resilience. </em></strong>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+<p><strong><em>Dwarven Combat Training. </em></strong>You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.</p>
+<p><strong><em>Tool Proficiency. </em></strong>You gain proficiency with the artisan&rsquo;s tools of your choice: smith&rsquo;s tools, brewer&rsquo;s supplies, or mason&rsquo;s tools.</p>
+<p><strong><em>Stonecunning. </em></strong>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</p><h1>Hill/Gold Dwarf</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Wisdom score increases by 1.</p>
+<p><strong><em>Dwarven Toughness. </em></strong>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p><h1>History</h1>
+<p><strong>Hill Dwarf</strong></p>
+<p>As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.</p>
+<p><strong>Gold Dwarf (SCAG)</strong></p>
+<p>Gold dwarves are common in the lands to the south and east. They are formidable warriors, proud of their long traditions, with strong ties to clan. They are gruff and haughty and have a love of fin e craftsmanship and an eagerness to trade.</p>
+<p>Significant settlements of gold dwarves exist in the Great Rift, the area surrounding the Dragon Coast, as well as in the Old Empires of eastern Faerun. Smaller communities are found in the Smoking Mountains, in the Giant's Run Mountains, and the Western Heartlands.</p>
+<p>Because they have not endured the same cycle of invasion and displacement, gold dwarves tend to be more optimistic than their shield dwarf cousins, but they're s till standoffish and prideful as only a dwarf can be. They believe their race's stable history is the result of their attentiveness to tradition, and have little doubt that the future of the gold dwarves will be just as peaceful, if they remain true to their customs and principles.</p>
+<p>Gold dwarves have the racial traits of hill dwarves in the <em>Player's </em><em>H</em><em>a</em><em>ndbook. </em>They are stocky and muscular, averaging about 4 feet tall, with brown s kin, black or brown hair, and brown or hazel eyes, with green eyes rare (and considered lucky). Males grow full beards that they keep oiled and well groomed, and both genders wear their hair long and often elaborately braided.</p>
+<p>Gold dwarves are best known for crafting beautiful objects. According to them, a ll the natural resources of the world exist for mortals to turn them into objects of great beauty. Gold dwarves don't want the most of everything; they want the best. Their artisans toil over items for years, getting their etchings and fine details just right before being satisfied with their efforts.</p>
+<p>That deliberate, perfectionist approach is a reflection of gold dwarf culture, in which there is a right and proper way to do everything. Tradition dictates every aspect of a gold dwarf's life, from one's place in society, to prospects for marriage, to what careers are acceptable. Gold dwarves who take up a life of adventuring, away from the clan, rarely forsake their traditions when doing so. Even though they might have to live as outsiders for a time, they hope to ultimately improve their standing in their society.</p>",
+"reference":"Usergen"},
+
+{"id":175,
+"name":"Dwarf (Mountain/Shield)",
+"full_text":"<h1>Dwarf Base Traits</h1>
+<p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Constitution score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Dwarves mature at the same rate as humans, but they&rsquo;re considered young until they reach the age of 50. On average, they live about 350 years.</p>
+<p><strong><em>Alignment. </em></strong>Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.</p>
+<p><strong><em>Size. </em></strong>Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Dwarven Resilience. </em></strong>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+<p><strong><em>Dwarven Combat Training. </em></strong>You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.</p>
+<p><strong><em>Tool Proficiency. </em></strong>You gain proficiency with the artisan&rsquo;s tools of your choice: smith&rsquo;s tools, brewer&rsquo;s supplies, or mason&rsquo;s tools.</p>
+<p><strong><em>Stonecunning. </em></strong>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</p><h1>Mountain/Shield Dwarf</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Strength score increases by 2.</p>
+<p><strong><em>Dwarven Armor Training. </em></strong>You have proficiency with light and medium armor.</p><h1>History</h1>
+<p><strong>Mountain Dwarf</strong></p>
+<p>As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You&rsquo;re probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.</p>
+<p><strong>Shield Dwarf (SCAG)</strong></p>
+<p>The ancestral home of the shield dwarves is in northern Faerun, where ancient dwarfholds exist in the North, Damara, lmpiltur, Vaasa, the Vast, and the Western Heartlands. The most famous of the old shield dwarf cities is Citadel Adbar, north and east of Silverymoon. Many of these dwarfholds have changed hands over the centuries in a cycle of invasion by enemies, followed by reconquest by the dwarves.</p>
+<p>Living in a near-constant state of war for generations, shield dwarves are a hardy people, slow to trust, with long memories and often an equally long list of grievances against their ancient enemies. The more conservative among them want to maintain the traditions and remaining holdings of their people, isolated from the influence of outsiders and safe from invaders behind thick walls of stone. Shield dwarves of a more adventurous bent are interested in exploring the world and seeing what lies beyond the bounds of their ancient dwarfholds.</p>
+<p>Shield dwarves have the racial traits of mountain dwarves in the Player's Handbook. Their skin is usually fair, eyes green, hazel, or silver-blue, and they have brown, blond, or red hair. Full beards and mustaches are commonly seen on male shield dwarves. Shield dwarves are renowned artisans, particularly in metal and stone. They tend to focus more on sturdiness in their craft than on the artistic flourishes and gilding favored by their gold dwarf cousins. Shield dwarf crafters build to last, and each one's signature mark placed upon an enduring masterpiece serves as a way of gaining immortality.</p>",
+"reference":"Usergen"},
+
+{"id":176,
+"name":"Dwarf (Grey/Duergar)",
+"full_text":"<h1>Dwarf Base Traits</h1>
+<p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Constitution score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Dwarves mature at the same rate as humans, but they&rsquo;re considered young until they reach the age of 50. On average, they live about 350 years.</p>
+<p><strong><em>Alignment. </em></strong>Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.</p>
+<p><strong><em>Size. </em></strong>Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Dwarven Resilience. </em></strong>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+<p><strong><em>Dwarven Combat Training. </em></strong>You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.</p>
+<p><strong><em>Tool Proficiency. </em></strong>You gain proficiency with the artisan&rsquo;s tools of your choice: smith&rsquo;s tools, brewer&rsquo;s supplies, or mason&rsquo;s tools.</p>
+<p><strong><em>Stonecunning. </em></strong>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</p><h1><strong>Gray/Duergar Traits</strong></h1>
+<p><strong><em>Ability </em></strong><strong>Score <em>Increase.</em></strong> Your Strength score increases by 1.</p>
+<p><strong><em>Superior Darkvision.</em></strong> Your darkvision has a radius of 120 feet.</p>
+<p><strong><em>Extra Language.</em></strong> You can speak, read, and write Undercommon.</p>
+<p><strong><em>Duergar Resilience.</em></strong> You have advantage on saving throws against illusions and against being charmed or paralyzed.</p>
+<p><strong><em>Duergar Magic.</em></strong> When you reach 3rd level, you can cast the <em>e</em><em>nlar</em><em>ge</em><em>/</em><em>r</em><em>e</em><em>du</em><em>ce </em>spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the <em>invisibility </em>spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</p>
+<p><strong><em>Sunlight Sensitivity.</em></strong> You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p><h1>History</h1>
+<p><strong>Gray/Duergar Dwarf (SCAG)</strong></p>
+<p>The gray dwarves, or duergar, live deep in the Underdark. After delving deeper than any other dwarves, they were enslaved by mind flayers for eons. Although they eventually won their freedom, these grim, ashen- skinned dwarves now take slaves of their own and are as tyrannical as their former masters.</p>
+<p>Physically similar to other dwarves in some ways, duergar are wiry and lean, with black eyes and bald heads, with the males growing long, unkempt, gray beards.</p>
+<p>Duergar value toil above all else. Showing emotions other than grim determination or wrath is frowned on in their culture, but they can sometimes seem joyful when at work. They have the typical dwarven appreciation for order, tradition, and impeccable craftsmanship, but their goods are purely utilitarian, disdaining aesthetic or artistic value.</p>
+<p>Few duergar become adventurers, fewer still on the surface world, because they are a hidebound and suspicious race. Those who leave their subterranean cities are usually exiles. Check with your Dungeon Master to see if you can play a gray dwarf character.</p>",
+"reference":"Usergen"},
+
+{"id":177,
+"name":"Elf (High/Moon/Sun)",
+"full_text":"<h1>Elf Base Traits</h1>
+<p>Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
+<p><strong><em>Alignment. </em></strong>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
+<p><strong><em>Size. </em></strong>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it w ere dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Keen Senses. </em></strong>You have proficiency in the Perception skill.</p>
+<p><strong><em>Fey Ancestry. </em></strong>You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.</p>
+<p><strong><em>Trance. </em></strong>Elves don&rsquo;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is &ldquo;trance.&rdquo;) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p><h1><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial',sans-serif;">High/Moon/Sun Traits</span></h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Intelligence score increases by 1.</p>
+<p><strong><em>Elf Weapon Training. </em></strong>You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+<p><strong><em>Cantrip. </em></strong>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
+<p><strong><em>Extra Language. </em></strong>You can speak, read, and write one extra language of your choice.</p><h1>History</h1>
+<p><strong>High Elf</strong></p>
+<p>As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&amp;D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk. The Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.</p>
+<p>The sun elves of Faerun (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.</p>
+<p><strong>Moon Elves (SCAG)</strong></p>
+<p>Also called silver elves, or <em>Teu'Tel'Quessir, </em>moon elves are more tolerant and adventurous than elves of other sorts. In ancient times, the dissolution of their empires dispersed moon elves among other races, and since then they have traditionally gotten along well with their non-elf neighbors. They mingle with other people while their kin remain in hidden settlements and secluded strongholds.</p>
+<p>Moon elves are sometimes seen as frivolous, especially by other elves. But it is the easygoing, fluid nature of their culture, philosophy, and personality that has enabled them to survive and flourish during and after tragic times in elven history. While communities of moon elves can be found in mainland Faerun, many moon elves live in the settlements of other races, staying for a few seasons or several decades before moving on.</p>
+<p>To a moon elf, home can be among the members of one's family, clan, or other friends and loved ones. Moon elves who temporarily take up residence in or near sun elf communities aren't shy about expressing the opinion that their kin need to be less serious. In turn, the sun elves pretend to be more annoyed by their moon elf neighbors than they truly are, provided that the moon elves' whims and adventuresome urges don't cause serious disruption. Given that the moon elves usually move on before wearing out their welcome, such unrest rarely occurs.</p>
+<p>Moon elves have the racial traits of high elves in the <em>Player's Handbook. </em>They have pale skin with a bluish tint. Their hair runs the gamut of human colors, and some moon elves have hair of silvery white or various shades of blue. Their eyes are blue or green and have gold flecks. Given the race's love of travel, exploration, and new experiences, many moon elves become adventurers, utilizing their talents for warfare, woodcraft, and wizardry in different measures.</p>
+<p><strong>Sun Elves (SCAG)</strong></p>
+<p>Sun elves, also known as gold elves, or <em>Ar'Tel'Quessir, </em>have a reputation for being arrogant and self-important. Many of them believe they are Corellon's chosen people and that other races- even other elves-are subordinate to them in skill, significance, and sophistication. They claim the title of "high elves" with pride, and indeed their race is responsible for great, and sometimes terrible, achievements.</p>
+<p>Recalling and emphasizing the glorious aspects of their history, sun elves subscribe to the principle of "elven excellence"- no matter how interesting, exceptional, heroic, or noteworthy other races' accomplishments might be, there is an inherent superiority to all things elven. This attitude colors sun elves' relations with other elves, whom they see as diluted or diminished representatives of elven culture. Some sun elves reject this way of thinking, but it is common enough that when most folk of Faerun see a sun elf, they see arrogance personified. Their haughty attitude can overshadow the fact that most sun elves are also tirelessly compassionate and thoughtful champions of good.</p>
+<p>Sun elves have the racial traits of high elves in the <em>Player's Handbook. </em>Sun elves have bronze skin. Their eyes are black, metallic gold, or metallic silver, and their hair is black, metallic copper, or golden blond.</p>
+<p>Sun elf culture and civilization is highly magical in nature, thanks to the race's many accomplished wizards, sages, and crafters. Not every sun elf is a skilled practitioner of the Art, but each one has at least a bit of inherent magic. Many sun elves mix magic with other art forms, which produces the complex dance of the bladesingers as well as the enchanting music of their bards and the meticulous craftwork of their artisans. Sun elf adventurers often bring a feeling of noblesse oblige to their profession: they venture out into the world to challenge its dangers because someone must, and who could be better suited?</p>",
+"reference":"Usergen"},
+
+{"id":178,
+"name":"Elf (Eladrin)",
+"full_text":"<h1>Elf Base Traits</h1>
+<p>Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
+<p><strong><em>Alignment. </em></strong>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
+<p><strong><em>Size. </em></strong>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it w ere dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Keen Senses. </em></strong>You have proficiency in the Perception skill.</p>
+<p><strong><em>Fey Ancestry. </em></strong>You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.</p>
+<p><strong><em>Trance. </em></strong>Elves don&rsquo;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is &ldquo;trance.&rdquo;) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p><h1>Eladring Traits</h1>
+<p><strong><em>Ability </em></strong><strong>Score Increase. </strong>Your Intelligence score increases by <strong>1.</strong></p>
+<p><strong><em>Elf Weapon Training. </em></strong>You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+<p><strong><em>Fey Step. </em></strong>You can cast the <em>misty step </em>spell once using this trait. You regain the ability to do so when you finish a short or long rest.</p><h1>History</h1><h4>Eladrin</h4>
+<p>Creatures of magic with strong ties to nature, eladrin live in the twilight realm of the Feywild. Their cities sometimes cross over to the Material Plane, appearing briefly in mountain valleys or deep forest glades before fading back into the Feywild.</p>",
+"reference":"Usergen"},
+
+{"id":179,
+"name":"Elf (Wood)",
+"full_text":"<h1>Elf Base Traits</h1>
+<p>Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
+<p><strong><em>Alignment. </em></strong>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
+<p><strong><em>Size. </em></strong>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it w ere dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Keen Senses. </em></strong>You have proficiency in the Perception skill.</p>
+<p><strong><em>Fey Ancestry. </em></strong>You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.</p>
+<p><strong><em>Trance. </em></strong>Elves don&rsquo;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is &ldquo;trance.&rdquo;) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p><h1>Wood Elf Traits</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Wisdom score increases by 1.</p>
+<p><strong><em>Elf Weapon Training. </em></strong>You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+<p><strong><em>Fleet of Foot. </em></strong>Your base walking speed increases to 35 feet.</p>
+<p><strong><em>Mask of the Wild. </em></strong>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p><h1>History</h1><h4>Wood Elf</h4>
+<p>As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesti of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves. Wood elves&rsquo; skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.</p>",
+"reference":"Usergen"},
+
+{"id":180,
+"name":"Elf (Dark/Drow)",
+"full_text":"<h1>Elf Base Traits</h1>
+<p>Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
+<p><strong><em>Alignment. </em></strong>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
+<p><strong><em>Size. </em></strong>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it w ere dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Keen Senses. </em></strong>You have proficiency in the Perception skill.</p>
+<p><strong><em>Fey Ancestry. </em></strong>You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.</p>
+<p><strong><em>Trance. </em></strong>Elves don&rsquo;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is &ldquo;trance.&rdquo;) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p><h1>Dark Elf Traits</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Charisma score increases by 1.</p>
+<p><strong><em>Superior Darkvision. </em></strong>Your darkvision has a radius of 120 feet.</p>
+<p><strong><em>Sunlight Sensitivity. </em></strong>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+<p><strong><em>Drow Magic. </em></strong>You know the <em>dancing lights </em>cantrip. When you reach 3rd level, you can cast the <em>faerie fire </em>spell once per day. When you reach 5th level, you can also cast the <em>darkness </em>spell once per day. Charisma is your spellcasting ability for these spells.</p>
+<p><strong><em>Drow Weapon Training. </em></strong>You have proficiency with rapiers, shortswords, and hand crossbows.</p><h1>History</h1><h4>Dark Elf (Drow)</h4>
+<p>Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves.</p>
+<p>&nbsp;</p>",
+"reference":"Usergen"},
+
+{"id":181,
+"name":"Halfling (Lightfoot)",
+"full_text":"<h1>Halfling Base Traits</h1>
+<p>Your halfling character has a number of traits in common with all other halflings.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 2.</p>
+<p><strong><em>Age. </em></strong>A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.</p>
+<p><strong><em>Alignment. </em></strong>Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.</p>
+<p><strong><em>Size. </em></strong>Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet.</p>
+<p><strong><em>Lucky. </em></strong>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p>
+<p><strong><em>Brave. </em></strong>You have advantage on saving throws against being frightened.</p>
+<p><strong><em>Halfling Nimbleness. </em></strong>You can move through the space of any creature that is of a size larger than yours.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Halfling. The Halfling language isn&rsquo;t secret, but halflings are loath to share it with others. They write very little, so they don&rsquo;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</p><h1>Lightfoot Halfling Traits</h1>
+<p><strong><em>Ability </em></strong><strong>Score <em>Increase. </em></strong>Your Charisma score increases by 1.</p>
+<p><strong><em>Naturally Stealthy. </em></strong>You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</p><h1>History</h1><h4>Light foot</h4>
+<p>As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You&rsquo;re inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.</p>
+<p>Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows.</p>
+<p>&nbsp;</p>",
+"reference":"Usergen"},
+
+{"id":182,
+"name":"Halfling (Stout)",
+"full_text":"<h1>Halfling Base Traits</h1>
+<p>Your halfling character has a number of traits in common with all other halflings.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 2.</p>
+<p><strong><em>Age. </em></strong>A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.</p>
+<p><strong><em>Alignment. </em></strong>Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.</p>
+<p><strong><em>Size. </em></strong>Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet.</p>
+<p><strong><em>Lucky. </em></strong>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p>
+<p><strong><em>Brave. </em></strong>You have advantage on saving throws against being frightened.</p>
+<p><strong><em>Halfling Nimbleness. </em></strong>You can move through the space of any creature that is of a size larger than yours.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Halfling. The Halfling language isn&rsquo;t secret, but halflings are loath to share it with others. They write very little, so they don&rsquo;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</p><h1>Stout Halfling Traits</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Constitution score increases by 1.</p>
+<p><strong><em>Stout Resilience. </em></strong>You have advantage on saving throws against poison, and you have resistance against poison damage.</p><h1>History</h1><h4>Stout</h4>
+<p>As a stout halfling, you&rsquo;re hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they&rsquo;re most common in the south.</p>",
+"reference":"Usergen"},
+
+{"id":183,
+"name":"Human",
+"full_text":"<h1>Human Traits</h1>
+<p>It&rsquo;s hard to make generalizations about humans, but your human character has these traits.</p>
+<p><strong><em>Ability Score Increase.</em></strong> Your ability scores each increase by 1.</p>
+<p><strong><em>Age.</em></strong> Humans reach adulthood in their late teens and live less than a century.</p>
+<p><strong><em>Alignment.</em></strong> Humans tend toward no particular alignment. The best and the worst are found among them.</p>
+<p><strong><em>Size.</em></strong> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</p>
+<p><strong><em>Speed.</em></strong> Your base walking speed is 30 feet.</p>
+<p><strong><em>Languages.</em></strong> You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</p><h1>Variant Human Option</h1>
+<p>If your campaign uses the optional feat rules, your Dungeon Master might allow these variant traits, all of which replace the human&rsquo;s Ability Score Increase trait.</p>
+<p><strong>Ability Score Increase. </strong>Two different ability scores of your choice increase by 1</p>
+<p><strong>Skills. </strong>You gain proficiency in one skill of your choice.</p>
+<p><strong>Feat. </strong>You gain one feat of your choice</p>",
+"reference":"Usergen"},
+
+{"id":184,
+"name":"Dragonborn",
+"full_text":"<h1>Dragonborn Traits</h1>
+<p>Your draconic heritage manifests in a variety of traits you share with other dragonborn.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Strength score increases by 2, and your Charisma score increases by 1.</p>
+<p><strong><em>Age. </em></strong>Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.</p>
+<p><strong><em>Alignment. </em></strong>Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains.</p>
+<p><strong><em>Size. </em></strong>Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Draconic Ancestry. </em></strong>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</p>
+<p><strong><em>Breath Weapon. </em></strong>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p>
+<p>After you use your breath weapon, you can&rsquo;t use it again until you complete a short or long rest.</p><table style="height: 192px;" width="662"><tbody>
+<td><td style="text-align: center;"><strong>Dragon</strong></td><td style="text-align: center;"><strong>Damage Type</strong></td><td style="text-align: center;"><strong>Breath Weapon</strong></td></tr>
+<td><td style="text-align: center;">Black</td><td style="text-align: center;">Acid</td><td style="text-align: center;">5 by 30 ft. line (Dex. save)</td></tr>
+<td><td style="text-align: center;">Blue</td><td style="text-align: center;">Lightning</td><td style="text-align: center;">5 by 30 ft. line (Dex. save)</td></tr>
+<td><td style="text-align: center;">Brass</td><td style="text-align: center;">Fire</td><td style="text-align: center;">5 by 30 ft. line (Dex. save)</td></tr>
+<td><td style="text-align: center;">Bronze</td><td style="text-align: center;">Lightning</td><td style="text-align: center;">5 by 30 ft. line (Dex. save)</td></tr>
+<td><td style="text-align: center;">Copper</td><td style="text-align: center;">Acid</td><td style="text-align: center;">5 by 30 ft. line (Dex. save)</td></tr>
+<td><td style="text-align: center;">Gold</td><td style="text-align: center;">Fire</td><td style="text-align: center;">&nbsp;15 ft. cone (Dex. save)</td></tr>
+<td><td style="text-align: center;">Green</td><td style="text-align: center;">Poison</td><td style="text-align: center;">&nbsp;15 ft. cone (Dex. save)</td></tr>
+<td><td style="text-align: center;">Red</td><td style="text-align: center;">Fire</td><td style="text-align: center;">&nbsp;15 ft. cone (Dex. save)</td></tr>
+<td><td style="text-align: center;">Silver</td><td style="text-align: center;">Cold</td><td style="text-align: center;">&nbsp;15 ft. cone (Dex. save)</td></tr>
+<td><td style="text-align: center;">White</td><td style="text-align: center;">Cold</td><td style="text-align: center;">&nbsp;15 ft. cone (Dex. save)</td></tr></tbody></table>
+<p><strong><em>Damage Resistance. </em></strong>You have resistance to the damage type associated with your draconic ancestry.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</p>
+<p>&nbsp;</p>",
+"reference":"Usergen"},
+
+{"id":185,
+"name":"Gnome (Forest)",
+"full_text":"<h1>Gnome Base Traits</h1>
+<p>Your gnome character has certain characteristics in common with all other gnomes.</p>
+<p><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 2.</p>
+<p><strong><em>Age.</em></strong> Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.</p>
+<p><strong><em>Alignment.</em></strong> Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.</p>
+<p><strong><em>Size. </em></strong>Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong><em>Gnome Cunning. </em></strong>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</p><h1>Forest Gnome Traits</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 1.</p>
+<p><strong><em>Natural Illusionist. </em></strong>You know the <em>minor illusion </em>cantrip. Intelligence is your spellcasting ability for it.</p>
+<p><strong><em>Speak with Small Beasts. </em></strong>Through sounds and gestures, you can communicate simple ideas with small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</p>",
+"reference":"Usergen"},
+
+{"id":186,
+"name":"Gnome (Rock)",
+"full_text":"<h1>Gnome Base Traits</h1>
+<p>Your gnome character has certain characteristics in common with all other gnomes.</p>
+<p><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 2.</p>
+<p><strong><em>Age.</em></strong> Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.</p>
+<p><strong><em>Alignment.</em></strong> Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.</p>
+<p><strong><em>Size. </em></strong>Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong><em>Gnome Cunning. </em></strong>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</p><h1>Rock Gnome Traits</h1>
+<p><strong><em>Ability Score Increase. </em></strong>Your Constitution score increases by 1.</p>
+<p><strong><em>Artificer&rsquo;s Lore. </em></strong>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</p>
+<p><strong><em>Tinker. </em></strong>You have proficiency with artisan&rsquo;s tools (tinker&rsquo;s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.</p>
+<p>When you create a device, choose one of the following options:</p>
+<p><strong><em>Clockwork Toy</em></strong><em>. </em>This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.</p>
+<p><strong><em>Fire Starter.</em></strong> The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.</p>
+<p><strong><em>Music Box.</em></strong> When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song&rsquo;s end or when it is closed.</p>",
+"reference":"Usergen"},
+
+{"id":187,
+"name":"Gnome (Deep)",
+"full_text":"<h1>Gnome Base Traits</h1>
+<p>Your gnome character has certain characteristics in common with all other gnomes.</p>
+<p><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 2.</p>
+<p><strong><em>Age.</em></strong> Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.</p>
+<p><strong><em>Alignment.</em></strong> Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.</p>
+<p><strong><em>Size. </em></strong>Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 25 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong><em>Gnome Cunning. </em></strong>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</p><h1><strong>Deep Gnome Traits</strong></h1>
+<p>The svirfneblin subrace has the gnome traits in the <em>Pla</em><em>ye</em><em>r</em><em>'s </em><em>H</em><em>a</em><em>ndbook, </em>plus the subrace traits below. Unlike other gnomes, svirfneblin tend to be neutral, they weigh 80 to 120 pounds, and they reach maturity at 25 and live 200 to 250 years.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Dexterity score increases by 1.</p>
+<p><strong><em>Superior Darkvision</em></strong><strong><em>. </em></strong>Your darkvision has a radius of 120 feet.</p>
+<p><strong><em>Stone Camouflage. </em></strong>You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.</p>
+<p><strong><em>Extra Language. </em></strong>You can speak, read, and write Undercommon.</p>",
+"reference":"Usergen"},
+
+{"id":188,
+"name":"Half-Elf",
+"full_text":"<h1>Half-Elf Traits</h1>
+<p>Your half-elf character has some qualities in common with elves and some that are unique to half-elves.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.</p>
+<p><strong><em>Age. </em></strong>Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.</p>
+<p><strong><em>Alignment. </em></strong>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&rsquo; demands, and sometimes prove unreliable, or at least unpredictable.</p>
+<p><strong><em>Size. </em></strong>Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it w ere bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Fey Ancestry. </em></strong>You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.</p>
+<p><strong><em>Skill Versatility. </em></strong>You gain proficiency in two skills of your choice.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common, Elvish, and one extra language of your choice.</p>",
+"reference":"Usergen"},
+
+{"id":189,
+"name":"Half-Orc",
+"full_text":"<h1>Half-Orc Traits</h1>
+<p>Your half-orc character has certain traits deriving from your orc ancestry.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Strength score increases by 2, and your Constitution score increases by 1.</p>
+<p><strong><em>Age. </em></strong>Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.</p>
+<p><strong><em>Alignment. </em></strong>Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among ores and willing to live out their lives among them are usually evil.</p>
+<p><strong><em>Size. </em></strong>Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it w ere bright light, and in darkness as if it w ere dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong><em>Menacing. </em></strong>You gain proficiency in the Intimidation skill.</p>
+<p><strong><em>Relentless Endurance. </em></strong>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can&rsquo;t use this feature again until you finish a long rest.</p>
+<p><strong><em>Savage Attacks. </em></strong>When you score a critical hit with a melee weapon attack, you can roll one of the weapon&rsquo;s damage dice one additional time and add it to the extra damage of the critical hit.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.</p>",
+"reference":"Usergen"},
+
+{"id":190,
+"name":"Tiefling (Infernal)",
+"full_text":"<h1>Tiefling Base Traits</h1>
+<p>Tieflings share certain racial traits as a result of their infernal descent.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Charisma score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Tieflings mature at the same rate as humans but live a few years longer.</p>
+<p><strong><em>Alignment. </em></strong>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</p>
+<p><strong><em>Size. </em></strong>Tieflings are about the same size and build as humans. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it w ere dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common.</p><h1>Infernal Tiefling Traits</h1>
+<p>An infernal tiefling draws upon the power of the Nine Hells and its diabolic masters. These tieflings have the following additional features.</p>
+<p><strong>Ability Score Increase. </strong>Your Intelligence score increases by 1.</p>
+<p><strong><em>Hellish Resistance. </em></strong>You have resistance to fire damage.</p>
+<p><strong><em>Infernal Legacy. </em></strong>You know the <em>thaumaturgy </em>cantrip. Once you reach 3rd level, you can cast the <em>hellish rebuke </em>spell once per day as a 2nd-level spell. Once you reach 5th level, you can also cast the <em>darkness </em>spell once per day. Charisma is your spellcasting ability for these spells.</p>
+<p><strong>Languages. </strong>You can speak, read, and write Infernal.</p>",
+"reference":"Usergen"},
+
+{"id":191,
+"name":"Tiefling (Abyssal)",
+"full_text":"<h1>Tiefling Base Traits</h1>
+<p>Tieflings share certain racial traits as a result of their infernal descent.</p>
+<p><strong><em>Ability Score Increase. </em></strong>Your Charisma score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Tieflings mature at the same rate as humans but live a few years longer.</p>
+<p><strong><em>Alignment. </em></strong>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</p>
+<p><strong><em>Size. </em></strong>Tieflings are about the same size and build as humans. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking speed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it w ere dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common.</p><h4>Abyssal Tiefling</h4>
+<p>All abyssal tieflings trace their bloodline to the demons of the Abyss. These tieflings have the following additional features.</p>
+<p><strong>Ability Score Increase. </strong>Your Constitution score increases by 1.</p>
+<p><strong>Abyssal Arcana. </strong>Each time you finish a long rest, you gain the ability to cast cantrips and spells randomly determined from a short list. At 1<sup>st</sup> level, you can cast a cantrip. When you reach 3<sup>rd</sup> level, you can also cast a 1<sup>st</sup> level spell. At 5<sup>th</sup> level, you can cast a 2<sup>nd</sup> level spell.</p>
+<p>You can cast a spell gained from this trait only once until you complete your next long rest. You can cast a cantrip gained from this trait at will, as normal. For 1<sup>st</sup>-level spells whose effect changes if cast using a spell slot of 2<sup>nd</sup> level or higher, you cast the spell as if using a 2<sup>nd</sup>-level slot. Spells of 2<sup>nd</sup> level are cast as if using a 2<sup>nd</sup>-level slot.</p>
+<p>At the end of each long rest, you lose the cantrips and spells previously granted by this feature, even if you did not cast them. You replace those cantrips and spells by rolling for new ones on the Abyssal Arcana Spells table. Roll separately for each cantrip and spell. If you roll the same spell or cantrip you gained at the end of your previous long rest, roll again until you get a different result.</p>
+<p>&nbsp;</p><table><tbody>
+<td><td width="160">
+<p><strong>D6</strong></p></td><td width="160">
+<p><strong>1<sup>st</sup> Level</strong></p></td><td width="160">
+<p><strong>3<sup>rd</sup> Level</strong></p></td><td width="160">
+<p><strong>5<sup>th</sup> Level</strong></p></td></tr>
+<td><td width="160">
+<p><strong>1</strong></p></td><td width="160">
+<p>Dancing Lights</p></td><td width="160">
+<p>Burning Hands</p></td><td width="160">
+<p>Alter Self</p></td></tr>
+<td><td width="160">
+<p><strong>2</strong></p></td><td width="160">
+<p>True Strike</p></td><td width="160">
+<p>Charm Person</p></td><td width="160">
+<p>Darkness</p></td></tr>
+<td><td width="160">
+<p><strong>3</strong></p></td><td width="160">
+<p>Light</p></td><td width="160">
+<p>Magic Missile</p></td><td width="160">
+<p>Invisibility</p></td></tr>
+<td><td width="160">
+<p><strong>4</strong></p></td><td width="160">
+<p>Message</p></td><td width="160">
+<p>Cure wounds</p></td><td width="160">
+<p>Levitate</p></td></tr>
+<td><td width="160">
+<p><strong>5</strong></p></td><td width="160">
+<p>Spare the Dying</p></td><td width="160">
+<p>Tasha&rsquo;s hideous Laughter</p></td><td width="160">
+<p>Mirror image</p></td></tr>
+<td><td width="160">
+<p><strong>6</strong></p></td><td width="160">
+<p>Prestidigitation</p></td><td width="160">
+<p>Thunderwave</p></td><td width="160">
+<p>Spider Climb</p></td></tr></tbody></table>
+<p>&nbsp;</p>
+<p><strong>Abyssal Fortitude. </strong>Your hit point maximum increases by half your level (minimum 1).</p>
+<p><strong>Languages. </strong>You can speak, read, and write Abyssal.</p>",
+"reference":"Usergen"},
+
+{"id":192,
+"name":"Tiefling (Variant)",
+"full_text":"<h1>Tiefling Variants Traits</h1>
+<p>Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the <em>Player's Handbook</em><em>. </em>The Dungeon Master may permit the following variants for your tiefling character, although Devil's Tongue, Hellfire, and Winged are mutually exclusive.</p>
+<p><strong><em>Appearance.</em></strong> Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the <em>Player's Handbook, </em>choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat like legs ; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</p>
+<p><strong><em>Feral</em></strong><strong><em>.</em></strong> Your Intelligence score increases by 1, and your Dexterity score increases by 2. This trait replaces the Ability Score Increase trait.</p>
+<p><strong><em>Devil's Tongue.</em></strong> You know the <em>vicious mock</em><em>e</em><em>ry </em>cantrip. When you reach 3rd level, you can cast the <em>charm </em><em>person </em>spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the <em>enthrall </em>spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.</p>
+<p><strong><em>Hellfire.</em></strong> Once you reach 3rd level, you can cast the <em>burning hands </em>spell once per day as a 2nd-level spell. This trait replaces the <em>hellish rebuke </em>spell of the Infernal Legacy trait.</p>
+<p><strong><em>Winged.</em></strong> You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet. This trait replaces the Infernal Legacy trait.</p>",
+"reference":"Usergen"},
+
+{"id":193,
+"name":"Genasi (Air)",
+"full_text":"<h1>Genasi Base Traits</h1>
+<p>Your genasi character has certain characteristics in common with all other genasi.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2.</p>
+<p><strong>Age.</strong> Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.</p>
+<p><strong>Alignment.</strong> Independent and self-reliant, genasi tend toward a neutral alignment.</p>
+<p><strong>Size.</strong> Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</p><h1>Air Genasi Traits</h1>
+<p>As an air genasi, you are descended from the djinn. As changeable as the weather, your moods shift from calm to wild and violent with little warning, but these storms rarely last long.</p>
+<p>Air genasi typically have light blue skin, hair, and eyes. A faint but constant breeze accompanies them, tousling the hair and stirring the clothing. Some air genasi speak with breathy voices, marked by a faint echo. A few display odd patterns in their flesh or grow crystals from their scalps.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Unending Breath.</strong> You can hold your breath indefinitely while you&rsquo;re not incapacitated.</p>
+<p><strong>Mingle with the Wind.</strong> You can cast the levitate spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.</p>",
+"reference":"Usergen"},
+
+{"id":194,
+"name":"Genasi (Earth)",
+"full_text":"<h1>Genasi Base Traits</h1>
+<p>Your genasi character has certain characteristics in common with all other genasi.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2.</p>
+<p><strong>Age.</strong> Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.</p>
+<p><strong>Alignment.</strong> Independent and self-reliant, genasi tend toward a neutral alignment.</p>
+<p><strong>Size.</strong> Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</p><h1>Earth Genasi Traits</h1>
+<p>As an earth genasi, you are descended from the cruel and greedy dao, though you aren&rsquo;t necessarily evil. You have inherited some measure of control over earth, reveling in superior strength and solid power. You tend to avoid rash decisions, pausing long enough to consider your options before taking action.</p>
+<p>Elemental earth manifests differently from one individual to the next. Some earth genasi always have bits of dust falling from their bodies and mud clinging to their clothes, never getting clean no matter how often they bathe. Others are as shiny and polished as gemstones, with skin tones of deep brown or black, eyes sparkling like agates. Earth genasi can also have smooth metallic flesh, dull iron skin spotted with rust, a pebbled and rough hide, or even a coating of tiny embedded crystals. The most arresting have fissures in their flesh, from which faint light shines.</p>
+<p><strong>Ability Score Increase.</strong> Your Strength score increases by 1.</p>
+<p><strong>Earth Walk.</strong> You can move across difficult terrain made of earth or stone without expending extra movement.</p>
+<p><strong>Merge with Stone.</strong> You can cast the pass without trace spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.</p>",
+"reference":"Usergen"},
+
+{"id":195,
+"name":"Genasi (Fire)",
+"full_text":"<h1>Genasi Base Traits</h1>
+<p>Your genasi character has certain characteristics in common with all other genasi.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2.</p>
+<p><strong>Age.</strong> Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.</p>
+<p><strong>Alignment.</strong> Independent and self-reliant, genasi tend toward a neutral alignment.</p>
+<p><strong>Size.</strong> Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</p><h1>Fire Genasi Traits</h1>
+<p>As a fire genasi, you have inherited the volatile mood and keen mind of the efreet. You tend toward impatience and making snap judgments. Rather than hide your distinctive appearance, you exult in it.</p>
+<p>Nearly all fire genasi are feverishly hot as if burning inside, an impression reinforced by flaming red, coalblack, or ash-gray skin tones. The more human-looking have fiery red hair that writhes under extreme emotion, while more exotic specimens sport actual flames dancing on their heads. Fire genasi voices might sound like crackling flames, and their eyes flare when angered. Some are accompanied by the faint scent of brimstone.</p>
+<p><strong>Ability Score Increase.</strong> Your Intelligence score increases by 1.</p>
+<p><strong>Darkvision.</strong> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red.</p>
+<p><strong>Fire Resistance.</strong> You have resistance to fire damage.</p>
+<p><strong>Reach to the Blaze.</strong> You know the produce flame cantrip. Once you reach 3rd level, you can cast the burning hands spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.</p>",
+"reference":"Usergen"},
+
+{"id":196,
+"name":"Genasi (Water)",
+"full_text":"<h1>Genasi Base Traits</h1>
+<p>Your genasi character has certain characteristics in common with all other genasi.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2.</p>
+<p><strong>Age.</strong> Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.</p>
+<p><strong>Alignment.</strong> Independent and self-reliant, genasi tend toward a neutral alignment.</p>
+<p><strong>Size.</strong> Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</p><h1>Water Genasi Traits</h1>
+<p>The lapping of waves, the spray of sea foam on the wind, the ocean depths&mdash;all of these things call to your heart. You wander freely and take pride in your independence, though others might consider you selfish.</p>
+<p>Most water genasi look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water genasi&rsquo;s hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams.</p>
+<p><strong>Ability Score Increase.</strong> Your Wisdom score increases by 1.</p>
+<p><strong>Acid Resistance.</strong> You have resistance to acid damage.</p>
+<p><strong>Amphibious.</strong> You can breathe air and water. Swim. You have a swimming speed of 30 feet.</p>
+<p><strong>Call to the Wave</strong>. You know the shape water cantrip (see chapter 2). When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.</p>",
+"reference":"Usergen"},
+
+{"id":197,
+"name":"Changling",
+"full_text":"<h1>Changeling Traits</h1>
+<p>Changelings are subtle shapeshifters capable of disguising their appearance. Their ability to adopt other creatures&rsquo; guises makes them consummate spies and criminals.</p>
+<p>As a changeling, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity and Charisma scores increase by 1.</p>
+<p><strong>Size.</strong> Changelings are built much like humans, but a little leaner. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Duplicity.</strong> You gain proficiency in the Deception skill.</p>
+<p><strong>Shapechanger.</strong> As an action, you can polymorph into any humanoid of your size that you have seen, or back into your true form. However, your equipment does not change with you. If you die, you revert to your natural appearance.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and two other languages of your choice.</p>",
+"reference":"Usergen"},
+
+{"id":198,
+"name":"Shifter (Beasthide)",
+"full_text":"<h1>Shifter Base Traits</h1>
+<p>Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.</p>
+<p>As a shifter, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Size.</strong> Shifters are about the same size as humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Shifting.</strong> On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.</p>
+<p>While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below. You must finish a short or long rest before you can shift again.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Sylvan.</p><h1><strong>Beasthide Traits
+<br />
+</strong></h1>
+<p>As a beasthide shifter, you are especially tough and persistent in battle.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 1.</p>
+<p><strong>Shifting Feature.</strong> While shifting, you gain a +1 bonus to AC.</p>",
+"reference":"Usergen"},
+
+{"id":199,
+"name":"Shifter (Cliffwalk)",
+"full_text":"<h1>Shifter Base Traits</h1>
+<p>Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.</p>
+<p>As a shifter, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Size.</strong> Shifters are about the same size as humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Shifting.</strong> On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.</p>
+<p>While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below. You must finish a short or long rest before you can shift again.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Sylvan.</p><h1><strong>Cliffwalk Traits
+<br />
+</strong></h1>
+<p>Your cliffwalk heritage grants you the agility of a mountain goat.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Shifting Feature.</strong> While shifting, you gain a climb speed of 30 feet.</p>",
+"reference":"Usergen"},
+
+{"id":200,
+"name":"Shifter (Longstride)",
+"full_text":"<h1>Shifter Base Traits</h1>
+<p>Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.</p>
+<p>As a shifter, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Size.</strong> Shifters are about the same size as humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Shifting.</strong> On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.</p>
+<p>While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below. You must finish a short or long rest before you can shift again.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Sylvan.</p><h1><strong>Longstride Traits
+<br />
+</strong></h1>
+<p>Longstride shifters are fleet and elusive.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Shifting Feature.</strong> While shifting, you can use the Dash action as a bonus action.</p>",
+"reference":"Usergen"},
+
+{"id":201,
+"name":"Shifter (Longtooth)",
+"full_text":"<h1>Shifter Base Traits</h1>
+<p>Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.</p>
+<p>As a shifter, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Size.</strong> Shifters are about the same size as humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Shifting.</strong> On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.</p>
+<p>While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below. You must finish a short or long rest before you can shift again.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Sylvan.</p><h1><strong>Longtooth Traits
+<br />
+</strong></h1>
+<p>As a longtooth shifter, you are a ferocious combatant.</p>
+<p><strong>Ability Score Increase.</strong> Your Strength score increases by 1.</p>
+<p><strong>Shifting Feature.</strong> While shifting, you can make a bite attack as an action. This is a melee weapon attack that uses Strength for its attack roll and damage bonus and deals 1d6 piercing damage. If this attack hits a target that is your size or smaller, the target is also grappled.</p>",
+"reference":"Usergen"},
+
+{"id":202,
+"name":"Shifter (Razorclaw)",
+"full_text":"<h1>Shifter Base Traits</h1>
+<p>Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.</p>
+<p>As a shifter, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Size.</strong> Shifters are about the same size as humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Shifting.</strong> On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.</p>
+<p>While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below. You must finish a short or long rest before you can shift again.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Sylvan.</p><h1><strong>Razorclaw Traits
+<br />
+</strong></h1>
+<p>As a razorclaw shifter, you make swift, slashing strikes in battle.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Shifting Feature.</strong> While shifting, you can make an unarmed strike as a bonus action. You can use your Dexterity for its attack roll and damage bonus, and this attack deals slashing damage.</p>",
+"reference":"Usergen"},
+
+{"id":203,
+"name":"Shifter (Wildhunt)",
+"full_text":"<h1>Shifter Base Traits</h1>
+<p>Shifters are descended from humans and lycanthropes. Although they cannot fully change to animal form, they can take on animalistic features by a process they call shifting.</p>
+<p>As a shifter, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.</p>
+<p><strong>Size.</strong> Shifters are about the same size as humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Shifting.</strong> On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.</p>
+<p>While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your shifter subrace, described below. You must finish a short or long rest before you can shift again.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Sylvan.</p><h1><strong>Wildhunt Traits
+<br />
+</strong></h1>
+<p>Your wildhunt heritage makes you a consummate tracker and survivor.</p>
+<p><strong>Ability Score Increase.</strong> Your Wisdom score increases by 1.</p>
+<p><strong>Shifting Feature.</strong> While shifting, you gain advantage on all Wisdom-based checks and saving throws.</p>",
+"reference":"Usergen"},
+
+{"id":204,
+"name":"Warforged",
+"full_text":"<h1>Warforged Traits</h1>
+<p>The warforged were made as the ideal soldiers to serve in the devastating Last War. Although they are constructs, they have much in common with living creatures, including emotions and social bonds, and perhaps even souls.</p>
+<p>As a warforged, you have the following racial traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Strength and Constitution scores increase by 1.</p>
+<p><strong>Size.</strong> Warforged are generally broader and heavier than humans. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Composite Plating.</strong> Your construction incorporates wood and metal, granting you a +1 bonus to Armor Class.</p>
+<p><strong>Living Construct.</strong> Even though you were constructed, you are a living creature. You are immune to disease. You do not need to eat or breathe, but you can ingest food and drink if you wish.</p>
+<p>Instead of sleeping, you enter an inactive state for 4 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and one other language of your choice.</p>",
+"reference":"Usergen"},
+
+{"id":205,
+"name":"Minotaur",
+"full_text":"<h1>Minotaur Traits</h1>
+<p>Your minotaur character possesses a number of traits that reflect the power and superiority of your kind.</p>
+<p><strong>Ability Score Increase.</strong> Your Strength score increases by 1.</p>
+<p><strong>Conqueror&rsquo;s Virtue.</strong> From a young age, you focused on one of the three virtues of strength, cunning, or intellect. Your choice of your Strength, Intelligence, or Wisdom score increases by 1.</p>
+<p><strong>Age.</strong> Minotaurs enter adulthood at around the age of 17 and can live up to 150 years.</p>
+<p><strong>Alignment.</strong> Minotaurs believe in a strict code of honor, and thus tend toward law. They are loyal to the death and make implacable enemies, even as their brutal culture and disdain for weakness push them toward evil.</p>
+<p><strong>Size.</strong> Minotaurs typically stand well over 6 feet tall and weigh an average of 300 pounds. Your size is Medium.</p>
+<p><strong>Speed.</strong> Your base walking speed is 30 feet.</p>
+<p><strong>Horns.</strong> You are never unarmed. You are proficient with your horns, which are a melee weapon that deals 1d10 piercing damage. Your horns grant you advantage on all checks made to shove a creature, but not to avoid being shoved yourself.</p>
+<p><strong>Goring Rush</strong>. When you use the Dash action during your turn, you can make a melee attack with your horns as a bonus action.</p>
+<p><strong>Hammering Horns.</strong> When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone.</p>
+<p><strong>Labyrinthine Recall.</strong> You can perfectly recall any path you have traveled.</p>
+<p><strong>Sea Reaver.</strong> You gain proficiency with navigator&rsquo;s tools and vehicles (water).</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common.</p>
+<p>&nbsp;</p>
+<p><strong>Minotaur Bonds</strong></p>
+<p>When creating a minotaur character rooted in Krynn (or in any campaign that draws on the backstory presented here), you can use the following table of bonds to help flesh out your character. Use this table in addition to or in place of your background&rsquo;s bond or a bond of your creation.</p>
+<p>&nbsp;</p><table><tbody>
+<td><td width="49">
+<p><strong>D6</strong></p></td><td width="589">
+<p><strong>Bond</strong></p></td></tr>
+<td><td width="49">
+<p><strong>1</strong></p></td><td width="589">
+<p>My opponent in the Circus for my trial of adulthood was chosen years ago. Though we sparred only once, I fell deeply in love. Rather than fight my beloved to the death, I fled from home and have been branded a coward.</p></td></tr>
+<td><td width="49">
+<p><strong>2</strong></p></td><td width="589">
+<p>I&rsquo;m the last of my clan. If I die without achieving great deeds, the hero who is my clan&rsquo;s patron will be forgotten.</p></td></tr>
+<td><td width="49">
+<p><strong>3</strong></p></td><td width="589">
+<p>I was part of a raiding party that was defeated and enslaved. I&rsquo;ve escaped and sworn revenge.</p></td></tr>
+<td><td width="49">
+<p><strong>4</strong></p></td><td width="589">
+<p>I never shared my people&rsquo;s love of violence. I&rsquo;m part of a conspiracy to topple the emperor&rsquo;s violent regime.</p></td></tr>
+<td><td width="49">
+<p><strong>5</strong></p></td><td width="589">
+<p>I claim that I am an exile from my people, but in truth I have been sent to serve as a spy. I&rsquo;m expected to leave secret messages telling my folk of villages and towns that are ripe targets for conquest.</p></td></tr>
+<td><td width="49">
+<p><strong>6</strong></p></td><td width="589">
+<p>I&rsquo;m the last survivor of a ship wrecked in a storm. Occasionally, the spirits of my shipmates appear in my dreams and ask me to complete tasks they left unfinished in life.</p></td></tr></tbody></table>",
+"reference":"Usergen"},
+
+{"id":214,
+"name":"Aasimar",
+"full_text":"<h1><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial',sans-serif;">Aasimar Base Traits</span></h1>
+<p><strong><em>Ability </em></strong><strong>Score Increase. </strong>Your Wisdom score increases by 1<strong>, </strong>and your Charisma score increases by 2.</p>
+<p><strong><em>Age. </em></strong>Aasimar mature at the arne rate as humans but live a few years longer.</p>
+<p><strong><em>Alignment. </em></strong>Due to their celestial heritage, aasimar are often good. However, some aasimar fall into evil, rejecting their heritage.</p>
+<p><strong><em>Size. </em></strong>Aasimar are built like well-proportioned humans. Your size is Medium.</p>
+<p><strong><em>Speed. </em></strong>Your base walking s peed is 30 feet.</p>
+<p><strong><em>Darkvision. </em></strong>Thanks to your celestial heritage, youhave superior vision in dark and dim conditions. Youcan see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+<p><strong><em>Celestial Resistance. </em></strong>You have resistance to necrotic damage and radiant damage.</p>
+<p><strong><em>Celestial Legacy. </em></strong>You know the <em>light </em>can trip. Once you reach 3rd level, you can cast the <em>lesser restoration </em>spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the <em>daylight </em>spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+<p><strong><em>Languages. </em></strong>You can speak, read, and write Common and Celestial.</p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[]]

@@ -1,0 +1,130 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[{"id":165,
+"name":"Gray Dwarves (Duergar)",
+"full_text":"<h1>Gray Dwarves (Duergar)</h1>
+<p>
+<br />
+The gray dwarves, or duergar, live deep in the Un&shy;derdark. After delving deeper than any other dwarves,&nbsp;they were enslaved by mind flayers for eons. Although&nbsp;they eventually won their freedom, these grim, ash&shy;en-skinned dwarves now take slaves of their own and&nbsp;are as tyrannical as their former masters.</p><h2>
+<br />
+Duergar Subrace&nbsp;traits</h2>
+<p>The duergar subrace has the <a href="http://race.com/Dwarves, Hill Dwarves">dwarf traits in the Player's&nbsp;Handbook</a>, plus the subrace traits below.</p>
+<p><strong>Ability Score Increase.
+<br />
+</strong>Your Strength score in&shy;creases by 1.</p>
+<p><strong>Superior Darkvision.</strong> 
+<br />
+Your darkvision has a radius&nbsp;of 120 feet.</p>
+<p><strong>Extra Language.</strong> 
+<br />
+You can speak, read, and write&nbsp;Undercommon.
+<br />
+
+<br />
+<strong>Duergar Resilience.</strong> 
+<br />
+You have advantage on saving&nbsp;throws against illusions and against being charmed or&nbsp;paralyzed.
+<br />
+
+<br />
+<strong>Duerger Magic.</strong> 
+<br />
+When you reach 3rd level, you can&nbsp;cast the enlarge/reduce spell on yourself once with this&nbsp;trait, using only the spell's enlarge option. When you&nbsp;reach 5th level, you can cast the invisibility spell on&nbsp;yourself once with this trait. You don't need material&nbsp;components for either spell, and you can't cast them&nbsp;while you're in direct sunlight, although sunlight has no&nbsp;effect on them once cast. You regain the ability to cast&nbsp;these spells with this trait when you finish a long rest.
+<br />
+Intelligence is your spellcasting ability for these spells.
+<br />
+
+<br />
+<strong>Sunlight Sensitivity.</strong> 
+<br />
+You have disadvantage on attack&nbsp;rolls and on Wisdom (Perception) checks that rely on&nbsp;sight when you, the target of your attack, or whatever&nbsp;you are trying to perceive is in direct sunlight.</p>",
+"reference":"Usergen"},
+
+{"id":166,
+"name":"Moon Elves",
+"full_text":"<h1>Moon Elves</h1>
+<p>Also called silver elves, or Teu'TeJ'Quessir, moon elves&nbsp;are more tolerant and adventurous than elves of other&nbsp;sorts. In ancient times, the dissolution of their empires&nbsp;dispersed moon elves among other races, and since&nbsp;then they have traditionally gotten along well with their&nbsp;non-elf neighbors. They mingle with other people while&nbsp;their kin remain in hidden settlements and secluded&nbsp;strongholds.</p>
+<p>Moon elves are sometimes seen as frivolous, espe&shy;cially by other elves. But it is the easygoing, fluid nature&nbsp;of their culture, philosophy, and personality that has&nbsp;enabled them to survive and flourish during and aftertragic times in elven history. While communities of&nbsp;moon elves can be found in mainland Faerun, many&nbsp;moon elves live in the settlements of other races, staying&nbsp;for a few seasons or several decades before moving on.</p>
+<p>To a moon elf, home can be among the members of&nbsp;one's family, clan, or other friends and loved ones. Moon&nbsp;elves who temporarily take up residence in or near sun&nbsp;elf communities aren't shy about expressing the opinion&nbsp;that their kin need to be less serious. In turn, the sun&nbsp;elves pretend to be more annoyed by their moon elf&nbsp;neighbors than they truly are, provided that the moon&nbsp;elves' whims and adventuresome urges don't cause&nbsp;serious disruption. Given that the moon elves usually&nbsp;move on before wearing out their welcome, such unrest&nbsp;rarely occurs.</p>
+<p>Moon elves have the racial traits of <a href="http://race.com/Elves, High Elves">high elves in the Player's Handbook</a>. They have pale skin with a bluish tint. Their hair runs the gamut of human colors, and some moon elves have hair of silvery white or various shades of blue. Their eyes are blue or green and have gold flecks.</p>
+<p>Given the race's love of travel, exploration, and new&nbsp;experiences, many moon elves become adventurers, uti&shy;lizing their talents for warfare, woodcraft, and wizardry&nbsp;in different measures.</p>",
+"reference":"Usergen"},
+
+{"id":167,
+"name":"Shield Dwarves",
+"full_text":"<h1>Shield Dwarves</h1>
+<p>The ancestral home of the shield dwarves is in northernFaerfin, where ancient dwarfholds exist in the North,Damara, Impiltur, Vaasa, the Vast, and the WesternHeartlands. The most famous of the old shield dwarfcities is Citadel Adbar, north and east of Silverymoon.Many of these dwarfholds have changed hands over thecenturies in a cycle of invasion by enemies, followed byreconquest by the dwarves.Living in a near-constant state of war for generations,shield dwarves are a hardy people, slow to trust, with long memories and often an equally long list of griev&shy;ances against their ancient enemies. The more conser&shy;vative among them want to maintain the traditions andremaining holdings of their people, isolated from the in&shy;fluence of outsiders and safe from invaders behind thickwalls of stone.
+<br />
+Shield dwarves of a more adventurous bent are interested in exploring the world and seeingwhat lies beyond the bounds of their ancient dwarfholds.</p>
+<p>Shield dwarves have the racial traits of <a href="http://race.com/Mountain Dwarf">mountain dwarves in the Player's Handboo</a>k. Their skin is usu&shy;ally fair, eyes green, hazel, or silver-blue, and they havebrown, blond, or red hair. Full beards and mustachesare commonly seen on male shield dwarves.Shield dwarves are renowned artisans, particularly inmetal and stone. They tend to focus more on sturdinessin their craft than on the artistic flourishes and gildingfavored by their gold dwarf cousins. Shield dwarf craft&shy;ers build to last, and each one's signature mark placedupon an enduring masterpiece serves as a way of gain&shy;ing immortality.</p>",
+"reference":"Usergen"},
+
+{"id":168,
+"name":"Gold Dwarves",
+"full_text":"<h1>Gold Dwarves</h1>
+<p>Gold dwarves are common in the lands to the south andeast. They are formidable warriors, proud of their longtraditions, with strong ties to clan. They are gruff andhaughty and have a love of fine craftsmanship and aneagerness to trade.Significant settlements of gold dwarves exist in theGreat Rift, the area surrounding the Dragon Coast, as well as in the Old Empires of eastern Faerun. Smaller communities are found in the Smoking Moun&shy;tains, in the Giant's Run Mountains, and the Western Heartlands. 
+<br />
+Because they have not endured the same cycle ofinvasion and displacement, gold dwarves tend to bemore optimistic than their shield dwarf cousins, butthey're still standoffish and prideful as only a dwarf can be. They believe their race's stable history is theresult of their attentiveness to tradition, and have little doubt that the future of the gold dwarves will be justas peaceful, if they remain true to their customs andprinciples.</p>
+<p>Gold dwarves have the racial traits of <a href="http://race.com/Dwarves, Hill Dwarves">hill dwarves in the Player's Handbook</a>. They are stocky and muscular, averaging about 4 feet tall, with brown skin, black or brown hair, and brown or hazel eyes, with green eyes rare (and considered lucky). Males grow full beards that they keep oiled and well groomed, and both genders wear their hair long and often elaborately braided. Gold dwarves are best known for crafting beautiful objects. According to them, all the natural resources of the world exist for mortals to turn them into objects of great beauty. Gold dwarves don't want the most of every&shy; thing; they want the best. Their artisans toil over items for years, getting their etchings and fine details just right before being satisfied with their efforts. That deliberate, perfectionist approach is a reflection of gold dwarf culture, in which there is a right and proper way to do everything. Tradition dictates every as&shy; pect of a gold dwarf's life, from one's 'Place in society, to prospects for marriage, to what careers are acceptable. Gold dwarves who take up a life of adventuring, away from the clan, rarely forsake their traditions when doing so. Even though they might have to live as outsiders for a time, they hope to ultimately improve their standing in their society.</p>",
+"reference":"Usergen"},
+
+{"id":169,
+"name":"Sun elves",
+"full_text":"<h1>Sun Elves</h1>
+<p>Sun elves, also known as gold elves, or Ar'Tel'Ques&shy;-sir, have a reputation for being arrogant and self-important. Many of them believe they are Corellon's chosen people and that other races-even other elves-are subordinate to them in skill, signifi&shy; cance, and sophistication. They claim the title of "high elves" with pride, and indeed their race is responsible for great, and sometimes terrible, achievements. Recalling and emphasizing the glorious aspects of their history, sun elves subscribe to the principle of "elven excellence"- no matter how interesting, excep&shy; tional, heroic, or noteworthy other races' accomplish&shy;ments might be, there is an inherent superiority to all things elven. This attitude colors sun elves' relations with other elves, whom they see as diluted or dimin&shy; ished representatives of elven culture.</p>
+<p>Some sun elves reject this way of thinking, but it is common enough that when most folk of Faerun see a sun elf, they see arrogance personified. Their haughty attitude can over&shy; shadow the fact that most sun elves are also tirelessly compassionate and thoughtful champions of good.</p>
+<p>Sun elves have the racial traits of<a href="http://race.com/Elves, High Elves"> high elves in the Player's Handbook</a>. Sun elves have bronze skin. Their eyes are black, metallic gold, or metallic silver, and their hair is black, metallic copper, or golden blond. Sun elf culture and civilization is highly magical in nature, thanks to the race's many accomplished wiz&shy; ards, sages, and crafters. Not every sun elf is a skilled practitioner of the Art, but each one has at least a bit of inherent magic. Many sun elves mix magic with other art forms, which produces the complex dance of the&nbsp;blade singers as well as the enchanting music of their&nbsp;bards and the meticulous craftwork of their artisans.
+<br />
+Sun elf adventurers often bring a feeling of noblesse&nbsp;oblige to their profession: they venture out into the world&nbsp;to challenge its dangers because someone must, and&nbsp;who could be better suited?</p>",
+"reference":"Usergen"},
+
+{"id":170,
+"name":"Wood Elves (Faerun)",
+"full_text":"<h1>Wood Elves</h1>
+<p>Also called copper elves, or Sy'Tel'Quessir, wood elves are the most common elves remaining in Faerfin. Their ancestors left behind the strife of the Crown Wars mil&shy; lennia ago to found strongholds and settlements deep in the forests. Today, most wood elves stand guard over the ruins of the past, believing it their duty to preserve their fallen glory as an object lesson of the dangers of hubris. Wood elves tend to be hardier than other elves, more solid and grounded than their cousins. This atti&shy; tude is reflected in their culture and traditions; wood elves tend more toward physical pursuits than do other elves, and they view ancient elven history with a more critical eye. To the wood elves, the "great" elven kingdoms were responsible for many equally great mistakes. They look upon the Sundering, the Crown Wars, the descent of the drow, and other calamities as the result of acts of arrogance on the part of their an&shy; cestors. Living around and amid the reminders of this arrogance, and standing witness to the rise and fall of many elven empires, wood elves see the place of elves in the world differently than moon or sun elves do. Wood elves seek a quiet harmony, not domination, with the wider world. Sylvan counterparts of the sun elves and moon elves, wood elves eschew the cities and strongholds of&nbsp;their kin in favor of living close to nature. Wood elves have not claimed a large realm of their own since the kingdom of Eaerlann was destroyed millennia ago. Instead they maintain a number of smaller settlements, the better to keep those communities hidden or pro&shy; tected. Wood elves claim territory in the High Forest, the Great Dale, the Western Heartlands, and beyond.</p>
+<p>Some wood elves live in other elven communities and territories, where they serve as scouts, rangers, and hunters. Despite seeing themselves as part of the world, wood elves don't commonly emerge from their homes to encounter non-elves. Likewise, in the deep woods and forests of the world, most wood elves don't come across members of other races. Adventurers, diplomats, couri&shy; ers, and those who pursue similar professions are the exceptions, traveling far outside their sylvan domains and meeting a wide variety of folk.</p>
+<p>Wood elves in Faerun have the racial traits of <a href="http://race.com/Wood Elf">wood elves in the Player's Handbook</a>. They have tan or coppery skin, with hair of wood brown, golden blond, black, or a shining metallic copper, and eyes of green, brown, or hazel. Skilled naturalists, wood elves often take up profes&shy; sions that allow them to remain close to the wild or to make use of their knowledge of woodcraft, wildlife, and forestry. Wood elves are more than capable in warfare, particularly archery. They are less magically inclined than their cousins, but have their fair share of practi&shy; tioners of the Art, as well as clerics and many druids.</p>",
+"reference":"Usergen"},
+
+{"id":171,
+"name":"Dark Elves (Faerun)",
+"full_text":"
+<p>Dark Elves (Faerun)</p>
+<p>The drow are descended from the dark elves who retreated into the Underdark after the Crown Wars. They are infamous for their cruelty, evilness, and drive to dominate. For much of history, many believed that all drow were beings of inherent and irredeemable evil. In truth, most drow do align with evil, engaging in torture, slavery, murder, and other nefarious activities in the name of their demon-goddess. Almost always, dark elves who reject the ways of their people are exiled, or executed for being rebels, heretics, and insurrectionists who have turned against drow culture and the will of Lolth. But the existence of noble and self-sacrificing drow such as Liriel Baenre and Drizzt Do'Urden suggests that the evil of the drow isn't innate and can be overcome. The ac&shy; tions of these few heroic drow have tempered some peo&shy; ple's opinions toward the race, although the appearance of a dark elf on the surface remains a rare event and a cause for alarm.</p>
+<p>Many drow in Faerun hail from Menzoberranzan, the infamous City of Spiders, or one of the other drow city&shy; states in the Underdark, such as jhachalkhyn or Ched Nasad. Dark elves encountered on the surface are usu&shy; ally found near entrances to the Underdark, because they are harmed by the light of day, which weakens them and their magic. Drow who become adventurers often do so after fleeing the oppressive, cruel theoc&shy; racy of the city-states. Most of these individuals live as outcasts and wanderers, though a rare few find new homes with another race or culture.</p>
+<p>Drow have the racial traits of <a href="http://race.com/DarkElf, Drow">dark elves in the Player's Handbook</a>. Drow characters can come from any back&shy; ground, though most have a history that links to one of the drow city-states of the Underdark. Inherent magical abilities and a preference for dark places make drow naturally adept as assassins, thieves, and spies. Traditionally, male drow are warriors and wizards, and female drow occupy leadership roles as warriors or priestesses of Lolth. Drow exiles tend to fol&shy; low their own path regardless of gender.</p>",
+"reference":"Usergen"},
+
+{"id":172,
+"name":"Strongheart Halflings",
+"full_text":"<h1>Strongheart Halflings</h1>
+<p>Creatures of the earth who love a warm hearth and pleasant company, strongheart halflings are folks of few enemies and many friends. Stronghearts are sometimes referred to fondly by members of other races as "the good folk," for little upsets stronghearts or corrupts their spirit. To many of them, the greatest fear is to live in a world of poor company and mean intent, where one lacks freedom and the comfort of friendship. When strongheart halflings settle into a place, they intend to stay. It's not unusual for a dynasty of strong&shy; hearts to live in the same place for a few centuries. Strongheart halflings don't develop these homes in seclusion. On the contrary, they do their best to fit into the local community and become an essential part of it. Their viewpoint stresses cooperation above all other traits, and the ability to work well with others is the most valued behavior in their lands. Pushed from their nests, strongheart haflings typically try to have as many comforts of home with them as possible. Non-stronghearts with a more practical bent can find strongheart travel habits maddening, but their lightfoot cousins typically enjoy the novelty of it-so long as the lightfoots don't have to carry any of the baggage. While often stereotyped as fat and lazy due to their homebound mindset and obsession with fine food, strongheart halfings are typically quite industrious. Nimble hands, their patient mindset, and their emphasis on quality makes them excellent weavers, potters, wood carvers, basket makers, painters, and farmers.</p>
+<p>Strongheart halflings have all the racial traits of <a href="http://race.com/Stout Halfling">stouts in the Player's Handbook</a>. Strongheart halflings are shorter on average than their lightfoot kin, and tend to have rounder faces. They have the skin tones and hair colors of humans, with most having brown hair. Unlike their lightfoot cousins, strongheart halflings often have blond or black hair and blue or green eyes. Males don't grow beards or mustaches, but both males and females can grow sideburns down to mid-cheek, and both gen&shy; ders plait them into long braids.</p>",
+"reference":"Usergen"},
+
+{"id":173,
+"name":"Deep Gnomes (Svirfneblin)",
+"full_text":"<h1>Deep Gnomes (Svirfneblin)</h1>
+<p>Also known as svirfneblin, the deep gnomes of the Un&shy; derdark are a stark contrast to their surface kin, dour and serious compared to the cheerful and generally optimistic rock gnomes and forest gnomes. They share their cousins' obsession with privacy, and their homes below the surface of Faeriln are well guarded and deeply hidden. Owing to the hostility of their Underdark neighbors, particularly the drow, the settlements and kingdoms of svirfneblin are in constant danger of being relocated, conquered, or destroyed. Such was the fate of Bling&shy; denstone, one of the grandest deep gnome strongholds, which existed for more than two thousand years until it was overrun a little more than a century ago by the dark elves of Menzoberranzan. The deep gnomes recently reclaimed their old home, and now struggle to rid it of malign influences that have crept into the tunnels and warrens in their absence. Deep gnomes are lean with dark, earthen skin tones of gray. Males are bald and beardless, while females have hair on their heads. Both sexes have little or no body hair and a stone-like look to their skin. Deep gnome adventurers are just as curious and daring as those of other races. Some find their purpose living among other subterranean races, and a few make their way to the surface. Those who study the arcane arts of illusion in particular often range far from home, seeking knowledge unavailable in their own lands.</p><h2>Subrace Traits</h2>
+<p>The svirfneblin sub race has the <a href="http://race.com/Gnomes, Rock Gnomes">gnome traits in the&nbsp;Player's Handbook</a>, plus the subrace traits below. Unlike&nbsp;other gnomes, svirfneblin tend to be neutral, they weigh&nbsp;80 to 120 pounds, and they reach maturity at 25 and live
+<br />
+200 to 250 years.
+<br />
+<strong>Ability Score Increase.</strong> Your Dexterity score in&shy;&nbsp;creases by 1.
+<br />
+<strong>Superior Darkvision.</strong> Your darkvision has a radius&nbsp;of 120 feet.
+<br />
+<strong>Stone Camouflage.</strong> You have advantage on Dexterity&nbsp;(Stealth) checks to hide in rocky terrain.
+<br />
+<strong>Extra Language.</strong> You can speak, read, and write&nbsp;Undercommon.</p>
+<p>&nbsp;</p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[]]

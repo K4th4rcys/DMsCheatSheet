@@ -1,0 +1,651 @@
+[{"id":10024,"name":"Arawai",
+"full_text":"<h1>Arawai</h1>
+<p><i>goddess of fertility </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Life, Nature <br/>Symbol: Sheaf of wheat tied with green ribbon <br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10025,"name":"Aureon",
+"full_text":"<h1>Aureon</h1>
+<p><i>god of law and knowledge </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Knowledge<br/>Symbol: Open tome<br/></p>",
+"alignment":"LN ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10026,"name":"Azuth",
+"full_text":"<h1>Azuth</h1>
+<p><i>god of wizards</i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge<br/>Symbol: Left hand pointing upward, outlined in fire<br/></p>",
+"alignment":"Lawful Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10027,"name":"Balinor",
+"full_text":"<h1>Balinor</h1>
+<p><i>god of beasts and the hunt </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Life, Nature<br/>Symbol: Pair of antlers<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10028,"name":"Beory",
+"full_text":"<h1>Beory</h1>
+<p><i>goddess of nature</i><br/>Origin: Greyhawk<br/>Domains: Nature<br/>Symbol: Green disk<br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10029,"name":"Beshaba",
+"full_text":"<h1>Beshaba</h1>
+<p><i>goddess of misfortune </i><br/>Origin: Forgotten Realms<br/>Domains: Trickery <br/>Symbol: Black antlers<br/></p>",
+"alignment":"Chaotic Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10030,"name":"Bhaal",
+"full_text":"<h1>Bhaal</h1>
+<p><i>god of murder</i><br/>Origin: Forgotten Realms<br/>Domains: Death<br/>Symbol: Skull surrounded by a ring of blood droplets<br/></p>",
+"alignment":"Neutral Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10031,"name":"Blibdoolpoolp",
+"full_text":"<h1>Blibdoolpoolp</h1>
+<p><i>kuo-toa goddess </i><br/>Origin: Nonhuman Deities<br/>Domains: Death<br/>Symbol: Lobster head or black pearl <br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10032,"name":"Boldrei",
+"full_text":"<h1>Boldrei</h1>
+<p><i>goddess of community and home </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Life<br/>Symbol: Fire in a stone hearth<br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10033,"name":"Branchala",
+"full_text":"<h1>Branchala</h1>
+<p><i>god of music </i><br/>Origin: Dragonlance<br/>Domains: Light<br/>Symbol: Bard's harp<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10034,"name":"Chauntea",
+"full_text":"<h1>Chauntea</h1>
+<p><i>goddess of agriculture </i><br/>Origin: Forgotten Realms<br/>Domains: Life <br/>Symbol: Sheaf of grain or a blooming rose over grain<br/></p>",
+"alignment":"Neutral Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10035,"name":"Chislev",
+"full_text":"<h1>Chislev</h1>
+<p><i>goddess of nature </i><br/>Origin: Dragonlance<br/>Domains: Nature<br/>Symbol: Feather<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10036,"name":"Cults of the Dragon Below",
+"full_text":"<h1>Cults of the Dragon Below</h1>
+<p><i>deities of madness </i><br/>Origin: Eberron<br/>Domains: Trickery <br/>Symbol: Varies<br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10037,"name":"Cyric",
+"full_text":"<h1>Cyric</h1>
+<p><i>god of lies</i><br/>Origin: Forgotten Realms<br/>Domains: Trickery <br/>Symbol: White jawless skull on black or purple sunburst<br/></p>",
+"alignment":"Chaotic Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10038,"name":"Deep Sashelas",
+"full_text":"<h1>Deep Sashelas</h1>
+<p><i>elf god of the sea </i><br/>Origin: Nonhuman Deities<br/>Domains: Nature, Tempest <br/>Symbol: Dolphin<br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10039,"name":"Deneir",
+"full_text":"<h1>Deneir</h1>
+<p><i>god of writing</i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge <br/>Symbol: Lit candle above an open eye<br/></p>",
+"alignment":"Neutral Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10040,"name":"Dol Arrah",
+"full_text":"<h1>Dol Arrah</h1>
+<p><i>goddess of sunlight and honor </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Light, War <br/>Symbol: Rising sun<br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10041,"name":"Dol Dorn",
+"full_text":"<h1>Dol Dorn</h1>
+<p><i>god of strength at arms </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: War<br/>Symbol: Longsword crossed over a shield <br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10042,"name":"Eadro",
+"full_text":"<h1>Eadro</h1>
+<p><i>merfolk deity of the sea  </i><br/>Origin: Nonhuman Deities<br/>Domains: Nature, Tempest <br/>Symbol: Spiral design<br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10043,"name":"Eldath",
+"full_text":"<h1>Eldath</h1>
+<p><i>goddess of peace</i><br/>Origin: Forgotten Realms<br/>Domains: Life, Nature <br/>Symbol: Waterfall plunging into still pool<br/></p>",
+"alignment":"Neutral Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10044,"name":"Gilean",
+"full_text":"<h1>Gilean</h1>
+<p><i>god of knowledge </i><br/>Origin: Dragonlance<br/>Domains: Knowledge<br/>Symbol: Open book<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10045,"name":"Gond",
+"full_text":"<h1>Gond</h1>
+<p><i>god of craft</i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge <br/>Symbol: Toothed cog with four spokes<br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10046,"name":"Grolantor",
+"full_text":"<h1>Grolantor</h1>
+<p><i>hill giant god of war </i><br/>Origin: Nonhuman Deities<br/>Domains: War<br/>Symbol: Wooden club<br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10047,"name":"Habbakuk",
+"full_text":"<h1>Habbakuk</h1>
+<p><i>god of animal life and the sea </i><br/>Origin: Dragonlance<br/>Domains: Nature, Tempest <br/>Symbol: Blue bird<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10048,"name":"Helm",
+"full_text":"<h1>Helm</h1>
+<p><i>god of protection</i><br/>Origin: Forgotten Realms<br/>Domains: Life, Light <br/>Symbol: Staring eye on upright left gauntlet<br/></p>",
+"alignment":"Lawful Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10049,"name":"Hiddukel",
+"full_text":"<h1>Hiddukel</h1>
+<p><i>god of lies and greed </i><br/>Origin: Dragonlance<br/>Domains: Trickery<br/>Symbol: Broken merchant's scales <br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10050,"name":"Hruggek",
+"full_text":"<h1>Hruggek</h1>
+<p><i>bugbear god of violence </i><br/>Origin: Nonhuman Deities<br/>Domains: War<br/>Symbol: Morningstar<br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10051,"name":"Ilmater",
+"full_text":"<h1>Ilmater</h1>
+<p><i>god of endurance </i><br/>Origin: Forgotten Realms<br/>Domains: Life <br/>Symbol: Hands bound at the wrist with red cord<br/></p>",
+"alignment":"Lawful Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10052,"name":"Incabulos",
+"full_text":"<h1>Incabulos</h1>
+<p><i>god of plague and famine </i><br/>Origin: Greyhawk<br/>Domains: Death <br/>Symbol: Reptilian eye with a horizontal diamond <br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10053,"name":"Kelemvor",
+"full_text":"<h1>Kelemvor</h1>
+<p><i>god of the dead </i><br/>Origin: Forgotten Realms<br/>Domains: Death<br/>Symbol: Upright skeletal arm holding balanced scales<br/></p>",
+"alignment":"Lawful Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10054,"name":"Kiri-Jolith",
+"full_text":"<h1>Kiri-Jolith</h1>
+<p><i>god of honor and war </i><br/>Origin: Dragonlance<br/>Domains: War<br/>Symbol: Bison's horns<br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10055,"name":"Kol Korran",
+"full_text":"<h1>Kol Korran</h1>
+<p><i>god of trade and wealth </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Trickery<br/>Symbol: Nine-sided gold coin<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10056,"name":"Kurtulmak",
+"full_text":"<h1>Kurtulmak</h1>
+<p><i>kobold god of war and mining </i><br/>Origin: Nonhuman Deities<br/>Domains: War<br/>Symbol: Gnome skull<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10057,"name":"Laogzed",
+"full_text":"<h1>Laogzed</h1>
+<p><i>troglodyte god of hunger </i><br/>Origin: Nonhuman Deities<br/>Domains: Death <br/>Symbol: Image of the lizard/toad god <br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10058,"name":"Lathander",
+"full_text":"<h1>Lathander</h1>
+<p><i>god of birth and renewal </i><br/>Origin: Forgotten Realms<br/>Domains: Life, Light <br/>Symbol: Road traveling into a sunrise<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10059,"name":"Leira",
+"full_text":"<h1>Leira</h1>
+<p><i>goddess of illusion</i><br/>Origin: Forgotten Realms<br/>Domains: Trickery <br/>Symbol: Point-down triangle containing a swirl of mist <br/></p>",
+"alignment":"CN ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10060,"name":"Lliira",
+"full_text":"<h1>Lliira</h1>
+<p><i>goddess of joy</i><br/>Origin: Forgotten Realms<br/>Domains: Life<br/>Symbol: Triangle of three six-pointed stars<br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10061,"name":"Loviatar",
+"full_text":"<h1>Loviatar</h1>
+<p><i>goddess of pain</i><br/>Origin: Forgotten Realms<br/>Domains: Death <br/>Symbol: Nine-tailed barbed scourge<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10062,"name":"Lunitari",
+"full_text":"<h1>Lunitari</h1>
+<p><i>goddess of neutral magic </i><br/>Origin: Dragonlance<br/>Domains: no clerics <br/>Symbol: Red circle or sphere<br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10063,"name":"Maglubiyet",
+"full_text":"<h1>Maglubiyet</h1>
+<p><i>goblinoid god of war </i><br/>Origin: Nonhuman Deities<br/>Domains: War<br/>Symbol: Bloody axe<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10064,"name":"Majere",
+"full_text":"<h1>Majere</h1>
+<p><i>god of meditation and order </i><br/>Origin: Dragonlance<br/>Domains: Knowledge <br/>Symbol: Copper spider<br/></p>",
+"alignment":"LC ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10065,"name":"Malar",
+"full_text":"<h1>Malar</h1>
+<p><i>god of the hunt</i><br/>Origin: Forgotten Realms<br/>Domains: Nature <br/>Symbol: Clawed paw<br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10066,"name":"Mask",
+"full_text":"<h1>Mask</h1>
+<p><i>god of thieves</i><br/>Origin: Forgotten Realms<br/>Domains: Trickery <br/>Symbol: Black mask<br/></p>",
+"alignment":"CN ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10067,"name":"Mielikki",
+"full_text":"<h1>Mielikki</h1>
+<p><i>goddess of forests</i><br/>Origin: Forgotten Realms<br/>Domains: Nature <br/>Symbol: Unicorn's head<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10068,"name":"Milil",
+"full_text":"<h1>Milil</h1>
+<p><i>god of poetry and song </i><br/>Origin: Forgotten Realms<br/>Domains: Light <br/>Symbol: Five-stringed harp made of leaves<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10069,"name":"Mishakal",
+"full_text":"<h1>Mishakal</h1>
+<p><i>goddess of healing </i><br/>Origin: Dragonlance<br/>Domains: Knowledge, Life <br/>Symbol: Blue infinity sign <br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10070,"name":"Morgion",
+"full_text":"<h1>Morgion</h1>
+<p><i>god of disease and secrecy </i><br/>Origin: Dragonlance<br/>Domains: Death <br/>Symbol: Hood with two red eyes <br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10071,"name":"Myrkul",
+"full_text":"<h1>Myrkul</h1>
+<p><i>god of death</i><br/>Origin: Forgotten Realms<br/>Domains: Death <br/>Symbol: White human skull<br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10072,"name":"Mystra",
+"full_text":"<h1>Mystra</h1>
+<p><i>goddess of magic </i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge <br/>Symbol: Circle of seven stars, or nine stars encircling a flowing red mist, or a single star<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10073,"name":"Nuitari",
+"full_text":"<h1>Nuitari</h1>
+<p><i>god of evil magic </i><br/>Origin: Dragonlance<br/>Domains: no clerics<br/>Symbol: Black circle or sphere<br/></p>",
+"alignment":"Lawful Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10074,"name":"Oghma",
+"full_text":"<h1>Oghma</h1>
+<p><i>god of knowledge</i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge <br/>Symbol: Blank scroll<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10075,"name":"Olladra",
+"full_text":"<h1>Olladra</h1>
+<p><i>goddess of good fortune </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Life, Trickery <br/>Symbol: Domino<br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10076,"name":"Onatar",
+"full_text":"<h1>Onatar</h1>
+<p><i>god of craft </i><br/>Origin: Eberron The Sovereign Host<br/>Domains: Knowledge<br/>Symbol: Crossed hammer and tongs<br/></p>",
+"alignment":"Neutral Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10077,"name":"Paladine",
+"full_text":"<h1>Paladine</h1>
+<p><i>god of rulers and guardians </i><br/>Origin: Dragonlance<br/>Domains: War<br/>Symbol: Silver triangle<br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10078,"name":"Ralishaz",
+"full_text":"<h1>Ralishaz</h1>
+<p><i>god of ill luck and insanity </i><br/>Origin: Greyhawk<br/>Domains: Trickery<br/>Symbol: Three bone fate-casting sticks<br/></p>",
+"alignment":"CN ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10079,"name":"Reorx ",
+"full_text":"<h1>Reorx </h1>
+<p><i>god of craft </i><br/>Origin: Dragonlance<br/>Domains: Knowledge <br/>Symbol: Forging hammer <br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10080,"name":"Rillifane Rallathil",
+"full_text":"<h1>Rillifane Rallathil</h1>
+<p><i>wood elf god of nature </i><br/>Origin: Nonhuman Deities<br/>Domains: Nature <br/>Symbol: Oak<br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10081,"name":"Sargonnas",
+"full_text":"<h1>Sargonnas</h1>
+<p><i>god of vengeance and fire </i><br/>Origin: Dragonlance<br/>Domains: War <br/>Symbol: Stylized red condor<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10082,"name":"Savras",
+"full_text":"<h1>Savras</h1>
+<p><i>god of divination and fate </i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge <br/>Symbol: Crystal ball containing many kinds of eyes<br/></p>",
+"alignment":"LN ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10083,"name":"Sehanine Moonbow ",
+"full_text":"<h1>Sehanine Moonbow </h1>
+<p><i>elf goddess of the moon </i><br/>Origin: Nonhuman Deities<br/>Domains: Knowledge <br/>Symbol: Crescent moon<br/></p>",
+"alignment":"Chaotic Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10084,"name":"Sekolah",
+"full_text":"<h1>Sekolah</h1>
+<p><i>sahuagin god of the hunt </i><br/>Origin: Nonhuman Deities<br/>Domains: Nature, Tempest <br/>Symbol: Shark<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10085,"name":"SelUne",
+"full_text":"<h1>SelUne</h1>
+<p><i>goddess of the moon</i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge, Life <br/>Symbol: Pair of eyes surrounded by seven stars<br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10086,"name":"Semuanya",
+"full_text":"<h1>Semuanya</h1>
+<p><i>lizardfolk deity of survival </i><br/>Origin: Nonhuman Deities<br/>Domains: Life<br/>Symbol: Egg<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10087,"name":"Shar",
+"full_text":"<h1>Shar</h1>
+<p><i>goddess of darkness and loss </i><br/>Origin: Forgotten Realms<br/>Domains: Death, Trickery <br/>Symbol: Black disk encircled with a border<br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10088,"name":"Shinare",
+"full_text":"<h1>Shinare</h1>
+<p><i>goddess of wealth and trade </i><br/>Origin: Dragonlance<br/>Domains: Knowledge, Trickery <br/>Symbol: Griffon's wing <br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10089,"name":"Silvanus",
+"full_text":"<h1>Silvanus</h1>
+<p><i>god of wild nature</i><br/>Origin: Forgotten Realms<br/>Domains: Nature <br/>Symbol: Oak leaf<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10090,"name":"Sirrion",
+"full_text":"<h1>Sirrion</h1>
+<p><i>god of fire and change </i><br/>Origin: Dragonlance<br/>Domains: Nature<br/>Symbol: Multi-colored fire<br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10091,"name":"Skerrit",
+"full_text":"<h1>Skerrit</h1>
+<p><i>centaur and satyr god of nature </i><br/>Origin: Nonhuman Deities<br/>Domains: Nature <br/>Symbol: Oak growing from acorn <br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10092,"name":"Skoraeus Stonebones ",
+"full_text":"<h1>Skoraeus Stonebones </h1>
+<p><i>god of stone giants and art </i><br/>Origin: Nonhuman Deities<br/>Domains: Knowledge <br/>Symbol: Stalactite<br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10093,"name":"Solinari",
+"full_text":"<h1>Solinari</h1>
+<p><i>god of good magic </i><br/>Origin: Dragonlance<br/>Domains: no clerics<br/>Symbol: White circle or sphere<br/></p>",
+"alignment":"Lawful Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10094,"name":"St. Cuthbert",
+"full_text":"<h1>St. Cuthbert</h1>
+<p><i>god of common sense and zeal</i><br/>Origin: Greyhawk<br/>Domains: Knowledge<br/>Symbol: Circle at the center of a starburst of lines <br/></p>",
+"alignment":" LN ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10095,"name":"Sune",
+"full_text":"<h1>Sune</h1>
+<p><i>goddess of love and beauty </i><br/>Origin: Forgotten Realms<br/>Domains: Life, Light <br/>Symbol: Face of a beautiful red-haired woman <br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10096,"name":"Surtur",
+"full_text":"<h1>Surtur</h1>
+<p><i>god of fire giants and craft </i><br/>Origin: Nonhuman Deities<br/>Domains: Knowledge, War <br/>Symbol: Flaming sword<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10097,"name":"Takhisis",
+"full_text":"<h1>Takhisis</h1>
+<p><i>goddess of night and hatred </i><br/>Origin: Dragonlance<br/>Domains: Death<br/>Symbol: Black crescent<br/></p>",
+"alignment":"LE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10098,"name":"Talona",
+"full_text":"<h1>Talona</h1>
+<p><i>goddess of disease and poison </i><br/>Origin: Forgotten Realms<br/>Domains: Death <br/>Symbol: Three teardrops on a triangle<br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10099,"name":"Talos",
+"full_text":"<h1>Talos</h1>
+<p><i>god of storms</i><br/>Origin: Forgotten Realms<br/>Domains: Tempest <br/>Symbol: Three lightning bolts radiating from a central point <br/></p>",
+"alignment":"CE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10100,"name":"The Blood of Vol",
+"full_text":"<h1>The Blood of Vol</h1>
+<p><i>philosophy of immortality and undeath  </i><br/>Origin: Eberron<br/>Domains: Death, Life<br/>Symbol: Stylized dragon skull on red teardrop gem<br/></p>",
+"alignment":"Lawful Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10101,"name":"The Devourer",
+"full_text":"<h1>The Devourer</h1>
+<p><i>god of nature's wrath </i><br/>Origin: Eberron The Dark Six <br/>Domains: Tempest<br/>Symbol: Bundle of five sharpened bones<br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10102,"name":"The Fury",
+"full_text":"<h1>The Fury</h1>
+<p><i>goddess of wrath and madness </i><br/>Origin: Eberron The Dark Six <br/>Domains: War<br/>Symbol: Winged wyrm with woman's head and upper body<br/></p>",
+"alignment":"Neutral Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10103,"name":"The Keeper",
+"full_text":"<h1>The Keeper</h1>
+<p><i>god of greed and death </i><br/>Origin: Eberron The Dark Six <br/>Domains: Death<br/>Symbol: Dragonshard stone in the shape of a fang <br/></p>",
+"alignment":"NE ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10104,"name":"The Path of Light",
+"full_text":"<h1>The Path of Light</h1>
+<p><i>philosophy of light and self-improvement </i><br/>Origin: Eberron<br/>Domains: Life, Light<br/>Symbol: Brilliant crystal<br/></p>",
+"alignment":"Lawful Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10105,"name":"The Silver Flame",
+"full_text":"<h1>The Silver Flame</h1>
+<p><i>deity of protection and good </i><br/>Origin: Eberron<br/>Domains: Life, Light, War <br/>Symbol: Flame drawn on silver or molded from silver <br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10106,"name":"The Spirits of the Past",
+"full_text":"<h1>The Spirits of the Past</h1>
+<p><i>elven ancestors </i><br/>Origin: Eberron<br/>Domains: War<br/>Symbol: Varies<br/></p>",
+"alignment":"Chaotic Good",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10107,"name":"The Traveler",
+"full_text":"<h1>The Traveler</h1>
+<p><i>deity of chaos and change </i><br/>Origin: Eberron The Dark Six <br/>Domains: Knowledge, Trickery<br/>Symbol: Four crossed, rune-inscribed bones<br/></p>",
+"alignment":"Chaotic Neutral",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10108,"name":"The Undying Court",
+"full_text":"<h1>The Undying Court</h1>
+<p><i>elven ancestors </i><br/>Origin: Eberron<br/>Domains: Knowledge, Life <br/>Symbol: Varies <br/></p>",
+"alignment":"NG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10109,"name":"Thrym",
+"full_text":"<h1>Thrym</h1>
+<p><i>god of frost giants and strength </i><br/>Origin: Nonhuman Deities<br/>Domains: War<br/>Symbol: White double-bladed axe<br/></p>",
+"alignment":"Chaotic Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10110,"name":"Torm",
+"full_text":"<h1>Torm</h1>
+<p><i>god of courage and self-sacrifice </i><br/>Origin: Forgotten Realms<br/>Domains: War<br/>Symbol: White right gauntlet<br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10111,"name":"Tymora",
+"full_text":"<h1>Tymora</h1>
+<p><i>goddess of good fortune</i><br/>Origin: Forgotten Realms<br/>Domains: Trickery<br/>Symbol: Face-up coin<br/></p>",
+"alignment":"CG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10112,"name":"Tyr",
+"full_text":"<h1>Tyr</h1>
+<p><i>god of justice</i><br/>Origin: Forgotten Realms<br/>Domains: War<br/>Symbol: Balanced scales resting on a warhammer<br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10113,"name":"Ulaa",
+"full_text":"<h1>Ulaa</h1>
+<p><i>goddess of hills and mountains </i><br/>Origin: Greyhawk<br/>Domains: Life, War <br/>Symbol: Mountain with a circle at its heart <br/></p>",
+"alignment":"LG ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10114,"name":"Waukeen",
+"full_text":"<h1>Waukeen</h1>
+<p><i>goddess of trade </i><br/>Origin: Forgotten Realms<br/>Domains: Knowledge, Trickery <br/>Symbol: Upright coin with Waukeen's profile facing left <br/></p>",
+"alignment":"N ",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10115,"name":"Zeboim",
+"full_text":"<h1>Zeboim</h1>
+<p><i>goddess of the sea and storms  </i><br/>Origin: Dragonlance<br/>Domains: Tempest <br/>Symbol: Turtle shell<br/></p>",
+"alignment":"Chaotic Evil",
+"type":"other",
+"reference":"PhB"},
+
+{"id":10116,"name":"Zivilyn",
+"full_text":"<h1>Zivilyn</h1>
+<p><i>god of wisdom  </i><br/>Origin: Dragonlance<br/>Domains: Knowledge <br/>Symbol: Great green or gold tree<br/></p>",
+"alignment":"Neutral",
+"type":"other",
+"reference":"PhB"}
+]

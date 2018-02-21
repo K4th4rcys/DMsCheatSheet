@@ -9,9 +9,9 @@ Maxwell Gariety. This includes on personal projects.
 <head>
   <script type='text/javascript' src='resources/js/jquery-3.2.1.js'></script>
   <script type='text/javascript'>
-    if ($(window).width() <= 800) {
-      window.location = "localhost/mobile.php";
-    }
+    // if ($(window).width() <= 800) {
+    //   window.location = "localhost/mobile.php";
+    // }
   </script>
       <?php
             include("resources/php/header.php");
@@ -20,7 +20,7 @@ Maxwell Gariety. This includes on personal projects.
     <meta charset="UTF-8">
     <title>Ye Olde Inn | Home</title>
     <link rel="stylesheet" type="text/css" href="resources/css/style.css">
-    <!-- <link rel="stylesheet" type="text/css" href="resources/css/master.css"> -->
+    <link rel="stylesheet" type="text/css" href="resources/css/master.css">
 </head>
 
 <body>
@@ -33,48 +33,48 @@ Maxwell Gariety. This includes on personal projects.
       <tr class="maintr">
         <td class="maintd">
           <div class="mainlink">
-            <a href="characters/index.php">Manage Characters</a>
+            <a href="characters/">Manage Characters</a>
           </div>
         </td>
         <td class="maintd">
           <div class="mainlink">
-            <a href="dm_screen/index.php">DM's Screen</a>
-          </div>
-        </td>
-      </tr>
-      <tr class="maintr">
-        <td class="maintd">
-          <div class="mainlink">
-            <a href="campaigns/index.php">Campaigns</a>
-          </div>
-        </td>
-        <td class="maintd">
-          <div class="mainlink">
-            <a href="creatures/index.php">Bestiary</a>
+            <a href="dm_screen/">DM's Screen</a>
           </div>
         </td>
       </tr>
       <tr class="maintr">
         <td class="maintd">
           <div class="mainlink">
-            <a href="items/index.php">Items</a>
+            <a href="campaigns/">Campaigns</a>
           </div>
         </td>
         <td class="maintd">
           <div class="mainlink">
-            <a href="spellbook/index.php">Spellbook</a>
+            <a href="creatures/">Bestiary</a>
           </div>
         </td>
       </tr>
       <tr class="maintr">
         <td class="maintd">
           <div class="mainlink">
-            <a href="player_space/index.php">Player's Space</a>
+            <a href="items/">Items</a>
           </div>
         </td>
         <td class="maintd">
           <div class="mainlink">
-            <a href="encounters/index.php">Encounter Builder</a>
+            <a href="spellbook/">Spellbook</a>
+          </div>
+        </td>
+      </tr>
+      <tr class="maintr">
+        <td class="maintd">
+          <div class="mainlink">
+            <a href="player_space/">Player's Space</a>
+          </div>
+        </td>
+        <td class="maintd">
+          <div class="mainlink">
+            <a href="encounters/">Encounter Builder</a>
           </div>
         </td>
       </tr>

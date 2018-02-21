@@ -1,0 +1,99 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[{"id":150,
+"name":"Mountain Dwarf",
+"full_text":"
+<p>See&nbsp;<a href="http://race.com/Dwarves, Hill Dwarves">Dwarves, Hill Dwarves</a> for details about the Dwarves.</p>
+<p>As a mountain dwarf, you're strong and hardy,&nbsp;accustomed to a difficult life in rugged terrain. You&rsquo;re probably on the tall side (for a dwarf), and tend toward lighter coloration.</p>
+<p>The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.</p>
+<p><strong>Ability Score Increase.</strong> 
+<br />
+Your Strength score increases by 2.</p>
+<p><strong>Dwarven Armor Training.</strong></p>
+<p>You have proficiency with light and medium armor.</p>",
+"reference":"PH"},
+
+{"id":151,
+"name":"Wood Elf",
+"full_text":"
+<p>&nbsp;See <a href="http://race.com/Elves, High Elves">Elves, High Elves</a>&nbsp;for details about the Elves in general.</p>
+<p>As a wood elf, you have keen senses and intuition, and
+<br />
+your fleet feet carry you quickly and stealthily through your native forests. This category includes the <em>wild elves (grugach) of Greyhawk</em> and the <em>Kagonesti of Dragonlance</em>, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves.</p>
+<p>Wood elves&rsquo; skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.</p>
+<p><em><strong>Ability Score Increase.</strong> </em>
+<br />
+Your Wisdom score increases by 1.</p>
+<p><em><strong>Elf Weapon Training.</strong> </em>
+<br />
+You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+<p><em><strong>Fleet of Foot.</strong></em>
+<br />
+Your base walking speed increases to 35 feet.</p>
+<p><em><strong>Mask of the Wild.</strong> </em>
+<br />
+You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>",
+"reference":"PH"},
+
+{"id":152,
+"name":"DarkElf, Drow",
+"full_text":"
+<p>See&nbsp;<a href="http://race.com/Elves, High Elves">Elves, High Elves</a>&nbsp;for details about the Elves in general.</p>
+<p>Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess <strong>Lolth</strong> down the path to evil and corruption.</p>
+<p>Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves. Drow adventurers are rare, and the race does not exist in all worlds. Check with your Dungeon Master to see if you can play a drow character.</p>
+<p><em><strong>Ability Score Increase.</strong></em> 
+<br />
+Your Charisma score increases by 1.</p>
+<p><em><strong>Superior Darkvision.</strong> </em>
+<br />
+Your darkvision has a radius o f 120 feet.</p>
+<p><em><strong>Sunlight Sensitivity.</strong> </em>
+<br />
+You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+<p><em><strong>Drow Magic.</strong> </em>
+<br />
+You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells.</p>
+<p><em><strong>Drow Weapon Training.</strong> </em>
+<br />
+You have proficiency with rapiers, shortswords, and hand crossbows.</p>",
+"reference":"PH"},
+
+{"id":153,
+"name":"Stout Halfling",
+"full_text":"
+<p>See&nbsp;<a href="http://race.com/Halflings, Lightfoot">Halflings, Lightfoot</a>&nbsp;for details about the Halflings&nbsp;in general.</p>
+<p>As a stout halfling, you're hardier than average and have&nbsp;some resistance to poison. Some say that stouts have&nbsp;dwarven blood. In the Forgotten Realms, these halflings&nbsp;are called stronghearts, and they&rsquo;re most common&nbsp;in the south.</p>
+<p>
+<br />
+<em><strong>Ability Score Increase</strong></em>.
+<br />
+Your Constitution score increases by 1.</p>
+<p><em><strong>Stout Resilience.</strong></em> 
+<br />
+You have advantage on saving&nbsp;throws against poison, and you have resistance&nbsp;against poison damage.</p>",
+"reference":"PH"},
+
+{"id":154,
+"name":"Forest Gnome",
+"full_text":"
+<p>See&nbsp;<a href="http://race.com/Gnomes, Rock Gnomes">Gnomes, Rock Gnomes</a>&nbsp;for details about the Gnomes&nbsp;in general.</p>
+<p>As a forest gnome, you have a natural knack for illusion&nbsp;and inherent quickness and stealth. In the worlds of&nbsp;D&amp;D, forest gnomes are rare and secretive. They gather&nbsp;in hidden communities in sylvan forests, using illusions&nbsp;and trickery to conceal themselves from threats or&nbsp;to mask their escape should they be detected. Forest&nbsp;gnomes tend to be friendly with other good-spirited&nbsp;woodland folk, and they regard elves and good fey as&nbsp;their most important allies. These gnomes also befriend small forest animals and rely on them for information&nbsp;about threats that might prowl their lands.</p>
+<p><em><strong>Ability Score Increase.</strong> </em>
+<br />
+Your Dexterity score&nbsp;increases by 1.</p>
+<p><em><strong>Natural Illusionist.</strong> </em>
+<br />
+You know the minor illusion&nbsp;cantrip. Intelligence is your spellcasting ability for it.</p>
+<p><em><strong>Speak with Small Beasts.</strong> </em>
+<br />
+Through sounds and&nbsp;gestures, you can communicate simple ideas with Small&nbsp;or smaller beasts. Forest gnomes love animals and often&nbsp;keep squirrels, badgers, rabbits, moles, woodpeckers,&nbsp;and other creatures as beloved pets.</p>",
+"reference":"PH"}],
+[],
+[],
+[],
+[]]

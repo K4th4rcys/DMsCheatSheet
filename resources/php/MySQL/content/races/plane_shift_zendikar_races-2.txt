@@ -1,0 +1,228 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[{"id":248,
+"name":"Kor (Zendikar)",
+"full_text":"<h1>Kor</h1>
+<p>Deeply reverent of the land and its sacred&nbsp;sites, the nomadic kor live a spare existence&nbsp;defined by their constant travels. Masters of&nbsp;ropes and hooks, they scale sheer cliffs and&nbsp;cross yawning chasms with such skill and&nbsp;agility that they sometimes seem almost to&nbsp;take flight.</p>
+<p>Kor are associated with white mana, and&nbsp;their wizards and clerics employ spells of&nbsp;healing, of banishing the dark, and of protection.&nbsp;Their personalities and ideals also mesh&nbsp;with the characteristics of white mana in&nbsp;their emphasis on an ordered, harmonious community&nbsp;with strong traditions binding its members together.</p><h2>Slender and Silent</h2>
+<p>Kor are tall, slender humanoids with light hair and&nbsp;gray, blue-gray, or ivory skin. All kor have slightly&nbsp;pointed ears, and males have short, fleshy barbels&nbsp;on their chins. They paint softly glowing geometric&nbsp;patterns on their faces and bodies, suggestive of the&nbsp;shapes and design of the hedrons that appear across&nbsp;Zendikar. Their clothing tends to leave their arms
+<br />
+and shoulders free to facilitate climbing, and they&nbsp;keep most of their gear in pouches and slings at their&nbsp;waists.</p>
+<p>The kor have a nonverbal language of hand signs&nbsp;and gestures that allows communication despite significant&nbsp;distance (particularly when augmented with&nbsp;whirling ropes) or howling winds. They also use this&nbsp;sign language among themselves when they wish to&nbsp;avoid being overheard, giving rise to misguided rumors&nbsp;that they are incapable of speech. When they do
+<br />
+speak, they typically use as few words as possible to&nbsp;convey their meaning.</p><h2>Kor Traits</h2>
+<p>Kor are athletic climbers, known for their use of rope&nbsp;to swing and climb through the dizzying vertical terrain
+<br />
+of Zendikar. Your kor character has these traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases&nbsp;by 2, and your Wisdom score increases by 1.
+<br />
+<strong>Age.</strong> Kor mature at the same rate as humans and&nbsp;live about as long.
+<br />
+<strong>Alignment.</strong> Most kor are lawful good, with a&nbsp;strong dedication to community and the traditions of&nbsp;their ancestors.
+<br />
+<strong>Size.</strong> Kor average nearly 6 feet tall, but are much lighter&nbsp;and more slender than humans. Your size is Medium.
+<br />
+<strong>Speed.</strong> Your base walking speed is 30 feet. You&nbsp;also have a climbing speed of 30 feet as long as you&nbsp;are not encumbered or wearing heavy armor.
+<br />
+<strong>Kor Climbing.</strong> You have proficiency in the Athletics&nbsp;and Acrobatics skills.
+<br />
+<strong>Lucky.</strong> When you roll a 1 on the d20 for an attack&nbsp;roll, ability check, or saving throw, you can reroll the&nbsp;die and must use the new roll.
+<br />
+<strong>Brave.</strong> You have advantage on saving throws&nbsp;against being frightened.
+<br />
+Languages. You can speak, read, and write Common,&nbsp;and communicate in the silent speech of the kor.</p>
+<p>&nbsp;</p>",
+"reference":"Usergen"},
+
+{"id":249,
+"name":"Merfolk (Zendikar)",
+"full_text":"<h1>Merfolk</h1>
+<p>Curious, thoughtful, and analytical, the merfolk of Zendikar are natural scholars and explorers. In the past, merfolk society was organized around their belief in three deities. But in the wake of the reappearance of the Eldrazi, the merfolk have realized that their faith was a web of lies, built on a corrupted memory of the Eldrazi titans handed down from generation to generation.</p>
+<p>In peaceful times, the merfolk might have fought over the ultimate meaning of this revelation. But faced with the danger presented by the Eldrazi broods, the merfolk have largely set aside their differences and joined together in a united force. Old grudges still linger, but the well-being of the merfolk race&mdash;and the world&mdash;far outweigh any ancient conflicts between creeds.</p>
+<p>Merfolk are associated with blue mana, though the traditional merfolk creeds express this connection in different ways.</p><h2>Born of the Sea</h2>
+<p>Merfolk are an amphibious race, born and at home in&nbsp;the water but comfortable on dry land. Humanoid in&nbsp;form, they have skin of ivory, silver, russet, blue, or&nbsp;deep purple. Long fins extend from the backs of their&nbsp;forearms and calves, and their fingers and toes are&nbsp;webbed. The hairlike growths on their heads are either&nbsp;thick and bristly like the needles of a sea urchin, or&nbsp;long and wavy, resembling fine seaweed. In either case,&nbsp;these growths typically range in color from red to warm&nbsp;brown to black. Male merfolk have similar growths&nbsp;extending down from their cheekbones</p>
+<p>Merfolk wear little clothing unless they are armored&nbsp;for battle. Even then, they drape themselves with nets&nbsp;and a ,inimum of cloth, wearing armor crafted of large,&nbsp;bleached seashells and augmented with leather.</p><h2>Merfolk Traits</h2>
+<p>Your merfolk character has a number of traits in common with other members of this race.</p>
+<p><strong>Ability Score Increase.</strong> Your Charisma score increases&nbsp;by 1.
+<br />
+<strong>Age.</strong> Merfolk mature at the same rate humans do&nbsp;and reach adulthood around the age of 20. They live&nbsp;considerably longer than humans, though, often reaching&nbsp;well over 100 years.
+<br />
+<strong>Alignment.</strong> Most merfolk are neutral, though merfolk&nbsp;of the Emeria and Cosi creeds have chaotic leanings.
+<br />
+<strong>Size.</strong> Merfolk are about the same size and build as&nbsp;humans. Your size is Medium.
+<br />
+<strong>Speed.</strong> Your base walking speed is 30 feet. You&nbsp;also have a swimming speed of 30 feet.
+<br />
+<strong>Amphibious.</strong> You can breathe air and water.
+<br />
+<strong>Languages.</strong> You can speak, read, and write Common,&nbsp;Merfolk, and one extra language of your choice.
+<br />
+<strong>Creeds.</strong> The merfolk race is divided into three&nbsp;creeds, founded on the principles of Emeria (wind), Ula
+<br />
+(water), and Cosi (the trickster). A merfolk isn&rsquo;t born&nbsp;into a creed but chooses it upon reaching adulthood, and
+<br />
+it is rare for a merfolk not to choose a creed. Merfolk of&nbsp;the wind and water creeds aren&rsquo;t hostile to each other,
+<br />
+but members of each creed regard the other creed with&nbsp;a vague disdain. Members of both those creeds regard
+<br />
+the Cosi creed with suspicion and some degree of fear,&nbsp;and Cosi-creed adherents tend to keep their affiliation
+<br />
+secret. Choose one of these creeds for your character.</p><h3>
+<br />
+Emeria (Wind) Creed</h3>
+<p>Merfolk who followed Emeria&rsquo;s creed seek wisdom&nbsp;and truth in the Wind Realm, exploring the mystical&nbsp;forces&mdash;rather than natural causes&mdash;behind historical&nbsp;events. They are evasive and intentionally enigmatic&nbsp;in their interactions with others, and are often described&nbsp;as manipulative and deceptive.</p>
+<p>
+<br />
+<strong>Ability Score Increase</strong>. Your Wisdom score increases&nbsp;by 2.
+<br />
+<strong>Wind Creed Manipulation</strong>. You have proficiency&nbsp;in the Deception and Persuasion skills.
+<br />
+<strong>Cantrip</strong>. You know one cantrip of your choice&nbsp;from the druid spell list. Wisdom is your spellcasting&nbsp;ability for it.</p><h3>
+<br />
+Ula (Water) Creed</h3>
+<p>Ula-creed merfolk emphasize intellectual pursuits,&nbsp;stressing hard evidence and reason over passion. They
+<br />
+are analytical scholars, chroniclers, explorers, and&nbsp;navigators who pride themselves on being blunt and&nbsp;straightforward.</p>
+<p><strong>Ability Score Increase.</strong> Your Intelligence score&nbsp;increases by 2.
+<br />
+<strong>Water Creed Navigation.</strong> You have proficiency&nbsp;with navigator&rsquo;s tools and in the Survival skill.
+<br />
+<strong>Cantrip.</strong> You know one cantrip of your choice&nbsp;from the wizard spell list. Intelligence is your spellcasting&nbsp;ability for it.</p><h3>
+<br />
+Cosi Creed</h3>
+<p>No merfolk will openly admit to following the creed&nbsp;of the trickster, but those who do view Cosi as an ally&nbsp;who can grant them control over the chaotic forces of&nbsp;the world.</p>
+<p><strong>Ability Score Increase.</strong> Your Charisma score&nbsp;increases by an additional 1 (for a total of 2), and your&nbsp;Intelligence score increases by 1.
+<br />
+<strong>Creed of the Trickster.</strong> You have proficiency in the&nbsp;Sleight of Hand and Stealth skills.
+<br />
+<strong>Cantrip.</strong> You know one cantrip of your choice&nbsp;from the bard spell list. Charisma is your spellcasting&nbsp;ability for it.</p>",
+"reference":"Usergen"},
+
+{"id":250,
+"name":"Vampires (Zendikar)",
+"full_text":"<h1>Vampires</h1>
+<p>Born into ancient servitude and bred to a life of decadent&nbsp;corruption, the vampires of Zendikar feed on the&nbsp;energy in the blood of living creatures&mdash;an energy that&nbsp;is particularly strong in times of terror and pain. To&nbsp;members of the other races, vampires are a fearsome&nbsp;mystery and the stuff of nightmares, hunting their prey&nbsp;like beasts or reclining on thrones made of skulls in&nbsp;their moss-draped cities. But few understand how the&nbsp;vampires are locked in a brutal civil war. On one side&nbsp;are those who hold to their traditional ways, desperately&nbsp;battling to remain free. On the other side are those
+<br />
+vampires whose legacy reaches back into the deepest&nbsp;recesses of history. Bound once more to the Eldrazi&nbsp;who were their ancient masters, those vampires hunt&nbsp;their kin in an effort to extinguish any dreams of freedom&nbsp;and rebellion.
+<br />
+Vampires are associated with black mana. Their&nbsp;existence is predicated on draining the life from others&nbsp;to fuel their own existence, and on putting their own&nbsp;lives ahead of all other concerns. Philosophically, they&nbsp;do not constrain themselves with artificial rules of morality,&nbsp;but believe that the strong can and should take&nbsp;what they need from the weak.</p><h2>Between the Living and the Dead</h2>
+<p>The vampires of Zendikar are not undead. Rather, heir unique nature comes from an eldritch disease that turns their flesh cold, makes their gray or purple skin feel dead to the touch, and enables them to drain concentrated magical energy from the blood of other living creatures. They are tall and slender, with long, elegant necks and broad shoulders. Bony horns protrude from their shoulders and elbows, often augmented by the layered plates of their armor and clothing. Their canine teeth are slightly elongated, but not enough to protrude between their closed lips.</p>
+<p>Vampires dress in leather and the chitin carapaces of the gigantic insects that dwell in the swamps and jungles of their native Guul Draz, augmented with fine silk and gauzy fabric. They decorate their skin in elaborate, symmetrical patterns of red paint made from blood and mineral pigments. Their clothing is an odd mixture of complex layers and elaborate patterns combined with plenty of exposed skin, since their cold bodies are unaffected by the temperature around them</p><h3>Vampire Traits</h3>
+<p>Your vampire character has the following traits as a result of the unique origins of your kind.</p>
+<p><strong>Ability Score Increase.</strong> Your Intelligence score increases by 1, and your Charisma score increases by 2.
+<br />
+<strong>Age.</strong> Vampires don&rsquo;t mature and age in the same way that other races do. Every living vampire is either a bloodchief, infected by Ulamog&rsquo;s influence in the distant reaches of history, or was spawned by a bloodchief from a living human. Most vampires are thus very old, but few have any memory of their earliest years.
+<br />
+<strong>Alignment.</strong> Vampires have no innate tendency toward evil, but consuming the life energy of other creatures often pushes them to that end. Regardless of their moral bent, the strict hierarchies of their bloodchiefs inclines them toward a lawful alignment.
+<br />
+<strong>Size.</strong> Vampires are about the same size and build as humans. Your size is Medium.
+<br />
+<strong>Speed.</strong> Your base walking speed is 30 feet.
+<br />
+<strong>Darkvision.</strong> Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.
+<br />
+<strong>Vampiric Resistance.</strong> You have resistance to necrotic damage.
+<br />
+<strong>Blood Thirst.</strong> You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target&rsquo;s hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid killed in this way becomes a null (see &ldquo;A Zendikar Bestiary&rdquo;).
+<br />
+<strong>Languages.</strong> You can speak, read, and write Common and Vampire.</p>",
+"reference":"Usergen"},
+
+{"id":251,
+"name":"Goblins (Zendikar)",
+"full_text":"<h1>Goblins</h1>
+<p>Goblins are an inquisitive and adaptable race hampered by their small size, their natural cowardice, and a severe shortage of common sense. They eagerly explore areas that others hesitate to enter, and obsessively fiddle with magic that more sensible folk would take careful precautions with. They prize ancient artifacts not for their inherent value, but primarily as a mark of status&mdash;for a precious trophy proves that its owner survived a delve into a deep and dangerous ruin.</p>
+<p>Goblins are associated with red mana. Their shamans are fond of spells that create or control fire and lightning to smite their foes, and they are quick to follow their impulses and passions into action without much forethought. Life to a goblin is an adventure full of new things to explore and experience.</p><h2>Long Arms and Stony Skin</h2>
+<p>A typical goblin stands between three-and-a-half and five feet tall, with a slender, elongated build. Goblins&rsquo; arms are unusually long and spindly, making them adept at climbing cliffs and trees. Their skin has a stony texture, ranging in color from red-brown to moss green or gray. Their ears are large and swept back, their eyes are intensely red, and many sport heavy bone protrusions on their spines or elbows. Males have similar growths jutting from their chins, while females have heavier growths on their foreheads.</p>
+<p>This distinctive appearance is a direct result of the goblins&rsquo; unusual diet. Before the Eldrazi&rsquo;s rise, goblins supplemented their normal diet with a kind of rock they pounded into bits and called &ldquo;grit.&rdquo; The presence of the Eldrazi in Zendikar has poisoned this rock, so the goblins have taken to eating powdered hedrons instead. Eating this magic-infused stone has given the goblins resistance to the maddening psychic emanations of the Eldrazi. As an added benefit, it toughens their skin, protecting them from the elements and from physical dangers.</p><h2>Goblin Traits</h2>
+<p>Your goblin character has the following traits in common with all other goblins.</p>
+<p><strong>Ability Score Increase.</strong> Your Constitution score increases by 2.
+<br />
+<strong>Age.</strong> Goblins mature faster than humans, reaching adulthood at around age 12. They also age noticeably faster than humans, and even the most cautious goblins rarely live longer than 50 years.
+<br />
+Alignment. Most goblins are wildly chaotic, though they have no particular inclination toward good or evil.
+<br />
+<strong>Size.</strong> Goblins average about 3 feet tall and weigh about 40 pounds. Your size is Small.Speed. Your base walking speed is 25 feet.
+<br />
+<strong>Darkvision.</strong> Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it werebright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.
+<br />
+<strong>Grit.</strong> You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier.
+<br />
+<strong>Languages.</strong> You can speak, read, and write Common and Goblin.
+<br />
+<strong>Tribe.</strong> Most goblins on Zendikar belong to one of&nbsp;three tribes: the Grotag, the Lavastep, and the Tuktuk. Choose one of these tribes.</p><h3>Grotag Tribe</h3>
+<p>Smaller and weaker than their cousins, and with larger&nbsp;hands and feet, goblins of the Grotag tribe attempt to&nbsp;live by their wits&mdash;though seldom with much success.&nbsp;When a Grotag goblin has the bright idea of trying to&nbsp;tame fleshpiercer mites, at least a few others will be&nbsp;willing to follow that goblin into a nest&mdash;usually to&nbsp;predictably horrible results. But though the Grotag&nbsp;seem to have a never-ending supply of bad ideas, and&nbsp;a horrible ratio of bad ideas to good, the Grotag likewise&nbsp;seem to have a never-ending supply of Grotag.&nbsp;As such, by trial and error (and more error), these goblins&nbsp;have stumbled across a great deal of knowledge&nbsp;useful for surviving the deep places of Zendikar, and&nbsp;for dealing with the creatures that live there. The Grotag&nbsp;imagine themselves to have a sort of empathy with&nbsp;beasts, and they lose hundreds of goblins each year to&nbsp;ill-advised attempts at monster taming. But, every now&nbsp;and again, one of these efforts is successful.</p>
+<p><strong>Grotag Tamer.</strong> You have proficiency in the Animal&nbsp;Handling skill.</p><h3>Lavastep Tribe</h3>
+<p>The Lavastep tribe is the most industrious of the&nbsp;goblin tribes, and possesses much hard-won knowledge&nbsp;of the geothermal activity in Akoum. More so&nbsp;than members of the other tribes, the Lavastep goblins&nbsp;build surprisingly effective equipment out of the crystal&nbsp;shards and veins of strange metals that occasionally&nbsp;boil up to the surface. The most warlike of their kind,&nbsp;Lavastep goblins frequently harass the kor, elves, and&nbsp;humans of Akoum.</p>
+<p><strong>Lavastep Grit.</strong> You have advantage on Dexterity&nbsp;(Stealth) checks made to hide in rocky or subterranean&nbsp;environments.</p><h3>Tuktuk Tribe</h3>
+<p>Among the goblins, the Tuktuk are most likely to hire&nbsp;themselves out as ruin guides to other races. Of course,&nbsp;their usual plan is to help find something of value, steal&nbsp;it, trigger a trap intentionally, and then run.</p>
+<p><strong>Tuktuk Cunning.</strong> You have proficiency with&nbsp;thieves&rsquo; tools.</p>",
+"reference":"Usergen"},
+
+{"id":252,
+"name":"Elves (Zendikar)",
+"full_text":"<h1>Elves</h1>
+<p>Elves are a fearless and adaptable people. They have&nbsp;fared better than most in the tumultuous environment
+<br />
+of Zendikar, and many have reacted to the reappearance&nbsp;of the Eldrazi with resilience and courage. They
+<br />
+remain the most prevalent race on Murasa, and have a&nbsp;strong presence in other regions as well. Their treetop
+<br />
+villages seem to regrow almost as soon as they are&nbsp;destroyed&mdash;much like the Murasan jungles where they
+<br />
+are found.</p>
+<p>Elves are strongly associated with green mana, the magic that flows through their forest homes. Their shamans and druids channel this magic of life and growth, communing with the land or the spirits of the departed. Striving to live in harmony with nature, they celebrate the ties between their communities and their connection with the broader world around them.</p><h2>Wildly Elegant</h2>
+<p>Elves are about as tall as humans, but are more slender. Their legs are long, and their pointed ears sweep back from their heads. They move gracefully and hold themselves with elegant poise, but they are a people of the woodlands, and their life in the wilds is manifested in the practical simplicity of their clothes and equipment.</p>
+<p>Never ones to waste anything that can be reused, elves stitch torn garments together into new ones, and transform broken sword blades into useful gear. They prefer leather for protection rather than metal, which they use to craft swords, spears, arrowheads, and climbing hooks.</p><h2>Elf Traits</h2>
+<p>The elves of Zendikar have much in common with the elves of other worlds. Your elf character has the following traits.</p>
+<p><strong>Ability Score Increase.</strong> Your Wisdom score increases by 2.
+<br />
+<strong>Age.</strong> Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old. 
+<br />
+<strong>Alignment.</strong> Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&rsquo; freedom as well as their own, and they are more often good than not. 
+<br />
+<strong>Size.</strong> Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium. 
+<br />
+<strong>Speed.</strong> Your base walking speed is 30 feet.
+<br />
+<strong>Darkvision.</strong> Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.
+<br />
+<strong>Keen Senses.</strong> You have proficiency in the Perception skill.
+<br />
+<strong>Fey Ancestry.</strong> You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.
+<br />
+<strong>Languages.</strong> You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+<br />
+<strong>Subrace.</strong> Ancient divides that arose as the elven people migrated across Zendikar resulted in three main elf nations: the Tajuru, the Mul Daya, and the Joraga. Choose one of these subraces.</p><h3>Tajuru Nation</h3>
+<p>The Tajuru nation is the largest of the three main elven nations, concentrated in Murasa and spread across other parts of Zendikar as hundreds of far-flung clans. Tajuru elves are the most open to people of other races, seeing their skills and perspectives as valuable new tools for survival. The Tajuru are also more open to new lifestyles, be it living in a mountaintop citadel or roaming grassy plains.</p>
+<p><strong>Ability Score Increase.</strong> Your Charisma score increases by 1.
+<br />
+<strong>Skill Versatility.</strong> You gain proficiency in any combination of two skills or tools of your choice.</p><h3>Joraga Nation</h3>
+<p>The elves of the imperious Joraga nation of Bala Ged have little respect for any other race of Zendikar&mdash; or even for other elves. The survival of their nation and its traditions is the Joraga elves&rsquo; only goal, and they view the influence of others as a weakness. The Joraga eschew the goods and habits of others, even avoiding the pathways blazed by the Tajuru when possible. Many view the nomadic Joraga clans as little more than bands of roving murderers, but a complex culture hides behind those clans&rsquo; aggressive exterior.</p>
+<p><strong>Ability Score Increase.</strong> Your Dexterity score increases by 1.
+<br />
+<strong>Elf Weapon Training.</strong> You have proficiency with the longsword, shortsword, shortbow, and longbow.
+<br />
+<strong>Fleet of Foot.</strong> Your base walking speed increases to 35 feet.
+<br />
+<strong>Mask of the Wild.</strong> You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p><h3>Mul Daya Nation</h3>
+<p>Elves of the Mul Daya nation of Bala Ged are set apart from other elves by their relationship with the spirits of their elven ancestors. To the Mul Daya, the spirit world and the mortal realm are different only in terms of their tangibility. Death and the spirits of the dead are as much a part of the lives of the Mul Daya as is the natural world. This is not a macabre sentiment to the elves; they simply view it as the truest sense of the natural order. Mul Daya elves can often be recognized by their face painting and tattooing. Many Mul Daya decorate their skins with an enwrapping vine motif, and make use of poisons and acids collected at great cost from strange creatures and plants in the depths of Kazandu.</p>
+<p><strong>Ability Score Increase.</strong> Your Strength score increases by 1.
+<br />
+<strong>Superior Darkvision.</strong> Your darkvision has a radius of 120 feet.
+<br />
+<strong>Sunlight Sensitivity.</strong> You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+<br />
+<strong>Mul Daya Magic.</strong> You know the chill touch cantrip. When you reach 3rd level, you can cast the hex spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells.
+<br />
+<strong>Elf Weapon Training</strong>. You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[]]

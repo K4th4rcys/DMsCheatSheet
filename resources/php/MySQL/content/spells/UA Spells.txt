@@ -1,0 +1,579 @@
+
+[
+[],
+[{"id":20467,
+"name":"Arcane Hacking",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 2, Sorcerer 2, Warlock 2",
+"short_description":"Advantage on Intelligence checks against encryption",
+"full_text":"
+<p><span class="fontstyle0">Arcane Hacking</span></p><hr />
+<p><span class="fontstyle1"><em>2nd-level transmutation 
+[technomagic]</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Self 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S, M (hacking tools)
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 hour </span></p>
+<p><span class="fontstyle0">You gain advantage on all Intelligence checks using hacking tools to break software encryption or online security when using a foreign system. This spell also allows you to break 2nd-level and lower protective spells such as </span><em><span class="fontstyle1">arcane lock</span></em><span class="fontstyle0"> or </span><em><span class="fontstyle1">glyph of warding</span></em><span class="fontstyle0"> by making an Intelligence check using hacking tools against the spell save DC of the spell&rsquo;s caster. 
+<br />
+</span><strong><span class="fontstyle3">At Higher Levels.&nbsp;</span></strong><span class="fontstyle0">When you cast this spell using a spell slot of 3rd level or higher, you can attempt to counteract a spell set to secure the foreign system if the spell&rsquo;s level is equal to or less than the level of the spell slot you used.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20468,
+"name":"Commune with City",
+"school":"Divination",
+"subschool":"ritual",
+"spellcraft_dc":"",
+"level":"Wizard 5, Sorcerer 5, Warlock 5",
+"short_description":"Gain knowledge of surrounding area within 600 ft",
+"full_text":"<h1><span class="fontstyle0">Commune with City</span></h1><hr />
+<p><em><span class="fontstyle1">5th level divination (ritual)&nbsp;
+<br />
+</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 minute
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Self 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Instantaneous 
+<br />
+</span></p>
+<p><span class="fontstyle0">You briefly become one with the city and gain knowledge of the surrounding area. Aboveground, this spell gives you knowledge of the area within 1 mile of you. In sewers and other underground settings, you gain knowledge 
+<br />
+of the area within 600 feet of you. You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
+<br />
+</span><span class="fontstyle4">&bull; </span><span class="fontstyle0">Terrain and bodies of water
+<br />
+</span><span class="fontstyle4">&bull;</span> <span class="fontstyle0">Prevalent buildings, plants, animals, or intelligent creatures 
+<br />
+</span><span class="fontstyle4">&bull;</span> <span class="fontstyle0">Powerful (CR 1 or higher celestials, fey, fiends, elementals, or undead)
+<br />
+</span><span class="fontstyle4">&bull;</span> <span class="fontstyle0">Influences from other planes of existence 
+<br />
+</span><span class="fontstyle4">&bull;</span> <span class="fontstyle0">Electrical currents, wireless signals, and active transit lines and tracks 
+<br />
+</span></p>
+<p><span class="fontstyle0">For example, you could determine the location of powerful undead in the area, the location of major sources of electrical power or interference, and the location of any nearby parks.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20469,
+"name":"Conjure Knowbot",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 4, Sorcerer 4, Warlock 4",
+"short_description":"Summon technomagic software",
+"full_text":"<h1><span class="fontstyle0">Conjure Knowbot</span></h1><hr />
+<p><span class="fontstyle1"><em>4th level conjuration (technomagic)</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Touch 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> 10 minutes 
+<br />
+You touch a single computerized device or computer system to conjure a knowbot&mdash;a </span><span class="fontstyle0">partially sentient piece of software imprinted with vestiges of your own skills and computer abilities. For the duration of the spell, you can use a bonus action to have the knowbot execute a computer
+[related task that would normally require an action. The knowbot makes Intelligence ability checks using your ability score and proficiency bonuses (including your proficiency with hacking tools, if applicable). You have a limited telepathic bond with the knowbot, out to a range of 500 feet from the device or system where the knowbot was conjured. If you move beyond this range, the knowbot disappears in 2d4 rounds, as if the duration of the spell had expired. Moving within range again immediately reestablishes the bond. The knowbot is bound to the system in which it was created, and it stays there until it is dismissed or the spell&rsquo;s duration expires. 
+<br />
+</span></p>
+<p><strong><span class="fontstyle5">At Higher Levels.</span></strong><span class="fontstyle0"> When you cast this spell using a spell slot of 5th level or higher, the spell&rsquo;s duration increases to 1 hour. Additionally, your telepathic bond with the knowbot is effective out to a range of 1,000 feet, and if you leave the range of the bond, the knowbot continues performing its last directed task until the spell expires.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20470,
+"name":"Digital Phantom",
+"school":"Abjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 2, Sorcerer 2, Warlock 2",
+"short_description":"+10 vs digital detection",
+"full_text":"<h1><span class="fontstyle0">Digital Phantom</span></h1><hr />
+<p><em><span class="fontstyle1">2nd level abjuration (technomagic)
+<br />
+</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Self 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S, M (a small piece of copper wire)
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 hour 
+<br />
+</span></p>
+<p><span class="fontstyle0">This spell works to actively hide your presence within a computer system. For the spell&rsquo;s duration, you and any other users you choose on your local network gain a +10 bonus to Intelligence checks to avoid detection by administrators, knowbots, tracking software, and the like. Whenever you and your chosen users leave any computer system you are working in while this spell is in effect, all trace of your previous presence in that system is erased.</span></p>",
+"reference":"Usergen"},
+
+{"id":20471,
+"name":"Find Vehicle",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 2, Sorcerer 2, Warlock 2",
+"short_description":"Summon a non-military land vehicle",
+"full_text":"<h1><span class="fontstyle0">Find Vehicle</span></h1><hr />
+<p><span class="fontstyle1"><em>2nd level conjuration</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 10 minutes
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> 30 feet 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> 8 hours 
+<br />
+</span></p>
+<p><span class="fontstyle0">You summon a spirit that assumes the form of a nonmilitary land vehicle of your choice, appearing in an unoccupied space within range. The vehicle has the statistics of a normal vehicle of its sort, though it is celestial, fey, or fiendish (your choice in origin). The physical characteristics of the vehicle reflect its origin to some degree. For example, a fiendish SUV might be jet black in color, with tinted windows and a sinister-looking front grille. You have a supernatural bond with the conjured vehicle that allows you to drive beyond your normal ability. While driving the conjured vehicle, you are considered proficient with vehicles of its type, and you add double your proficiency bonus to ability checks related to driving the vehicle. While driving the vehicle, you can make any spell you cast that targets only you also target the vehicle. If the vehicle drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss the vehicle at any time as an action, causing it to disappear. You can&rsquo;t have more than one vehicle bonded by this spell at a time. As an action, you can release the vehicle from its bond at any time, causing it to disappear. 
+<br />
+</span></p>
+<p><strong><span class="fontstyle4">At Higher Levels.</span> </strong><span class="fontstyle0">When you cast this spell using a spell slot of 3rd level or higher, you can conjure a nonmilitary later vehicle large enough to carry six Medium creatures. When you cast this spell using a spell slot of 5th level or 
+<br />
+higher, you can conjure a nonmilitary air vehicle large enough to carry ten Medium creatures. When you cast this spell using a spell slot of 7th level or higher, you can conjure any type of vehicle, subject to the DM&rsquo;s approval.</span></p>",
+"reference":"Usergen"},
+
+{"id":20472,
+"name":"Haywire",
+"school":"Enchantment",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 3, Sorcerer 3, Warlock 3",
+"short_description":"Destroy electronics within 10-ft of you",
+"full_text":"<h1><span class="fontstyle0">Haywire</span></h1><hr />
+<p><span class="fontstyle1"><em>3rd level enchantment (technomagic)</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> 90 feet 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 minute 
+<br />
+</span></p>
+<p><span class="fontstyle0">This spell plays havoc with electronic devices, making the use of such devices all but impossible. Each electronic device in a 10-foot-radius sphere centered on a point you choose within range is subject to random behavior while it remains within the area. A device not held by a creature is automatically affected. If an electronic device is held by a creature, that creature must succeed on a Wisdom saving throw or have the device affected by the spell. At the start of each of your turns, roll a d6 for each affected device to determine its behavior. Except where otherwise indicated, that behavior lasts until the start of your next turn while this spell is in effect.</span></p>
+<p><span class="fontstyle1">1: </span><span class="fontstyle0">The device shuts down and must be restarted. Do not roll again for this device until it is restarted. 
+<br />
+ </span><span class="fontstyle1">2&ndash;4:</span><span class="fontstyle0"> The device does not function. 
+<br />
+</span><span class="fontstyle1"> 5:</span><span class="fontstyle0"> The device experiences a power surge, causing an electric shock to the wielder (if any and one random creature within 5 feet of the device. Each affected creature must make a Dexterity saving throw against your spell save DC, taking 6d6 lightning damage on a failed save, or half as much damage on a successful one. 
+<br />
+ </span><span class="fontstyle1">6:</span><span class="fontstyle0"> The device is usable as normal. 
+<br />
+</span></p>
+<p><strong><span class="fontstyle5">At Higher Levels.</span> </strong><span class="fontstyle0">When you cast this spell using a spell slot of 4th level or higher, the radius of the sphere affected by the spell increases by 5 feet for each slot level above 3rd.</span></p>",
+"reference":"Usergen"},
+
+{"id":20473,
+"name":"Infallible Relay",
+"school":"Divination",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 1, Sorcerer 1, Warlock 1",
+"short_description":"Contact other on same plane",
+"full_text":"
+<p><span class="fontstyle0">Infallible Relay</span></p><hr />
+<p><span class="fontstyle1"><em>1st level divination (technomagic)</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 minute
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Self 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S, M (a mobile phone)
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 10 minutes 
+<br />
+</span></p>
+<p><span class="fontstyle0">With this spell, you can target any creature with whom you have spoken previously, as long as the two of you are on the same plane of existence. When you cast the spell, the nearest functioning telephone or similar communications device within 100 feet of the target begins to ring. If there is no suitable device close enough to the target, the spell fails. The target must make a successful Charisma saving throw or be compelled to answer your call. Once the connection is established, the call is crystal clear and cannot be dropped until the conversation has ended or the spell&rsquo;s duration ends. You can end the conversation at any time, but a target must succeed on a Charisma saving throw to end the conversation.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20474,
+"name":"Invisibility to Cameras",
+"school":"Illusion",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 3, Sorcerer 3, Warlock 3",
+"short_description":"Become invisible to electronics",
+"full_text":"<h1><span class="fontstyle0">Invisibility to Cameras</span></h1><hr />
+<p><em><span class="fontstyle1">3rd level illusion (technomagic)</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> 10 feet 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S, M (a scrap of black paper)
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 minute 
+<br />
+</span></p>
+<p><span class="fontstyle0">Four creatures of your choice within range become undetectable to electronic sensors and cameras for the duration of the spell. Anything a target is wearing or carrying is likewise undetectable as long as it is on the target&rsquo;s person. The targets remain visible to vision.</span></p>",
+"reference":"Usergen"},
+
+{"id":20475,
+"name":"On/Off",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 0, Sorcerer 0, Warlock 0",
+"short_description":"Activate or deactivate electronic devices",
+"full_text":"<h1><span class="fontstyle0">On/Off</span></h1><hr />
+<p><em><span class="fontstyle1">Transmutation cantrip (technomagic)
+<br />
+</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> 60 feet 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Instantaneous 
+<br />
+</span></p>
+<p><span class="fontstyle0">This cantrip allows you to activate or deactivate any electronic device within range, as long as the device has a clearly defined on or off function that can be easily accessed from the outside of the device. Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by </span><em><span class="fontstyle1">on/off.</span></em></p>",
+"reference":"Usergen"},
+
+{"id":20476,
+"name":"Protection from Ballistics",
+"school":"Abjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 3, Sorcerer 3, Warlock 3",
+"short_description":"Resistance to ballistic damage",
+"full_text":"<h1><span class="fontstyle0">Protection from Ballistics</span></h1><hr />
+<p><em><span class="fontstyle1">3rd level abjuration
+<br />
+</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Touch 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S, M (a shell casing)
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 10 minutes 
+<br />
+</span></p>
+<p><span class="fontstyle0">This spell enchants the flesh of the target against the impact of bullets. Until the spell ends, the target has resistance to nonmagical ballistic damage.</span></p>",
+"reference":"Usergen"},
+
+{"id":20477,
+"name":"Remote Access",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 1, Sorcerer 1, Warlock 1",
+"short_description":"Access device as if using hands",
+"full_text":"<h1><span class="fontstyle0">Remote Access</span></h1><hr />
+<p><em><span class="fontstyle1">1st level transmutation (technomagic)</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> 120 feet 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> 10 minutes 
+<br />
+</span></p>
+<p><span class="fontstyle0">You can use any electronic device within range as if it were in your hands. This is not a telekinesis effect. Rather, this spell allows you to simulate a device&rsquo;s mechanical functions electronically. You are able to access only functions that a person using the device manually would be able to access. You can use </span><span class="fontstyle1">remote access</span><span class="fontstyle0"> with only one device at a time</span> </p>",
+"reference":"Usergen"},
+
+{"id":20478,
+"name":"Shutdown",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 5, Sorcerer 5, Warlock 5",
+"short_description":"Shutdown all electronic devices in range",
+"full_text":"<h1><span class="fontstyle0">Shutdown</span></h1><hr />
+<p><span class="fontstyle1"><em>5th level transmutation (technomagic)</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> 120 feet 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 minute 
+<br />
+</span></p>
+<p><span class="fontstyle0">This spell shuts down all electronic devices within range that are not wielded by or under the direct control of a creature. If an electronic device within range is used by a creature, that creature must succeed on a Constitution saving throw to prevent the device from being shut down. While the spell remains active, no electronic device within range can be started or restarted.</span></p>",
+"reference":"Usergen"},
+
+{"id":20479,
+"name":"Synchronicity",
+"school":"Enchantment",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 4, Sorcerer 4, Warlock 4",
+"short_description":"Minor advantages to ease life",
+"full_text":"<h1><span class="fontstyle0">Synchronicity</span></h1><hr />
+<p><span class="fontstyle1"><em>4th level enchantment</em>
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 action
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Touch 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 hour 
+<br />
+</span></p>
+<p><span class="fontstyle0">The creature you touch feels reality subtly shifted to its favor while this spell is in effect. The target isn&rsquo;t inconvenienced by mundane delays of any sort. Traffic lights are always green, there&rsquo;s always a waiting elevator, and a taxi is always around the corner. The target can run at full speed through dense crowds, and attacks of opportunity provoked by the target&rsquo;s movement are made with disadvantage. </span></p>
+<p><span class="fontstyle1">Synchronicity</span><span class="fontstyle0"> grants advantage to Dexterity (Stealth) checks, since the target always finds a handy piece of cover available. Additionally, the target has advantage on all ability checks made to drive a vehicle. </span></p>
+<p><span class="fontstyle0">In the event that two or more creatures under the effect of </span><span class="fontstyle1">synchronicity</span><span class="fontstyle0"> are attempting to avoid being inconvenienced by each other, the creatures engage in a contest of Charisma each time the effects of the spells would oppose each other. </span> </p>",
+"reference":"Usergen"},
+
+{"id":20480,
+"name":"System Backdoor",
+"school":"Transmutation",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 4, Sorcerer 4, Warlock 4",
+"short_description":"Bypass security on electronic devices",
+"full_text":"<h1><span class="fontstyle0">System Backdoor</span></h1><hr />
+<p><em><span class="fontstyle1">4th level transmutation (technomagic)
+<br />
+</span></em></p>
+<p><strong><span class="fontstyle2">Casting Time:</span></strong><span class="fontstyle0"> 1 minute
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Range:</span></strong><span class="fontstyle0"> Personal 
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Components:</span></strong><span class="fontstyle0"> V, S, M (hacking tools)
+<br />
+</span></p>
+<p><strong><span class="fontstyle2">Duration:</span></strong><span class="fontstyle0"> Concentration, up to 1 hour 
+<br />
+</span></p>
+<p><span class="fontstyle0">This spell allows you to bypass system security in order to create a secure login on a foreign system. The login you create allows you administrator
+[level privileges in any computer system not enhanced through technomagic. The login defeats any technomagic spells of 3rd level or lower. 
+<br />
+ Once the duration of the spell expires, the login and all privileges are wiped from the system. System logs still show the activity of the user, but the user identification cannot be found or traced.</span></p>
+<p><strong><span class="fontstyle2">At Higher Levels</span><span class="fontstyle0">:</span> </strong><span class="fontstyle0">When you cast this spell using a spell slot of 5th level or higher, you are </span><span class="fontstyle0">able to bypass technomagic spells if the spell&rsquo;s level is equal to or less than the level of the spell slot you used.</span></p>",
+"reference":"Usergen"},
+
+{"id":20482,
+"name":"Conjure Barlgura",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 4, Sorcerer 4",
+"short_description":"Summon a barlgura",
+"full_text":"<h1><span class="fontstyle0">Conjure Barlgura</span></h1><hr />
+<p><em><span class="fontstyle1">4th-level conjuration
+<br />
+</span></em></p>
+<p><span class="fontstyle2"><strong>Casting Time:</strong> </span><span class="fontstyle0">1 action
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Range:</strong> </span><span class="fontstyle0">60 feet
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Components:</strong> </span><span class="fontstyle0">V, S
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Duration:</strong> </span><span class="fontstyle0">Up to 10 minutes
+<br />
+</span></p>
+<p><span class="fontstyle0">You summon a barlgura that appears in an unoccupied space you can see within range. The barlgura disappears when it drops to 0 hit points or when the spell ends.</span></p>
+<p><span class="fontstyle0">The barlgura is hostile to all non-demons. Roll initiative for the barlgura, which has its own turns. At the start of its turn, it moves toward and attacks the nearest non-demon it can perceive. If two or more creatures are equally near, it picks one at random. If it cannot see any potential enemies, the barlgura moves in a random direction in search of 
+<br />
+foes.
+<br />
+</span></p>
+<p><span class="fontstyle0">As part of casting the spell, you can scribe a circle on the ground using the blood of an intelligent humanoid slain within the past 24 hours. The circle is large enough to encompass your space. The summoned barlgura cannot cross the circle or target anyone in it while the spell lasts.</span></p>",
+"reference":"Usergen"},
+
+{"id":20483,
+"name":"Conjure Hezrou",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 7, Sorcerer 7",
+"short_description":"Summon a Hezrou",
+"full_text":"<h1><span class="fontstyle0">Conjure Hezrou</span></h1><hr />
+<p><em><span class="fontstyle1">7th-level conjuration
+<br />
+</span></em></p>
+<p><span class="fontstyle2"><strong>Casting Time:</strong> </span><span class="fontstyle0">1 action
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Range:</strong> </span><span class="fontstyle0">60 feet
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Components:</strong> </span><span class="fontstyle0">V, S, M (food worth at least 100 gp, which the spell consumes)
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Duration:</strong> </span><span class="fontstyle0">Concentration, up to 1 hour
+<br />
+</span></p>
+<p><span class="fontstyle0">You summon a hezrou that appears in an unoccupied space you can see within range. The hezrou disappears when it drops to 0 hit points or when the spell ends.
+<br />
+</span></p>
+<p><span class="fontstyle0">The hezrou&rsquo;s attitude depends on the value of the food used as a material component for this spell. Roll initiative for the hezrou, which has its own turns. At the start of the hezrou&rsquo;s turn, the DM makes a secret Charisma check on your behalf, with a bonus equal to the food&rsquo;s value divided by 20. The check DC starts at 10 and increases by 2 
+<br />
+each round. You can issue orders to the hezrou and have it obey you as long as you succeed on the Charisma check. 
+<br />
+</span></p>
+<p><span class="fontstyle0">If the check fails, the spell no longer requires concentration and the demon is no longer under your control. The hezrou then focuses on devouring any corpses it can see. If there are no such meals at hand, it attacks the nearest creatures and eats anything it kills. If its hit points are reduced to below half its hit point maximum, it 
+<br />
+returns to the Abyss.
+<br />
+</span></p>
+<p><span class="fontstyle0">As part of casting the spell, you can scribe a circle on the ground using the blood of an intelligent humanoid slain within the past 24 hours. The circle is large enough to encompass your space. The summoned hezrou cannot cross the circle or target anyone in it while the spell lasts.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20484,
+"name":"Conjure Lesser Demon",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 3, Sorcerer 3",
+"short_description":"Summon a number of lesser demons",
+"full_text":"<h1><span class="fontstyle0">Conjure Lesser Demon</span></h1><hr />
+<p><em><span class="fontstyle1">3rd-level conjuration
+<br />
+</span></em></p>
+<p><span class="fontstyle2"><strong>Casting Time:</strong> </span><span class="fontstyle0">1 action
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Range:</strong> </span><span class="fontstyle0">60 feet
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Components:</strong> </span><span class="fontstyle0">V, S, M (a vial of blood from an intelligent humanoid killed within the past 24 hours)
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Duration:</strong> </span><span class="fontstyle0">Concentration, up to 1 hour</span></p>
+<p><span class="fontstyle0">You summon up to a total of eight manes or dretches that appear in unoccupied spaces you can see within range. A manes or dretch disappears </span><span class="fontstyle0">when it drops to 0 hit points or when the spell ends.
+<br />
+</span></p>
+<p><span class="fontstyle0">The demons are hostile to all creatures. Roll initiative for the summoned demons as a group, which has its own turns. The demons attack the nearest non-demons to the best of their ability. </span></p>
+<p><span class="fontstyle0">As part of casting the spell, you can scribe a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. The summoned demons cannot cross the circle or target anyone in it while the spell lasts. Using the material component in this manner consumes it.
+<br />
+</span></p>
+<p><span class="fontstyle5"><strong>At Higher Levels.</strong> </span><span class="fontstyle0">When you cast this spell using a spell slot of 6th or 7th level, you summon sixteen demons. If you cast it using a spell slot of 8th or 9th level, you summon thirty-two demons.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20485,
+"name":"Conjure Shadow Demon",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 4, Sorcerer 4",
+"short_description":"Summon a shadow demon",
+"full_text":"<h1><span class="fontstyle0">Conjure Shadow Demon</span></h1><hr />
+<p><em><span class="fontstyle1">4th-level conjuration
+<br />
+</span></em></p>
+<p><span class="fontstyle2"><strong>Casting Time:</strong> </span><span class="fontstyle0">1 action
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Range:</strong> </span><span class="fontstyle0">60 feet
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Components:</strong> </span><span class="fontstyle0">V, S, M (a vial of blood from an intelligent humanoid killed within the past 24 hours)
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Duration:</strong> </span><span class="fontstyle0">Concentration, up to 1 hour </span></p>
+<p><span class="fontstyle0">You summon a shadow demon that appears in an unoccupied space you can see within range. The shadow demon disappears when it drops to 0 hit points or when the spell ends.
+<br />
+</span></p>
+<p><span class="fontstyle0">Roll initiative for the shadow demon, which has its own turns. You can issue orders to the shadow demon, and it obeys you as long as it can attack a creature on each of its turns and does not start its turn in an area of bright light. If either of these conditions is not met, the shadow demon immediately makes a Charisma check contested by your Charisma check. If you fail the check, the spell no longer requires concentration and the demon is no longer under your control. The demon automatically succeeds on the check if it is more than 100 feet away from you.
+<br />
+</span></p>
+<p><span class="fontstyle0">As part of casting the spell, you can scribe a circle on the ground using the blood of an intelligent humanoid slain within the past 24 hours. The circle is large enough to encompass your space. The summoned shadow demon cannot 
+<br />
+cross the circle or target anyone in it while the spell lasts.</span> </p>",
+"reference":"Usergen"},
+
+{"id":20486,
+"name":"Conjure Vrock",
+"school":"Conjuration",
+"subschool":"None",
+"spellcraft_dc":"",
+"level":"Wizard 5, Sorcerer 5",
+"short_description":"Summon a Vrock",
+"full_text":"<h1><span class="fontstyle0">Conjure Vrock</span></h1><hr />
+<p><em><span class="fontstyle1">5th-level conjuration
+<br />
+</span></em></p>
+<p><span class="fontstyle2"><strong>Casting Time:</strong> </span><span class="fontstyle0">1 action
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Range:</strong> </span><span class="fontstyle0">60 feet
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Components:</strong> </span><span class="fontstyle0">V, S, M (a gem worth at least 100 gp, which the spell consumes)
+<br />
+</span></p>
+<p><span class="fontstyle2"><strong>Duration:</strong> </span><span class="fontstyle0">Concentration, up to 1 hour</span></p>
+<p><span class="fontstyle0">You summon a vrock that appears in an unoccupied space you can see within range. The vrock disappears when it drops to 0 hit points or when the spell ends.
+<br />
+</span></p>
+<p><span class="fontstyle0">The vrock&rsquo;s attitude depends on the value of the gem used as a material component for this spell. Roll initiative for the vrock, which has its own turns. At the start of the vrock&rsquo;s turn, the DM makes a secret Charisma check on your behalf, with a bonus equal to the gem&rsquo;s value divided by 20. The check DC starts at 10 and increases by 2 
+<br />
+each round. You can issue orders to the vrock and have it obey you as long as you succeed on the Charisma check.
+<br />
+</span></p>
+<p><span class="fontstyle0">If the check fails, the spell no longer requires concentration and the vrock is no longer under your control. The vrock takes no actions on its next turn and uses its telepathy to tell any creature it can see that it will fight in exchange for treasure.&nbsp;</span>The creature that gives the vrock the most expensive gem can command it for the next 1d6 rounds. At the end of that time, it offers the bargain again. If no one offers the vrock treasure before its next turn begins, it attacks the nearest &nbsp;creatures for 1d6 rounds before returning to the Abyss.</p>
+<p><span class="fontstyle0">As part of casting the spell, you can scribe a circle on the ground using the blood of an intelligent humanoid slain within the past 24 hours. The circle is large enough to encompass your space. The summoned vrock cannot cross the circle or target anyone in it while the spell lasts.</span></p>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[]]

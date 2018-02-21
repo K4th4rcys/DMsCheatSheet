@@ -1,0 +1,43 @@
+
+[
+[],
+[],
+[],
+[],
+[{"id":1845,
+"name":"Action Surge",
+"type":"General, Fighter",
+"prerequisite":"Fighter level 2",
+"normal":"",
+"special":"",
+"benefit":"You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again.",
+"full_text":"<h2>Action Surge<\/h2>
+<div>
+<p>All levle 2 fighters get this feature.<\/p>
+<p><b>Prerequisite:<\/b> Fighter level 2<\/p><\/div>
+<div>
+<p><b>Benefit:<\/b> You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again.<\/p><\/div>
+<p><br \/><br \/><b>Reference:<\/b>&nbsp;PH<\/p>",
+"reference":"Usergen"},
+
+{"id":1846,
+"name":"Second Wind",
+"type":"General, Fighter",
+"prerequisite":"Fighter Level 1 ",
+"normal":"",
+"special":"",
+"benefit":"You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.",
+"full_text":"
+<div><h2>Second Wind 
+[General, Fighter]<\/h2>
+<div>
+<p>All level 1 fighters get this feature.<\/p>
+<p><b>Prerequisite:<\/b> Fighter Level 1<\/p><\/div>
+<div>
+<p><b>Benefit:<\/b> You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.<\/p><\/div><br \/><br \/><b>Reference:<\/b>&nbsp;PH<\/div>",
+"reference":"Usergen"}],
+[],
+[],
+[],
+[],
+[]]

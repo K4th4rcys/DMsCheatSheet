@@ -1,0 +1,584 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[{"id":10964,
+"name":"BLACK EARTH GUARD",
+"full_text":"
+<p><strong>Armor Class 18 (plate)
+<br />
+Hit Points 39 (6d8 + 12)
+<br />
+Speed 30 ft.</strong></p>
+<p><strong>ACTIONS</strong>
+<br />
+<em>Multiattack.</em> The guard makes two melee attacks. 
+<br />
+
+<br />
+Morningstar. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+<br />
+target. Hit: 7 (ld8 + 3) piercing damage.</p>
+<p>
+<br />
+<strong>REACTIONS</strong>
+<br />
+<em>Unyielding.</em> When the guard is subjected to an effect that 
+<br />
+would move it, knock it prone, or both, it can use its reaction to
+<br />
+be neither moved nor knocked prone.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"39",
+"initiative":"0",
+"base_attack":" 7 (ld8 + 3) piercing damage",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":10965,
+"name":"BLACK EARTH PRIEST",
+"full_text":"
+<p><strong>Armor Class</strong> 17 (splint)
+<br />
+<strong>Hit Points</strong> 45 (7d8 + 14)
+<br />
+<strong>Speed</strong> 30 ft.</p>
+<p><strong>Spellcasting.</strong> The priest is a 5th-level spellcaster. Its
+<br />
+spellcasting ability is Charisma (spell save DC 13, +5 to hit
+<br />
+with spell attacks). It knows the following sorcerer spells (an
+<br />
+asterisked spell is from appendix B): 
+<br />
+Cantrips (at will): acid splash, blade ward, light,
+<br />
+mending, mold earth*
+<br />
+1st level (4 slots): earth tremor* expeditious retreat, shield
+<br />
+2nd level (3 slots): shatter, spider climb
+<br />
+3rd level (2 slots): slow</p>
+<p><strong>ACTIONS</strong></p>
+<p><em>Multiattack</em>. The priest makes two melee attacks. 
+<br />
+Glaive. Melee Weapon Attack: +4 to hit, reach 10 ft., one target.
+<br />
+Hit: 7 (IdlO + 2) slashing damage. 
+<br />
+<strong>REACTIONS</strong>
+<br />
+<em>Unyielding.</em> When the priest is subjected to an effect that 
+<br />
+would move it, knock it prone, or both, it can use its reaction to
+<br />
+be neither moved nor knocked prone.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"45 (7d8 + 14)",
+"initiative":"",
+"base_attack":"7 (1d10 + 2) slashing damage",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":10966,
+"name":"BURROWSHARK",
+"full_text":"
+<p><strong>Armor Class</strong> 18 (plate)
+<br />
+<strong>Hit Points</strong> 82 (lld8 +33)
+<br />
+<strong>Speed</strong> 30 ft.</p>
+<p><strong>ACTIONS</strong>
+<br />
+<em>Multiattack.</em> The burrowshark makes three melee attacks. 
+<br />
+Spear. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or
+<br />
+range 20/60 ft., one target. Hit: 7 (ld6 + 4) piercing damage, or
+<br />
+8 (ld8 + 4) piercing damage if used with two hands to make a
+<br />
+melee attack.</p>
+<p>
+<br />
+<strong>REACTIONS</strong>
+<br />
+<em>Unyielding.</em> When the burrowshark is subjected to an effect 
+<br />
+that would move it, knock it prone, or both, it can use its
+<br />
+reaction to be neither moved nor knocked prone.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"82 (11d8 +33)",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":10967,
+"name":"STONEMELDER",
+"full_text":"
+<p><strong>Armor Class</strong> 17 (splint)
+<br />
+<strong>Hit Points</strong> 75 (10d8 + 30)
+<br />
+<strong>Speed</strong> 30 ft.</p>
+<p><strong>Death Burst.</strong> When the stonemelder dies, it turns to stone
+<br />
+and explodes in a burst of rock shards, becoming a smoking
+<br />
+pile of rubble. Each creature within 10 feet ofthe exploding
+<br />
+stonemelder must make a DC 14 Dexterity saving throw, taking
+<br />
+11 (2dl0) bludgeoning damage on a failed save, or half as
+<br />
+much damage on a successful one.</p>
+<p>
+<br />
+<strong>Spellcasting.</strong> The stonemelder is a 7th-level spellcaster. Its
+<br />
+spellcasting ability is Charisma (spell save DC 13, +5 to hit
+<br />
+with spell attacks). It knows the following sorcerer spells (an
+<br />
+asterisked spell is from appendix B): 
+<br />
+Cantrips (at will): acid splash, blade ward, light,
+<br />
+mending, mold earth* 
+<br />
+1st level (4 slots): expeditious retreat, false life, shield
+<br />
+2nd level (3 slots): Maximilian's earthen grasp* shatter
+<br />
+3rd level (3 slots): erupting earth* meld into stone
+<br />
+4th level (1 slot): stoneskin</p>
+<p>
+<br />
+<strong>ACTIONS</strong>
+<br />
+<em>Black Earth Rod.</em> Melee Weapon Attack: +5 to hit, reach 5 
+<br />
+ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. The
+<br />
+stonemelder can also expend a spell slot to deal extra damage,
+<br />
+dealing 2d8 bludgeoning damage for a 1st level slot, plus an
+<br />
+additional ld8 for each level ofthe slot above 1st</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"75 (10d8 + 30)",
+"initiative":"",
+"base_attack":"5 (1d6 + 2) bludgeoning damage",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":10968,
+"name":"HELLENRAE ",
+"full_text":"
+<p><strong>Armor Class</strong> 16
+<br />
+<strong>Hit Points</strong> 78 (12d8 + 24) 
+<br />
+<strong>Speed</strong> 50 ft.</p>
+<p><strong>Damage Immunities</strong> poison
+<br />
+<strong>Condition Immunities</strong> blinded, poisoned</p>
+<p><strong>Evasion.</strong> If Hellenrae is subjected to an effect that allows her
+<br />
+to make a Dexterity saving throw to take only half damage, she
+<br />
+instead takes no damage if she succeeds on the saving throw,
+<br />
+and only half damage if she fails.</p>
+<p>
+<br />
+<strong>Stunning Strike (Recharge 5-6)</strong> When Hellenrae hits a target
+<br />
+with a melee weapon attack, the target must succeed on a DC
+<br />
+13 Constitution saving throw or be stunned until the end of
+<br />
+Hellenrae's next turn.</p>
+<p>
+<br />
+<strong>Unarmored Defense.</strong> While Hellenrae is wearing no armor and
+<br />
+wielding no shield, her AC includes her Wisdom modifier. 
+<br />
+Unarmored Movement. While Hellenrae is wearing no
+<br />
+armor and wielding no shield, her speed increases by 20 feet
+<br />
+(included in her speed). 
+<br />
+<strong>ACTIONS</strong> 
+<br />
+<em>Multiattack</em>. Hellenrae makes three melee attacks. 
+<br />
+Unarmed Strike. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+<br />
+one target. Hit: 9 (ldlO + 4) bludgeoning damage. 
+<br />
+<strong>REACTIONS</strong> 
+<br />
+<em>Parry and Counter.</em> Hellenrae adds 3 to her AC against one
+<br />
+melee or ranged weapon attack that would hit her. To do so,
+<br />
+she must be able to sense the attacker with her blindsight.
+<br />
+If the attack misses, Hellenrae can make one melee attack
+<br />
+against the attacker if it is within her reach.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"78 (12d8 + 24) ",
+"initiative":"",
+"base_attack":"9 (1d10 + 4) ",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"0",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":10969,
+"name":"MIRAJ VIZANN",
+"full_text":"
+<p><strong>Armor Class</strong> 10 (13 with mage armor)
+<br />
+<strong>Hit Points</strong> 82 (lld8 + 33)
+<br />
+<strong>Speed</strong> 30 ft</p>
+<p><strong>Earth Walk.</strong> Moving through difficult terrain made of earth or
+<br />
+stone costs Miraj no extra movement.</p>
+<p>
+<br />
+<strong>Innate Spellcasting.</strong> Miraj's innate spellcasting ability is
+<br />
+Constitution (spell save DC 14). He can innately cast the
+<br />
+following spell, requiring no material components: 
+<br />
+1/day: pass without trace</p>
+<p><strong>Spellcasting</strong>.</p>
+<p>Miraj is an 11th-level spellcaster. His spellcasting 
+<br />
+ability is Charisma (spell save DC 15, +7 to hit with spell
+<br />
+attacks). He knows the following sorcerer spells (an asterisked
+<br />
+spell is from appendix B): 
+<br />
+Cantrips (at will): acid splash, blade ward, friends, light,
+<br />
+message, mold earth*
+<br />
+1st level (4 slots): chromatic orb, mage armor, magic missile
+<br />
+2nd level (3 slots): Maximilian's earthen grasp*
+<br />
+shatter, suggestion
+<br />
+3rd level (3 slots): counterspell, erupting earth*
+<br />
+4th level (3 slots): polymorph, stoneskin
+<br />
+5th level (2 slots): wall of stone
+<br />
+6th level (1 slot): move earth</p>
+<p>
+<br />
+<strong>ACTIONS</strong> 
+<br />
+<em>Staff</em>. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+<br />
+target. Hit: 4 (ld6 + 1) bludgeoning damage, or 5 (ld8 + 1)
+<br />
+bludgeoning damage when used with two hands.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"82 (11d8 + 33)",
+"initiative":"",
+"base_attack":"4 (1d6 + 1)",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":11110,
+"name":"WINDHARROW",
+"full_text":"
+<p><strong>Armor Class </strong>15 (studded leather)<strong>
+<br />
+Hit Points </strong>55 (10d8+10)<strong>
+<br />
+Speed</strong> 30 ft.</p>
+<p><strong>Fey Ancestry.</strong> Windharrow has advantage on saving throws
+<br />
+against being charmed, and magic can't put him to sleep.&nbsp;</p>
+<p>
+<br />
+<strong>Spellcasting.</strong> Windharrow is an Sth-level spellcaster. His
+<br />
+spellcasting ability is Charisma (spell save DC 13, +5 to hit with 
+<br />
+spell attacks). Windharrow knows the following bard spells:</p>
+<p style="padding-left: 30px;">
+<br />
+Cantrips (at will): friends, prestidigitation, vicious mockery
+<br />
+1st level (4 slots): disguise self, dissonant whispers, thunderwave
+<br />
+2nd level (3 slots): invisibility, shatter, silence
+<br />
+3rd level (3 slots): nondetection, sending, tongues
+<br />
+4th level (2 slots): confusion, dimension door</p>
+<p><strong>Multiattack.</strong> Windharrow makes two melee attacks.</p>
+<p>
+<br />
+<strong>Rapier.</strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one 
+<br />
+creature. Hit: 7 (ld8 + 3) piercing damage.</p>",
+"family":"half-elf",
+"ch":"7",
+"size":"Medium",
+"hit_dice":"55 (10d8+10)",
+"initiative":"+3",
+"base_attack":"Rapier. Melee Weapon Attack: +5 to hit, reach 5 ft., one  creature. Hit: 7 (ld8 + 3) piercing damage. ",
+"environment":"",
+"type":"Humanoid",
+"challenge_rating":"7",
+"alignment":"Neutral Evil",
+"reference":"Usergen"},
+
+{"id":11111,
+"name":"HURRICANE ",
+"full_text":"
+<p><strong>Armor Class</strong> 14
+<br />
+<strong>Hit Points</strong> 33&nbsp;
+<br />
+<strong>Speed</strong> 45 ft.</p>
+<p><strong>Spellcasting.</strong> The hurricane is a 3rd-level spellcaster. Its
+<br />
+spellcasting ability is Wisdom (spell save DC 11, +3 to hit
+<br />
+with spell attacks). It knows the following sorcerer spells (an
+<br />
+asterisked spell is from appendix B):</p>
+<p style="padding-left: 30px;">
+<br />
+Cantrips (at will): blade ward, gust* light, prestidigitation
+<br />
+1st level (4 slots): feather fall, jump, thunderwave
+<br />
+2nd level (2 slots): gust of wind</p>
+<p>
+<br />
+<strong>Unarmored Defense.</strong> While the hurricane is wearing no armor
+<br />
+and wielding no shield, its AC includes its Wisdom modifier. 
+<br />
+Unarmored Movement. While the hurricane is wearing no
+<br />
+armor and wielding no shield, its walking speed increases by 15
+<br />
+feet (included in its speed). 
+<br />
+<strong>ACTIONS</strong></p>
+<p style="padding-left: 30px;">
+<br />
+<strong>Multiattack</strong>. The hurricane makes two melee attacks. 
+<br />
+<strong>Unarmed Strike</strong>. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+<br />
+one target. Hit: 6 (ld6 + 3) bludgeoning damage.</p>
+<p>
+<br />
+<strong>REACTIONS</strong></p>
+<p style="padding-left: 30px;">
+<br />
+<strong>Deflect Missiles.</strong> When the hurricane is hit by a ranged weapon 
+<br />
+attack, it reduces the damage from the attack by ldlO + 9. If the
+<br />
+damage is reduced to 0, the hurricane can catch the missile if
+<br />
+it is small enough to hold in one hand and the hurricane has at
+<br />
+least one hand free.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"33",
+"initiative":"3",
+"base_attack":"Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (ld6 + 3) bludgeoning damage.",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"0",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":11112,
+"name":"AERISI KALINOTH ",
+"full_text":"
+<p><strong>Armor Class</strong> 13(16 with mage armor)
+<br />
+<strong>Hit Points</strong> 66 (12d8 + 12)
+<br />
+<strong>Speed</strong> 30 ft.</p>
+<p><strong>Fey Ancestry.</strong> Aerisi has advantage on saving throws against
+<br />
+being charmed, and magic can't put her to sleep.</p>
+<p>
+<br />
+<strong>Howling Defeat.</strong> When Aerisi drops to 0 hit points, her body
+<br />
+disappears in a howling whirlwind that disperses quickly and
+<br />
+harmlessly. Anything she is wearing or carrying is left behind.</p>
+<p>
+<br />
+<strong>Legendary Resistance (2/Day).</strong> If Aerisi fails a saving throw, she
+<br />
+can choose to succeed instead.</p>
+<p>
+<br />
+<strong>Spellcasting.</strong> Aerisi is an 12th-level spellcaster. Her spellcasting
+<br />
+ability is Intelligence (spell save DC 14, +6 to hit with spell
+<br />
+attacks). Aerisi has the following wizard spells prepared (an
+<br />
+asterisked spell is from appendix B):</p>
+<p style="padding-left: 30px;">
+<br />
+Cantrips (at will): gust* mage hand, message, prestidigitation,
+<br />
+ray of frost, shocking grasp 
+<br />
+1st level (4 slots): charm person, feather fall, mage
+<br />
+armor, thunderwave 
+<br />
+2nd level (3 slots): dust devil* gust of wind, invisibility
+<br />
+3rd level (3 sots): fly, gaseous form, lightning bolt
+<br />
+4th level (3 slots): ice storm, storm sphere*
+<br />
+5th level (2 slots): cloudkill, seeming (cast each day)
+<br />
+6th level (1 slot): chain lightning</p>
+<p>
+<br />
+<strong>ACTIONS</strong> 
+<br />
+<strong>Windvane.</strong> Melee or Ranged Weapon Attack: +9 to hit, reach 5
+<br />
+ft. or range 20 ft./60 ft., one target. Hit: 9 (ld6 + 6) piercing
+<br />
+damage, or 10 (ld8 + 6) piercing damage if used with two
+<br />
+hands to make a melee attack, plus 3 (ld6) lightning damage.</p>
+<p><strong>LAIR ACTIONS</strong> 
+<br />
+On initiative count 20 (losing
+<br />
+initiative ties), Aerisi uses a lair action to <em>cast one of her</em>
+<br />
+<em>spells, up to 3rd level</em>, without using components or a
+<br />
+spell slot. She can't cast the same spell two rounds in a
+<br />
+row, although she can continue to concentrate on a spell
+<br />
+she previously cast using a lair action. Aerisi can take
+<br />
+no other lair actions while concentrating on a spell cast
+<br />
+as a lair action. 
+<br />
+If Aerisi casts <em>invisibility</em> using this lair action, she
+<br />
+also draws the power ofthe air node into herself. By
+<br />
+doing so, <em>she regains 15 (3d8 + 2) hit points. </em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"66",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"},
+
+{"id":11113,
+"name":"HOWLING HATRED INITIATE",
+"full_text":"
+<p><strong>Armor Class</strong> 13 (leather)
+<br />
+<strong>Hit Points</strong> 9 (2d8)
+<br />
+<strong>Speed</strong> 30 ft.</p>
+<p><strong>Guiding Wind</strong> (Recharges after a Short or Long Rest). As a
+<br />
+bonus action, the initiate gains advantage on the next ranged
+<br />
+attack roll it makes before the end of its next turn</p>
+<p><strong>Hold Breath.</strong> The initiate can hold its breath for 30 minutes.</p>
+<p><strong>Dagger.</strong> Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.
+<br />
+or range 20/60 ft., one target. Hit: 4 (ld4 + 2) piercing damage.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"9",
+"initiative":"2",
+"base_attack":"",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"Usergen"}]]

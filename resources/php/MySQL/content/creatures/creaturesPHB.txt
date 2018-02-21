@@ -1,0 +1,883 @@
+{"id":"10294",
+"name":"Lion",
+"full_text":"<h2>Lion</h2>
+<p>Large beast, unaligned</p>
+<p><strong>Armor Class</strong> 12</p>
+<p><strong>Hit Points</strong> 26 (4d10 + 4)</p>
+<p><strong>Speed</strong> 50 ft.</p>
+<table style="height: 53px;" width="330"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+17 (+3)
+</td>
+<td>
+15 (+2)
+</td>
+<td>
+13 (+1)
+</td>
+<td>
+3 (- 4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+8 (-1)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +3 , Stealth +6</p>
+<p><strong>Senses</strong> passive Perception 13</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1 (200 XP)</p>
+<p><strong>Keen Smell</strong>. The lion has advantage on Wisdom (Perception)</p>
+<p>checks that rely on smell.</p>
+<p><strong>Pack Tactics</strong>. The lion has advantage on an attack roll against a</p>
+<p>creature if at least one of the lion's allies is within 5 feet of the</p>
+<p>creature and the ally isn't incapacitated .</p>
+<p><strong>Pounce</strong>. If the lion moves at least 20 feet straight toward a</p>
+<p>creature and then hits it with a claw attack on the same turn,</p>
+<p>that target must succeed on a DC 13 Strength saving throw or</p>
+<p>be knocked prone. If the target is prone, the lion can make one</p>
+<p>bite attack against it as a bonus action.</p>
+<p><strong>Running Leap</strong>. With a 10-foot running start, the lion can long</p>
+<p>jump up to 25 feet.</p>
+<p><strong>ACTIONS</strong></p>
+<p><strong>Bite</strong>. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.</p>
+<p>Hit: 7 (1d8 + 3) piercing damage.</p>
+<p><strong>Claw</strong>. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.,</p>
+<p>Hit: 6 (1d6 + 3) slashing damage.</p>",
+"family":"",
+"ch":"0",
+"size":"Large",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Neutral",
+"reference":"PhB"},
+
+{"id":"10299",
+"name":"Mastiff",
+"full_text":"
+<div><h2>Mastiff</h2>
+<p><strong>Medium beast, unalined</strong></p>
+<p><strong>Armor Class</strong> 12</p>
+<p><strong>Hit Points</strong> 5 (ld8 + 1)</p>
+<p><strong>Speed</strong> 40 ft.</p>
+<table style="height: 53px;" width="319"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+13 (+1)
+</td>
+<td>
+14 (+2)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+3 (-4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+7 (-2)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +3</p>
+<p><strong>Senses</strong> passive Perceptio n 13</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/8 (25 XP)</p>
+<p><strong>Keen Hearing and Smell</strong>. The mastiff has advantage on</p>
+<p>Wisdom (Perception) checks that rely on hearing or smell.</p>
+<p><strong>ACTIONS</strong></p>
+<p><strong>Bite</strong>. Melee Weapon Attack: +3 to hit, reach 5 ft., o ne target. Hit:</p>
+<p>4 (1d6 + 1) piercing damage. If the target is a creature, it must</p>
+<p>succeed on a DC 11 Strength saving throw o r be knocked prone.</p>
+<p>&nbsp;</p>
+<p><strong>Mastiffs are impressive hounds</strong> prized by humanoids</p>
+<p>for their loyalty and keen senses, Mastiffs can be trained</p>
+<p>as guard dogs, hunting dogs, and war dogs. Halftings</p>
+<p>and other Small humanoids ride them as mounts.</p>
+</div>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Neutral",
+"reference":"PhB"},
+
+{"id":"10300",
+"name":"Mule",
+"full_text":"<h2>Mule</h2>
+<p>Medium beast, unaligned</p>
+<p><strong>Armor Class</strong> 1 0</p>
+<p><strong>Hit Points</strong> 11 (2d8 + 2)</p>
+<p><strong>Speed</strong> 40ft.</p>
+<table style="height: 40px;" width="322"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+14 (+2)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+13 (+1)
+</td>
+<td>
+2 (-4)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+5 (-3)
+</td>
+</tr></tbody></table>
+<p><strong>Senses</strong> passive Perception 10</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/8 (25 XP)</p>
+<p><strong>Beast of Burden</strong>. The mule is considered to be a Large animal</p>
+<p>for the purpose of determining its carrying capacity.</p>
+<p><strong>Sure-Footed</strong>. The mule has advantage on Strength and</p>
+<p>Dexterity saving throws made against effects that would</p>
+<p>knock it prone.</p>
+<p><strong>ACTIONS</strong></p>
+<p><strong>Hooves</strong>. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.</p>
+<p>Hit: 4 (1d4 + 2) bludgeoning damage.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"PhB"},
+
+{"id":"10301",
+"name":"Owl",
+"full_text":"
+<div><h2>Owl</h2>
+<p>Tiny beast, unaligned</p>
+<p><strong>Armor Class</strong> 11</p>
+<p><strong>Hit Points</strong> 1 (ld4- 1)</p>
+<p><strong>Speed</strong> 5 ft., fly 60ft.</p>
+<table style="height: 40px;" width="302"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+3 (-4)
+</td>
+<td>
+13 (+1)
+</td>
+<td>
+8 (-1)
+</td>
+<td>
+2 (-4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+7 (-2)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +3, Stealth +3</p>
+<p><strong>Senses</strong> darkvision 120ft., passive Perception 13</p>
+<p><strong>Languages</strong>-</p>
+<p><strong>Challenge</strong> 0 (10 XP)</p>
+<p><strong>Flyby</strong>. The owl doesn't provoke opportunity attacks when it</p>
+<p>flies out of an enemy's reach.</p>
+<p><strong>Keen Hearing and Sight</strong>. The owl has advantage on Wisdom</p>
+<p>(Perception) checks that rely on hearing r sight.</p>
+<p><strong>ACTIONS</strong></p>
+<p><strong>Talons</strong>. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.</p>
+<p>Hit: 1 slashing damage.</p>
+</div>",
+"family":"",
+"ch":"0",
+"size":"Tiny",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Neutral",
+"reference":"PhB"},
+
+{"id":"10302",
+"name":"Wolf",
+"full_text":"
+<div><h2>Wolf</h2>
+<p>Medium beast, unaligned</p>
+<p><strong>Armor Class</strong> 13 (natural armor)</p>
+<p><strong>Hit Points</strong> 11 (2d8 + 2)</p>
+<p><strong>Speed</strong> 40ft.</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+12 (+1)
+</td>
+<td>
+15 (+2)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+3 (-4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+6 (-2)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +3, Stealth +4</p>
+<p><strong>Senses</strong> passive Perception 13</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/4 (50 XP)</p>
+<p><strong>Keen Hearing and Smell</strong>. The wolf has advantage on Wisdom</p>
+<p>(Perception) checks that rely on hearing or smell.</p>
+<p><strong>Pack Tactics</strong>. The wolf has advantage on attack rolls against a</p>
+<p>creature if at least one of the wolf's allies is within 5 feet of the</p>
+<p>creature and the ally isn't incapacitated.</p>
+<p><strong>ACTIONS</strong></p>
+<p>Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.</p>
+<p>Hit: 7 (2d4 + 2) piercing damage. If the target is a creature,</p>
+<p>it must succeed on a DC 11 Strength saving throw or be</p>
+<p>knocked prone.</p>
+</div>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Aberration",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"PhB"},
+
+{"id":"10307",
+"name":"Warhorse",
+"full_text":"
+<div><h2>Warhorse</h2>
+<p>Large beast, unaligned</p>
+<p><strong>Armor Class</strong> 11</p>
+<p><strong>Hit Points</strong> 19 (3d10 + 3)</p>
+<p><strong>Speed</strong> 60ft.</p>
+<table style="height: 40px;" width="292"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+18 (+4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+13 (+1)
+</td>
+<td>
+2 (-4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+7 (-2)
+</td>
+</tr></tbody></table>
+<p><strong>Senses</strong> passive Perception 11</p>
+<p><strong>Languages</strong>-</p>
+<p><strong>Challenge</strong> 1/2 (100 XP)</p>
+<p><strong>Trampling Charge</strong>. If the horse moves at least 20 feet stra ight</p>
+<p>toward a creature and then hits it with a hooves attack on</p>
+<p>the same turn, that target must succeed on a DC 14 Strength</p>
+<p>saving throw or be knocked prone. If the target is prone, the</p>
+<p>horse can make another attack with its hooves against it as a</p>
+<p>bonus action .</p>
+<p><strong>ACTIONS</strong></p>
+<p><strong>Hooves</strong>. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.</p>
+<p>Hit: 11 (2d6 + 4) bludgeoning damage.</p>
+</div>",
+"family":"",
+"ch":"0",
+"size":"Large",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Neutral",
+"reference":"PhB"},
+
+{"id":"10311",
+"name":"Tiger",
+"full_text":"
+<div><h2>Tiger</h2>
+<p>Large beast, unaligned</p>
+<p><strong>Armor Class</strong> 12</p>
+<p><strong>Hit Points</strong> 37 (5d10 + 10)</p>
+<p><strong>Speed</strong> 40ft.</p>
+<table style="height: 53px;" width="315"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+17 (+3)
+</td>
+<td>
+15 (+2)
+</td>
+<td>
+14 (+2)
+</td>
+<td>
+3 (- 4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+8 (-1)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +3, Stealth +6</p>
+<p><strong>Senses</strong> darkvision 60ft., passive Perception 13</p>
+<p><strong>languages</strong>-</p>
+<p><strong>Challenge</strong> 1 (200 XP)</p>
+<p><strong>Keen</strong> <strong>Smell</strong>. The tiger has advantage on Wisdom (Perception)</p>
+<p>checks that rely on smell.</p>
+<p><strong>Pounce</strong>. If the tiger moves at least 20 feet straight toward a</p>
+<p>creature and then hits it with a claw attack on the same turn,</p>
+<p>that target must succeed on a DC 13 Strength saving throw or</p>
+<p>be knocked prone. If the target is prone, the tiger can make one</p>
+<p>bite attack against it as a bonus action .</p>
+<p><strong>ACTIONS</strong></p>
+<p><strong>Bite</strong>. Melee Weapon Attack: +5 to hit, reach 5 ft. , one target.</p>
+<p>Hit: 8 (1d10 + 3) piercing damage .</p>
+<p><strong>Claw</strong>. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.</p>
+<p>Hit: 7 (1d8 + 3) slashing damage.</p>
+<p>&nbsp;</p>
+</div>",
+"family":"",
+"ch":"0",
+"size":"Large",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Neutral",
+"reference":"PhB"},
+
+{"id":12050,"name":"Panther",
+"full_text":"<h2>Panther</h2>
+<p>Medium beast, unaligned</p>
+<p><strong>Armor Class</strong> 12&nbsp;</p>
+<p><strong>Hit Points</strong> 13 (3d8)</p>
+<p><strong>Speed</strong>&nbsp;50 ft., climb 40 ft.</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+14 (+2)
+</td>
+<td>
+13 (+2)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+3 (-4)
+</td>
+<td>
+14 (+2)
+</td>
+<td>
+7&nbsp;(-2)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +4, Stealth +6</p>
+<p><strong>Senses</strong> passive Perception&nbsp;14</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/4 (50 XP)</p>
+<p><strong>Keen Smell</strong>. The panther&nbsp;has advantage on Wisdom</p>
+<p>(Perception) checks that rely on smell.</p>
+<p><strong>Pounce</strong>.&nbsp;If the panther moves at least 20 feet straight toward a creature right before hitting it with a claw attack, the target must succeedon a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can take a bonus action to make one bit attack against it.</p>
+<p><strong>ACTIONS</strong></p>
+<p><em><strong>Bite.</strong> Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target.</p>
+<p>Hit: 5 (1d6 + 2) piercing damage.&nbsp;</p>
+<p><em><strong>Claw.</strong> Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target.</p>
+<p>Hit: 4 (1d4 + 2) slashing damage.</p>",
+"family":"",
+"ch":"1",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"1",
+"alignment":"Neutral",
+"reference":"PhB"},
+
+{"id":12051,"name":"Poisonous Snake",
+"full_text":"<h2>Poisonous Snake</h2>
+<p>Tiny&nbsp;beast, unaligned</p>
+<p><strong>Armor Class</strong> 13&nbsp;</p>
+<p><strong>Hit Points</strong>&nbsp;2 (1d4)</p>
+<p><strong>Speed</strong>&nbsp;30 ft.,&nbsp;swim&nbsp;30 ft.</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+2&nbsp;(-4)
+</td>
+<td>
+16 (+3)
+</td>
+<td>
+11 (+0)
+</td>
+<td>
+1 (-5)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+3&nbsp;(-42)
+</td>
+</tr></tbody></table>
+<p><strong>Senses</strong>&nbsp;blindsight 10 ft., passive Perception&nbsp;10</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/8 (25 XP)</p>
+<p><strong>ACTIONS</strong></p>
+<p><em><strong>Bite.</strong> Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target.</p>
+<p>Hit: 1&nbsp;piercing damage and the target must make a DC 10 constitution saving throw, taking 5 (2d4) poison damage on a failed save, of half as much damage on a succesful one.</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"PhB"},
+
+{"id":12052,"name":"Rat",
+"full_text":"<h2>Rat</h2>
+<p>Tiny&nbsp;beast, unaligned</p>
+<p><strong>Armor Class</strong> 10&nbsp;</p>
+<p><strong>Hit Points</strong> 1 (1d4 - 1)</p>
+<p><strong>Speed</strong>&nbsp;20 ft.&nbsp;</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+2&nbsp;(-4)
+</td>
+<td>
+11 (+0)
+</td>
+<td>
+9&nbsp;(-1)
+</td>
+<td>
+2&nbsp;(-4)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+4&nbsp;(-3)
+</td>
+</tr></tbody></table>
+<p><strong>Senses</strong>&nbsp; darkvision 30 ft., passive Perception&nbsp;14</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong>&nbsp;0 (10 XP)</p>
+<p><strong>Keen Smell</strong>. The rat&nbsp;has advantage on Wisdom (Perception) checks that rely on smell.</p>
+<p><strong>ACTIONS</strong></p>
+<p><em><strong>Bite.</strong> Melee Weapon Attack:</em> +0 to hit, reach 5 ft., one target.</p>
+<p>Hit: 1&nbsp;piercing damage.&nbsp;</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"0",
+"alignment":"Lawful Good",
+"reference":"PhB"},
+
+{"id":12053,"name":"Raven",
+"full_text":"<h2>Raven</h2>
+<p>Tiny&nbsp;beast, unaligned</p>
+<p><strong>Armor Class</strong> 12&nbsp;</p>
+<p><strong>Hit Points</strong> 1 (1d4-1)</p>
+<p><strong>Speed</strong>&nbsp;10 ft., fly 50 ft.</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+2&nbsp;(-4)
+</td>
+<td>
+14 (+2)
+</td>
+<td>
+8&nbsp;(-1)
+</td>
+<td>
+2&nbsp;(-4)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+6&nbsp;(-2)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +3,</p>
+<p><strong>Senses</strong> passive Perception&nbsp;13</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong>&nbsp;0 (10 XP)</p>
+<p><strong>Mimicry.</strong>&nbsp;The Raven can mimic simple sounds it has heard, such as a person wispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a succesful DC 10 Wisdom (Insight) check.</p>
+<p><strong>ACTIONS</strong></p>
+<p><em><strong>Beak.</strong> Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target.</p>
+<p>Hit: 1&nbsp;piercing damage.&nbsp;</p>
+<p>&nbsp;</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"PhB"},
+
+{"id":12054,"name":"Reef Shark",
+"full_text":"<h2>Reef Shark</h2>
+<p>Medium beast, unaligned</p>
+<p><strong>Armor Class</strong> 12 (natural armor)</p>
+<p><strong>Hit Points</strong>&nbsp;22 (4d8 + 4)</p>
+<p><strong>Speed</strong>&nbsp;0 ft., swom&nbsp;40 ft.</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+14 (+2)
+</td>
+<td>
+13 (+1)
+</td>
+<td>
+13 (+1)
+</td>
+<td>
+1&nbsp;(-5)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+4&nbsp;(-3)
+</td>
+</tr></tbody></table>
+<p><strong>Skills</strong> Perception +2</p>
+<p><strong>Senses</strong>&nbsp;blindsight 30 ft., passive Perception&nbsp;12</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/2 (100 XP)</p>
+<p><strong>Pack Tactics</strong>. The shark has advantage on&nbsp;attack rolls against &nbsp;creature if at least one of the shark's allies is within 5 feet of the creature and isn't capacitated.</p>
+<p><strong>Water Breathing.</strong>&nbsp;The shark can breathe only under water.</p>
+<p><strong>ACTIONS</strong></p>
+<p><em><strong>Bite.</strong> Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target.</p>
+<p>Hit: 6&nbsp;(1d8 + 2) piercing damage.&nbsp;</p>
+<p>&nbsp;</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"PhB"},
+
+{"id":12055,"name":"Riding Horse",
+"full_text":"<h2>Riding Horse</h2>
+<p>Large beast, unaligned</p>
+<p><strong>Armor Class</strong> 10</p>
+<p><strong>Hit Points</strong> 13 (2d10 + 2)</p>
+<p><strong>Speed</strong>&nbsp;60 ft.&nbsp;</p>
+<table style="height: 40px;" width="363"><tbody><tr><td>
+<strong>STR</strong>
+</td>
+<td>
+<strong>DEX</strong>
+</td>
+<td>
+<strong>CON</strong>
+</td>
+<td>
+<strong>INT</strong>
+</td>
+<td>
+<strong>WIS</strong>
+</td>
+<td>
+<strong>CHA</strong>
+</td>
+</tr><tr><td>
+16 (+3)
+</td>
+<td>
+10 (+0)
+</td>
+<td>
+12 (+1)
+</td>
+<td>
+2&nbsp;(-4)
+</td>
+<td>
+11 (+0)
+</td>
+<td>
+7&nbsp;(-2)
+</td>
+</tr></tbody></table>
+<p><strong>Senses</strong> passive Perception&nbsp;10</p>
+<p><strong>Languages</strong> -</p>
+<p><strong>Challenge</strong> 1/4 (50 XP)</p>
+<p><strong>ACTIONS</strong></p>
+<p><em><strong>Hooves.</strong> Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target.</p>
+<p>Hit: 8&nbsp;(2d4 + 3) bludgeoning&nbsp;damage.&nbsp;</p>
+<p>&nbsp;</p>",
+"family":"",
+"ch":"0",
+"size":"Medium",
+"hit_dice":"",
+"initiative":"",
+"base_attack":"",
+"environment":"",
+"type":"Animal",
+"challenge_rating":"",
+"alignment":"Lawful Good",
+"reference":"PhB"}

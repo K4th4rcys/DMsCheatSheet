@@ -1,0 +1,74 @@
+{"id":"6627",
+"name":"Pirate",
+"type":"background",
+"hit_die":"",
+"alignment":"Any",
+"full_text":"<h2>Pirate</h2>
+<p><b>Type:</b> background</p>
+<h3>Requirements</h3>
+<p>To quilify for this class, a character must fulfill all the folowing criteria</p>
+<p><b>Alignment:</b> Any<br /><br /></p>
+<hr />
+<p><strong>Variant <a href="http://class.com/sailor">Sailor</a>: Pirate</strong></p>
+<p>As a Pirate you spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.</p>
+<p>If you decide that your sailing career involved piracy, you can choose the Bad Reputation feature (see sidebar) instead of the Ship's Passage feature.</p>
+<p>&nbsp;</p>
+<p><strong>Variant Feature: Bad Reputation</strong><br /> If your character has a sailor background, you may select this background feature instead of Ship's Passage.</p>
+<p>No matter where you go, people are afraid of you due to your reputation. When you are in a civilized settlement, you can get away with minor criminal offenses, such as refusing to pay for food at a tavern or breaking down doors at a local shop, since most people will not report your activity to the authorities.</p>
+<p><br /><br /><b>Reference:&nbsp;</b></p>",
+"reference":"PhB",
+"class_skills":"",
+"proficiencies":""},
+
+{"id":"6628",
+"name":"Gladiator",
+"type":"background",
+"hit_die":"",
+"alignment":"Any",
+"full_text":"
+<div><h2>Gladiator</h2>
+<p><b>Type:</b> background</p>
+<h3>Requirements</h3>
+<p>To quilify for this class, a character must fulfill all the folowing criteria</p>
+<p><b>Alignment:</b> Any<br /><br /></p>
+<hr />
+<div class="page" title="Page 132">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Variant <a href="http://class.com/entertainer">Entertainer</a>: Gladiator</strong><br /> A gladiator is as much an entertainer as any minstrel&nbsp;or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of&nbsp;flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor.</p>
+<p>Using your <strong>By Popular Demand feature</strong>, you can find a place to perform in any place that features combat for entertainment&mdash;perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.</p>
+</div>
+</div>
+</div>
+<p><br /><br /><b>Reference:</b>&nbsp;</p>
+</div>",
+"reference":"PhB",
+"class_skills":"",
+"proficiencies":""},
+
+{"id":"6629",
+"name":"Guild Merchant",
+"type":"background",
+"hit_die":"",
+"alignment":"Any",
+"full_text":"
+<div><h2>Guild Merchant</h2>
+<p><b>Type:</b> background</p>
+<h3>Requirements</h3>
+<p>To quilify for this class, a character must fulfill all the folowing criteria</p>
+<p><b>Alignment:</b> Any<br /><br /></p>
+<hr /><br />
+<div class="page" title="Page 134">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Variant <a href="http://class.com/guild artisan">Guild Artisan</a>: Guild Merchant</strong></p>
+<p>Instead of an artisans' guild, you might belong to a<br /> guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying<br /> and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region, Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.</p>
+<p>Rather&nbsp;than proficiency with artisan's tools, you might be proficient with navigator's tools or an additional language. And instead of artisan's tools, you can start with a mute and a cart.</p>
+</div>
+</div>
+</div>
+<p><br /><b>Reference:</b>&nbsp;</p>
+</div>",
+"reference":"PhB",
+"class_skills":"",
+"proficiencies":""},

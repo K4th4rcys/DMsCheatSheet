@@ -1,0 +1,173 @@
+
+[
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[{"id":5190,
+"name":"Barbarian, Path of the Battlerager",
+"type":"archetype",
+"hit_die":"1d8",
+"alignment":"Any",
+"full_text":"<h1>Barbarian, Path of the Battlerager</h1>
+<p>See&nbsp;<a href="http://class.com/Barbarian">Barbarian</a>&nbsp;for the main class description.</p>
+<p>Known as Kuldjargli (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.</p><h3>Restriction: Dwarves Only</h3>
+<p>Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture. Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM's setting or your DM's version of the Realms.</p>
+<p><strong>BATTLERAGER ARMOR
+<br />
+</strong>When you choose this path at 3rd level,you gain the ability to use spiked armor (see the "Spiked Armor" sidebar) as a weapon. While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 &nbsp;feet of you. If the attack hits, the spikes deal 1d4 piercing &nbsp;damage. Youuse your Strength modifier for the attack and damage rolls. Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.</p>
+<p><strong>RECKLESS ABANDON
+<br />
+</strong>Beginning at 6th level,when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1).They vanish if any of them are left when your rage ends.</p>
+<p><strong>BATTLERAGER CHARGE
+<br />
+</strong>Beginning at 10th level,you can take the Dash action as a bonus action while you are raging.<strong>
+<br />
+</strong></p>
+<p><strong>SPIKED RETRIBUTION
+<br />
+</strong>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.<strong>
+<br />
+</strong></p>
+<p>&nbsp;</p>",
+"reference":"Usergen",
+"class_skills":"",
+"proficiencies":""},
+
+{"id":5192,
+"name":"Fighter, Purple Dragon Knight",
+"type":"archetype",
+"hit_die":"1d10",
+"alignment":"Any",
+"full_text":"<h1>Purple Dragon Knight</h1>
+<p>&nbsp;See&nbsp;<a href="http://class.com/Fighter">Fighter</a>&nbsp;for the main class description.</p>
+<p>Purple Dragon knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond their kingdom's borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to the code of chivalry to guide them in defeating evildoers. APurple Dragon knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. Alone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band. A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight's actions can awaken reserves of courage and conviction in allies that they never suspected they had.</p>
+<p><strong>RESTRICTION: KNIGHTHOOD
+<br />
+</strong>Purple Dragon knights are tied to a specific order of Cormyrean knighthood. Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than Purple Dragon knights.</p>
+<p><strong>RALLYING CRY
+<br />
+</strong>When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries. When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.</p>
+<p><strong>ROYAL ENVOY
+<br />
+</strong>A Purple Dragon knight serves as an envoy of the Cormyrean crown. Knights of high standing are expected to conduct themselves with grace. 
+<br />
+At 7th level, you gain proficiency in the Persuasion skill. Ifyou are already proficient in it, you gain proficiency in one of the following skills of your choice: Animal Handling, Insight, Intimidation, or Performance. Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.</p>
+<p><strong>INSPIRING SURGE</strong> 
+<br />
+Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you. Starting at 17th level, you can choose two allies within 60 feet of you, rather than one.</p>
+<p><strong>BULWARK</strong> 
+<br />
+Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally.When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.</p>",
+"reference":"Usergen",
+"class_skills":"",
+"proficiencies":""},
+
+{"id":5193,
+"name":"Sorcerer, Storm Sorcery",
+"type":"archetype",
+"hit_die":"",
+"alignment":"Any",
+"full_text":"<h1>Storm Sorcery</h1>
+<p>Your innate magic comes from the power of elemental air. Many with this power can trace their magic back to a near-death experience caused by the Great Rain, but perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as vaati or djinn. Whatever the case, the magic of the storm permeates your being. Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.</p>
+<p><strong>WIND SPEAKER</strong>
+<br />
+The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. (Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.)</p>
+<p><strong>TEMPESTUOUS MAGIC</strong>
+<br />
+Starting at 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to flyup to 10 feet without provoking opportunity attacks.</p>
+<p><strong>HEART OF THE STORM</strong>
+<br />
+At 6th level, you gain resistance to lightning and thunder damage. In addition, whenever you start casting a spell of 1st level or higher that deals lightning or thunder damage, stormy magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level. &nbsp;</p>
+<p><strong>STORM GUIDE</strong> 
+<br />
+At 6th level, you gain the ability to subtly control the weather around you. If it is raining, you can use an action to cause the rain to stop falling in a 20-foot-radius sphere centered on you. You can end this effect as a bonus action. If it is windy, you can use a bonus action each round to choose the direction that the wind blows in a 100-foot-radius sphere centered on you. The wind blows in that direction until the end of your next turn. This feature doesn't alter the speed of the wind.</p>
+<p><strong>STORM'S FURY</strong> 
+<br />
+Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker. The damage equals your sorcerer level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.</p>
+<p><strong>WIND SOUL</strong> 
+<br />
+At 18th level,you gain immunity to lightning and thunder damage. You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 +your Charisma modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way,you can't do so again until you finish a short or long rest.</p>
+<p>&nbsp;</p>",
+"reference":"Usergen",
+"class_skills":"",
+"proficiencies":""},
+
+{"id":5194,
+"name":"Warlock, The Undying",
+"type":"archetype",
+"hit_die":"",
+"alignment":"Any",
+"full_text":"<h1>The Undying</h1>
+<p>Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize-like all power-comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol;the Undying Court ofAerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus. In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.</p>
+<p><strong>EXPANDED SPELL LIST </strong>
+<br />
+The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p>
+<p><strong>UNDYING EXPANDED SPELLS</strong></p><table><tbody>
+<td><td><strong>Spell Level</strong></td><td><strong>Spells</strong></td></tr>
+<td><td>1st</td><td><a href="http://spell.com/false life">false life</a>,&nbsp;<a href="http://spell.com/ray of sickness">ray of sickness</a></td></tr>
+<td><td>2nd</td><td><a href="http://spell.com/blindness/deafness">blindness/deafness</a>,&nbsp;<a href="http://spell.com/silence">silence</a></td></tr>
+<td><td>3rd</td><td><a href="http://spell.com/feign death">feign death</a>,&nbsp;<a href="http://spell.com/speak with dead">speak with dead</a></td></tr>
+<td><td>4th</td><td><a href="http://spell.com/aura of life">aura of life</a>,&nbsp;<a href="http://spell.com/death ward">death ward</a></td></tr>
+<td><td>5th</td><td><a href="http://spell.com/contagion">contagion</a>,&nbsp;<a href="http://spell.com/legend lore">legend lore</a></td></tr></tbody></table>
+<p>&nbsp;</p>
+<p><strong>AMONG THE DEAD</strong> 
+<br />
+Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. Youalso have advantage on saving throws against any disease. Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</p>
+<p><strong>DEFY DEATH </strong>
+<br />
+Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to Id8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying. Once you use this feature, you can't use it again until you finish a long rest.</p>
+<p><strong>UNDYING NATURE </strong>
+<br />
+Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests. In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.</p>
+<p><strong>INDESTRUCTIBLE LIFE </strong>
+<br />
+When you reach 14th level, you partake of some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to Id8 +your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches. Once you use this feature, you can't use it again until you finish a short or long rest.</p>",
+"reference":"Usergen",
+"class_skills":"",
+"proficiencies":""},
+
+{"id":5195,
+"name":"Wizard, Bladesinger",
+"type":"archetype",
+"hit_die":"",
+"alignment":"Any",
+"full_text":"<h1>Bladesinger</h1>
+<p>Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.</p>
+<p><strong>RESTRICTION: ELVES ONLY</strong> 
+<br />
+Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faerfin, elves closely guard the secrets of bladesinging. Your DMcan lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM's setting or your DM's version of the Realms.</p>
+<p><strong>BlADESINGER STYLES</strong>
+<br />
+From its inception as a martial and magical art, Bladesinging has been tied to the sword, more specifically the longsword. Yet many generations of study gave rise to various styles of Bladesinging based on the melee weapon employed. The techniques of these styles are passed from master to students in small schools, some of which have a building dedicated to instruction. Even the newest styles are hundreds of years old, but are still taught by their original creators due to the long lives of elves. Most schools of Bladesinging are in Evermeet or Evereska. One was started in Myth Drannor, but the city's destruction has scattered those students who survived. Styles of Bladesinging are broadly categorized based on the type of weapon employed, and each is associated with a category of animal. Within that style are specializations named after specific animal types, based on the types of spells employed, the techniques of the master, and the particular weapon used. Bladesingers who apprentice to a master typically get a tattoo of their chosen style'S animal. Some bladesingers learn multiple styles and bear many tattoos, wearing a warning on their skin of their deadly skills. 
+<br />
+<strong>&nbsp; Cat.</strong> Styles that employ a sword belong to this family. The lion style, the eldest, trains practitioners in the use of the longsword and doesn't favor any particular type of spells. Leopard style focuses on the shortsword and spells of illusion and stealth. Red tiger, a style just three centuries old, has its bladesingers using the scimitar in a whirling dance of defense from which they launch into sudden leaps and attacks. 
+<br />
+<strong>&nbsp; Bird.</strong> Styles that focus on the use of a hafted weapon, such as an axe or hammer, have been grouped together as bird styles, yet they varywildly. All relatively new styles, they use weapons not typically favored by elves. Eagle-style bladesingers use small handaxes, and many maneuvers in the style focus on fluid ways to throw the weapon and draw a new one. Raven style uses a pick, and spells associated with it grant the bladesinger more agility in combat. 
+<br />
+&nbsp; <strong>Snake.</strong> Practitioners of these styles use a flail, chain, or whip. Viper style uses a whip, despite its inelegance as a weapon, and has almost as long a history as the lion style. Its masters punctuate their bladesong with a stunningly rapid rhythm of whip cracks, which can keep many foes at bay and allow the bladesinger space to cast the cruel spells of poison and disease favored by the style.</p>
+<p><strong>TRAINING IN WAR AND SONG </strong>
+<br />
+When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice. You also gain proficiency in the Performance skill if you don't already have it.</p>
+<p><strong>BLADESONG </strong>
+<br />
+Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided that you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus. You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss the Bladesong at any time you choose (no action required).</p>
+<p>While your Bladesong is active, you gain the following benefits:</p><ul><li>You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).</li><li>Your walking speed increases by 10 feet.</li><li>You have advantage on Dexterity (Acrobatics) checks.</li><li>You gain a bonus to any Constitution saving throw you make to maintain your concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1)</li></ul>
+<p>You can use this feature twice. You regain all expended uses of it when you finish a short or long rest.</p>
+<p><strong>EXTRA ATTACK
+<br />
+</strong>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+<p><strong>SONG OF DEFENSE
+<br />
+</strong>Beginning at 10th level, you can direct your magic to absorb damage while your Bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell slot's leveL</p>
+<p><strong>SONG OF VICTORY
+<br />
+</strong>Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</p>",
+"reference":"Usergen",
+"class_skills":"",
+"proficiencies":""}],
+[],
+[]]

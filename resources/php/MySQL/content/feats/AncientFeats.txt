@@ -1,0 +1,568 @@
+[[],[],[],[],[{"id":2444,
+"name":"Dwarf Resilience - Dwarf",
+"type":"General",
+"prerequisite":"Dwarf",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Dwarf Resilience<\/h1>
+<p><em>Prerequisit: <a title=\"Dwarf\" href=\"http:\/\/race.com\/dwarves, hill dwarves\">Dwarf<\/a><br \/><\/em><\/p>
+<p>You have the blood of dwarf heroes flowing through your veins. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Constitution score by 1, to a maximum of 20.<\/p>
+<p>&bull; Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).<\/p>",
+"reference":"Usergen"},
+
+{"id":2445,
+"name":"Everybody's Friend - Half-Elf",
+"type":"General",
+"prerequisite":"Half-Elf",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Everybody's Friend<\/h1>
+<p><em>Prerequisit: <a title=\"Half-Elf\" href=\"http:\/\/race.com\/half-elf\">Half-Elf<\/a><br \/><\/em><\/p>
+<p>You develop your magnetic personality to ease your way through the world.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase your Charisma score by 1, up to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the Deception and Persuasion skills.&nbsp; If you&rsquo;re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.<\/p>",
+"reference":"Usergen"},
+
+{"id":2446,
+"name":"Prodigy - Human \/ Half-Elf",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Prodigy<\/h1>
+<p><em>Prerequisit: <a title=\"Human\" href=\"http:\/\/race.com\/humans\">Human<\/a> or <a title=\"Half-Elf\" href=\"http:\/\/race.com\/half-elf\">Half-Elf<\/a><br \/><\/em><\/p>
+<p>You have a knack for learning new things.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase one ability score of your choice by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.<\/p>",
+"reference":"Usergen"},
+
+{"id":2447,
+"name":"Human Determination - Human",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Human Determination<\/h1>
+<p><em>Prerequisit: <a title=\"Human\" href=\"http:\/\/race.com\/humans\">Human<\/a> <\/em><\/p>
+<p>You are filled with a determination that can draw the unreachable within your reach.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase one ability score of your choice by 1, to a maximum of 20.<\/p>
+<p>&bull; When you make an attack roll, an ability check, or a saving throw, you can do so with advantage.&nbsp; Once you use this ability, you can&rsquo;t use it again until you finish a short or long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2448,
+"name":"Arcanist - Arcana \/ Intelligence",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Arcanist<\/h1>
+<p>You study the arcane arts, gaining the following benefits:<\/p>
+<p>&bull; Increase your Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the&nbsp;<a title=\"Arcana\" href=\"http:\/\/skill.com\/arcana\">Arcana<\/a> skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You learn the <a title=\"Prestidigitation\" href=\"http:\/\/spell.com\/prestidigitation\">Prestidigitation<\/a> and&nbsp;<a title=\"Detect Magic\" href=\"http:\/\/spell.com\/detect magic\">Detect Magic<\/a> spells. You can cast <em>Detect Magic<\/em> once without expending a spell slot, and you regain the ability to do so when you finish a long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2449,
+"name":"Diplomat - Persuasion \/ Charisma",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Diplomat<\/h1>
+<p>You master the arts of diplomacy, gaining the following benefits:<\/p>
+<p>&bull; Increase your Charisma score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Persuasion\" href=\"http:\/\/skill.com\/persuasion\">Persuasion<\/a> skill.&nbsp; If you are already proficient in this skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature&rsquo;s Wisdom (Insight) check.&nbsp; If you or your companions are fighting the creature, your check automatically fails.&nbsp; If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.<\/p>
+<p>&nbsp;<\/p>
+<p>(Charmed:<\/p>
+<p>&bull; can't attack the charmer or target the charmer with harmful abilities or magical effects&nbsp;<\/p>
+<p>&bull; charmer has advantage on any ability check to interact socially with the creature)<\/p>
+<p>&nbsp;<\/p>",
+"reference":"Usergen"},
+
+{"id":2450,
+"name":"Empathic - Insight \/ Wisdom",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Empathic<\/h1>
+<p>You possess keen insight into how other people think and feel.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase your Wisdom score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the&nbsp;<a title=\"Insight\" href=\"http:\/\/skill.com\/insight\">Insight<\/a> skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you.&nbsp; Make a Wisdom (Insight) check contested by the target&rsquo;s Charisma (Deception) check.&nbsp; If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.<\/p>",
+"reference":"Usergen"},
+
+{"id":2451,
+"name":"Naturalist - Nature \/ Intelligence",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Naturalist<\/h1>
+<p>Your extensive study of nature rewards you with the following benefits:<\/p>
+<p>&bull; Increase your Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Nature\" href=\"http:\/\/skill.com\/nature\">Nature<\/a> skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You learn the <a title=\"Druidcraft\" href=\"http:\/\/spell.com\/druidcraft\">Druidcraft<\/a> and&nbsp;<a title=\"Detect Poison and Disease\" href=\"http:\/\/spell.com\/detect poison and disease\">Detect Poison and Disease<\/a> spells.&nbsp; You can cast <em>Detect Poison and Disease<\/em> once without expending a spell slot, and you regain the ability to do so when you finish a long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2452,
+"name":"Quick-Fingered - Sleight of Hand \/ Dexterity",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Quick-Fingered<\/h1>
+<p>Your nimble fingers and agility let you perform sleight of hand.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase your Dexterity score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Sleight of Hand\" href=\"http:\/\/skill.com\/sleight of hand\">Sleight of Hand<\/a> skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.<\/p>",
+"reference":"Usergen"},
+
+{"id":2453,
+"name":"Silver-Tongued - Deception \/ Charisma",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Silver-Tongued<\/h1>
+<p>You develop your conversational skill to better deceive others.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase your Charisma score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Deception\" href=\"http:\/\/skill.com\/deception\">Deception<\/a> skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you.&nbsp; Make a Charisma (Deception) check contested by the target&rsquo;s Wisdom (Insight) check.&nbsp; If your check succeeds, your movement doesn&rsquo;t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target.&nbsp; If your check fails, the target can&rsquo;t be deceived by you in this way for 1 hour.<\/p>",
+"reference":"Usergen"},
+
+{"id":2454,
+"name":"Stealthy - Stealth \/ Dexterity",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Stealthy<\/h1>
+<p>You know how best to hide.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase your Dexterity score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Stealth\" href=\"http:\/\/skill.com\/stealth\">Stealth<\/a> skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you&rsquo;re not clearly visible.<\/p>",
+"reference":"Usergen"},
+
+{"id":2455,
+"name":"Theologian - Religion \/ Intelligence",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Theologian<\/h1>
+<p>Your extensive study of religion rewards you with the following benefits:<\/p>
+<p>&bull; Increase your Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Religion\" href=\"http:\/\/skill.com\/religion\">Religion<\/a> skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You learn the&nbsp;<a title=\"Thaumaturgy\" href=\"http:\/\/spell.com\/thaumaturgy\">Thaumaturgy<\/a> and&nbsp;<a title=\"Detect Evil and Good\" href=\"http:\/\/spell.com\/detect evil and good\">Detect Evil and Good<\/a> spells.&nbsp; You can cast <em>Detect Evil and Good<\/em> once without expending a spell slot, and you regain the ability to do so when you finish a long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2465,
+"name":"Acrobat - Acrobatics \/ Dexterity",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Acrobat<\/h1>
+<p>You become more nimble, gaining the following benefits:<\/p>
+<p>&bull; Increase your Dexterity score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a title=\"Acrobatics\" href=\"http:\/\/skill.com\/acrobatics\">Acrobatics<\/a>&nbsp;skill. &nbsp;If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. &nbsp;If you succeed, difficult terrain doesn&rsquo;t cost you extra movement until the end of the current turn.<\/p>",
+"reference":"Usergen"},
+
+{"id":2466,
+"name":"Animal Handler - Animal Handling \/ Wisdom",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Animal Handler<\/h1>
+<p>You master the techniques needed to train and handle animals. You gain the following benefits:<\/p>
+<p>&bull; Increase your Wisdom score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/animal handling\">Animal Handling<\/a>&nbsp;skill. &nbsp;If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn&rsquo;t currently following the command of someone else. &nbsp;You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.<\/p>",
+"reference":"Usergen"},
+
+{"id":2467,
+"name":"Brawny - Athletics - Strength",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Brawny<\/h1>
+<p>You become stronger, gaining the following benefits:<\/p>
+<p>&bull; Increase your Strength score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/athletics\">Athletics<\/a>&nbsp;skill. &nbsp;If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You count as if you were one size larger for the purpose of determining your carrying capacity.<\/p>",
+"reference":"Usergen"},
+
+{"id":2750,
+"name":"Historian - History \/ Intelligence",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Historian<\/h1>
+<p>Your study of history rewards you with the following benefits::<\/p>
+<p>&bull; Increase your Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the&nbsp;<a href=\"http:\/\/skill.com\/history\">History<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; When you take the Help action to aid another creature&rsquo;s ability check, you can make a DC 15 Intelligence (History) check. &nbsp;On a success, that creature&rsquo;s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. &nbsp;To receive this bonus, the creature must be able to understand what you&rsquo;re saying.<\/p>",
+"reference":"Usergen"},
+
+{"id":2751,
+"name":"Investigator - Investigation \/ Intelligence",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Investigator<\/h1>
+<p>You have an eye for detail and can pick out the smallest clues. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/investigation\">Investigation<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull;&nbsp;You can take the Search action as a bonus action.<\/p>",
+"reference":"Usergen"},
+
+{"id":2752,
+"name":"Medic - Medicine \/ Wisdom",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Medic<\/h1>
+<p>Your master the physician&rsquo;s arts, gaining the&nbsp;following benefits:<\/p>
+<p>&bull; Increase your Wisdom score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/medicine\">Medicine<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. &nbsp;Make a DC 15 Wisdom (Medicine) check for each creature. &nbsp;On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. &nbsp;A creature can do so only once per rest, regardless of how many Hit Dice it spends.<\/p>",
+"reference":"Usergen"},
+
+{"id":2753,
+"name":"Menacing - Intimidation \/ Charisma",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Menacing<\/h1>
+<p>You become fearsome to others, gaining the following benefits:<\/p>
+<p>&bull; Increase your Charisma&nbsp;score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the&nbsp;<a href=\"http:\/\/skill.com\/intimidation\">Intimidation<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. &nbsp;Make a Charisma (Intimidation) check contested by the target&rsquo;s Wisdom (Insight) check. &nbsp;If your check succeeds, the target is frightened until the end of your next turn. &nbsp;If your check fails, the target can&rsquo;t be frightened by you in this way for 1 hour.<\/p>",
+"reference":"Usergen"},
+
+{"id":2754,
+"name":"Perceptive - Perception \/ Wisdom",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Perceptive<\/h1>
+<p>You hone your senses until they become razor sharp. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Wisdom score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/perception\">Perception<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; Being in a lightly obscured area doesn&rsquo;t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.<\/p>",
+"reference":"Usergen"},
+
+{"id":2755,
+"name":"Performer - Performance \/ Charisma",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Performer<\/h1>
+<p>You master performance so that you can command any stage. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Charisma score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the&nbsp;<a href=\"http:\/\/skill.com\/performance\">Performance<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; While performing, you can try to distract one humanoid you can see who can see and hear you. &nbsp;Make a Charisma (Performance) check contested by the humanoid&rsquo;s Wisdom (Insight) check. &nbsp;If your check succeeds, you grab the humanoid&rsquo;s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.<\/p>",
+"reference":"Usergen"},
+
+{"id":2756,
+"name":"Survivalist - Survival \/ Wisdom",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Survivalist<\/h1>
+<p>You master wilderness lore, gaining the&nbsp;following benefits:<\/p>
+<p>&bull; Increase your Wisdom score by 1, to a maximum of 20.<\/p>
+<p>&bull; You gain proficiency in the&nbsp;<a href=\"http:\/\/skill.com\/survival\">Survival<\/a>&nbsp;skill.&nbsp; If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.<\/p>
+<p>&bull; You learn the&nbsp;<a href=\"http:\/\/spell.com\/alarm\">Alarm<\/a>&nbsp;spell.&nbsp; You can cast&nbsp;it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2757,
+"name":"Barbed Hide - Tiefling",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Barbed Hide<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/tiefling\">Tiefling<\/a><\/em><\/p>
+<p>One of your ancestors was a barbed devil or other spiky fiend. &nbsp;Barbs protrude from your head.&nbsp; You gain the following benefits:<\/p>
+<p>&bull; Increase your Constitution or Charisma score by 1, up to a maximum of 20.<\/p>
+<p>&bull; As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. &nbsp;At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you.<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/intimidation\">Intimidation<\/a>&nbsp;skill. &nbsp;If you&rsquo;re already proficient in it, your proficiency bonus is doubled for any check you make with it.<\/p>",
+"reference":"Usergen"},
+
+{"id":2758,
+"name":"Bountiful Luck - Halfling",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Bountiful Luck<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/halflings, lightfoot\">Halfling<\/a><\/em><\/p>
+<p>Whenever an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. &nbsp;The ally must use the new roll.<\/p>",
+"reference":"Usergen"},
+
+{"id":2759,
+"name":"Critter Friend - Gnome (Forest)",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Critter Friend<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/gnome (forest)\">Gnome (Forest)<\/a><\/em><\/p>
+<p>Your friendship with animals mystically deepens. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; You gain proficiency in the <a href=\"http:\/\/skill.com\/animal handling\">Animal Handling<\/a>&nbsp;skill. &nbsp;If you&rsquo;re already proficient in it, your proficiency bonus is doubled for any check you make with it.<\/p>
+<p>&bull; You learn the <a href=\"http:\/\/spell.com\/speak with animals\">Speak With Animals<\/a>&nbsp;spell and can cast it at will, without expending a spell slot. &nbsp;You also learn the <a href=\"http:\/\/spell.com\/animal friendship\">Animal Friendship<\/a>&nbsp;spell, and you can cast it once with this feat, without expending a spell slot. &nbsp;You regain the ability to cast it in this way when you finish a long rest. &nbsp;Intelligence is your spellcasting ability for these spells.<\/p>",
+"reference":"Usergen"},
+
+{"id":2760,
+"name":"Dragon Fear - Dragonborn",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Dragon Fear<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/dragonborn\">Dragonborn<\/a><\/em><\/p>
+<p>When angered, you radiate menace. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Strength or Charisma score by 1, up to a maximum of 20.<\/p>
+<p>&bull; Instead of exhaling destructive energy, you can roar and expend a use of your breath weapon to force each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). &nbsp;A target automatically succeeds if it can&rsquo;t hear or see you. &nbsp;On a failed save, a target becomes frightened for 1 minute. &nbsp;If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.<\/p>",
+"reference":"Usergen"},
+
+{"id":2761,
+"name":"Dragon Hide - Dragonborn",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Dragon Hide<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Dragonborn\" href=\"http:\/\/race.com\/dragonborn\">Dragonborn<\/a><\/em><\/p>
+<p>You inherited the might and majesty of your dragon ancestors. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Strength or Charisma score by 1, up to a maximum of 20.<\/p>
+<p>&bull; You grow retractable claws from the tips of your fingers. &nbsp;Extending or retracting the claws requires no action. &nbsp;The claws are natural weapons, which you can use to make unarmed strikes. &nbsp;If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.<\/p>
+<p>&bull; Your scales harden; you gain a +1 bonus to AC while you aren&rsquo;t wearing armor.<\/p>",
+"reference":"Usergen"},
+
+{"id":2762,
+"name":"Dragon Wings - Dragonborn",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Dragon&nbsp;Wings<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Dragonborn\" href=\"http:\/\/race.com\/dragonborn\">Dragonborn<\/a><\/em><\/p>
+<p>You sprout draconic wings. &nbsp;With your wings, you have a flying speed of 20 feet if you aren&rsquo;t wearing heavy armor and aren&rsquo;t exceeding your carrying capacity.<\/p>",
+"reference":"Usergen"},
+
+{"id":2763,
+"name":"Drow High Magic - Elf (Drow)",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Drow High Magic<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/elf (dark\/drow)\">Elf (Dark\/Drow)<\/a><\/em><\/p>
+<p>You learn more of the spells typical for your people. &nbsp;You learn <a title=\"Detect Magic\" href=\"http:\/\/spell.com\/detect magic\">Detect Magic<\/a>&nbsp;and can cast it at&nbsp;will, without expending a spell slot. &nbsp;You also learn <a title=\"Levitate\" href=\"http:\/\/spell.com\/levitate\">Levitate<\/a>&nbsp;and&nbsp;<a title=\"Dispel Magic\" href=\"http:\/\/spell.com\/dispel magic\">Dispel Magic<\/a>, each of which you can cast once without expending a spell slot. &nbsp;You regain the ability to cast the spell in this way when you finish a long rest. &nbsp;Charisma is your spellcasting ability for these spells.<\/p>",
+"reference":"Usergen"},
+
+{"id":2764,
+"name":"Fade Away - Gnome",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Fade Away<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Gnome\" href=\"http:\/\/race.com\/gnomes, rock gnomes\">Gnome<\/a><\/em><\/p>
+<p>You can draw on your magical heritage to escape danger. You gain the following benefits:<\/p>
+<p>&bull; Increase your Intelligence score by 1, up to a maximum of 20.<\/p>
+<p>&bull; When you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. &nbsp;Once you use this ability, you can&rsquo;t do so again until you finish a short or long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2765,
+"name":"Fey Teleportation - Elf (High)",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Fey Teleportation<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Elf (high)\" href=\"http:\/\/race.com\/elves, high elves\">Elf (high)<\/a><br \/><\/em><\/p>
+<p>Drawing on your fey ancestry, you have learned how to teleport. You gain the following benefits:<\/p>
+<p>&bull; Increase your Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; You learn the <a title=\"Misty Step\" href=\"http:\/\/spell.com\/misty step\">Misty Step<\/a>&nbsp;spell and can cast it once without expending a spell slot. &nbsp;You regain the ability to cast it in this way when you finish a short or long rest. &nbsp;Intelligence is your spellcasting ability for this spell.<\/p>",
+"reference":"Usergen"},
+
+{"id":2766,
+"name":"Flames of Phlegethos - Tiefling",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Flames of Phlegethos<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/tiefling\">Tiefling<\/a><\/em><\/p>
+<p>You learn to call on hellfire to serve your commands. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Intelligence or Charisma score by 1, to a maximum of 20.<\/p>
+<p>&bull; When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.<\/p>
+<p>&bull; Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. &nbsp;The flames don&rsquo;t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. &nbsp;While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.<\/p>",
+"reference":"Usergen"},
+
+{"id":2767,
+"name":"Grudge-Bearer - Dwarf",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Grudge-Bearer<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Dwarf\" href=\"http:\/\/race.com\/dwarves, hill dwarves\">Dwarf<\/a><br \/><\/em><\/p>
+<p>You have a deep hatred for a particular kind of creature. &nbsp;Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities,&nbsp;oozes, plants, or undead. &nbsp;Alternatively, you can choose two races of humanoid (such as gnolls and orcs). &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.<\/p>
+<p>&bull; During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage.<\/p>
+<p>&bull; When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage.<\/p>
+<p>&bull; Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you&rsquo;re not normally proficient.<\/p>",
+"reference":"Usergen"},
+
+{"id":2768,
+"name":"Infernal Constitution - Tiefling",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Infernal Constitution<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/tiefling\">Tiefling<\/a><\/em><\/p>
+<p>Fiendish blood runs strong in you. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Constitution score by 1, up to a maximum of 20.<\/p>
+<p>&bull; You have resistance to cold and poison damage.<\/p>
+<p>&bull; You have advantage on saving throws against being poisoned.<\/p>",
+"reference":"Usergen"},
+
+{"id":2769,
+"name":"Orcish Aggression - Half-orc",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Orcish Aggression<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Half-orc\" href=\"http:\/\/race.com\/half-orcs\">Half-orc<\/a><\/em><\/p>
+<p>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. &nbsp;You must end this move closer to the enemy than you started.<\/p>",
+"reference":"Usergen"},
+
+{"id":2770,
+"name":"Orcish Fury - Half-orc",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Orcish&nbsp;Fury<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Half-orc\" href=\"http:\/\/race.com\/half-orcs\">Half-orc<\/a><\/em><\/p>
+<p>Your fury burns tirelessly. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Strength or Constitution score by 1, up to a maximum of 20.<\/p>
+<p>&bull; When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon&rsquo;s damage dice an additional time and add it as extra damage of the weapon&rsquo;s damage type. &nbsp;Once you use this ability, you can&rsquo;t use it again until you finish a short or long rest.<\/p>
+<p>&bull; Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.<\/p>",
+"reference":"Usergen"},
+
+{"id":2771,
+"name":"Second Chance - Halfling",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Second Chance<\/h1>
+<p><em>Prerequisit:&nbsp;<a href=\"http:\/\/race.com\/halflings, lightfoot\">Halfling<\/a><\/em><\/p>
+<p>Fortune favors you. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.<\/p>
+<p>&bull; When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. &nbsp;Once you use this ability, you can&rsquo;t do so again until you finish a short or long rest.<\/p>",
+"reference":"Usergen"},
+
+{"id":2772,
+"name":"Squat Nimbleness - Dwarf \/ Gnome \/ Halfling",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Squat Nimbleness<\/h1>
+<p><em>Prerequisit: <a title=\"Dwarf\" href=\"http:\/\/race.com\/dwarves, hill dwarves\">Dwarf<\/a>,&nbsp;<a title=\"Gnome\" href=\"http:\/\/race.com\/gnomes, rock gnomes\">Gnome<\/a>,&nbsp;<a href=\"http:\/\/race.com\/halflings, lightfoot\">Halfling<\/a><\/em><\/p>
+<p>You are uncommonly nimble for your race. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Strength or Dexterity score by 1, to a maximum of 20.<\/p>
+<p>&bull; Increase your walking speed by 5 feet.<\/p>
+<p>&bull; You gain proficiency in the Acrobatics or Athletics skill. &nbsp;If you&rsquo;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.<\/p>",
+"reference":"Usergen"},
+
+{"id":2773,
+"name":"Wonder Maker - Gnome (Rock)",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Wonder Maker<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Gnome\" href=\"http:\/\/race.com\/gnomes, rock gnomes\">Gnome<\/a><\/em><\/p>
+<p>You master the tinker techniques of your people. &nbsp;You gain the following benefits:<\/p>
+<p>&bull; Increase your Dexterity or Intelligence score by 1, to a maximum of 20.<\/p>
+<p>&bull; When you make a check using your proficiency with tinker&rsquo;s tools, you add double your proficiency bonus to the check.<\/p>
+<p>&bull; When you make a device with your Tinker trait, you have the following additional options for what you make:<\/p>
+<p><strong>Alarm<\/strong>:&nbsp;&nbsp;This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. &nbsp;One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away.<\/p>
+<p><strong>Calculator<\/strong>: &nbsp;This device makes doing sums easy.<\/p>
+<p><strong>Lifter<\/strong>. &nbsp;This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift.<\/p>
+<p><strong>Timekeeper<\/strong>. &nbsp;This pocket watch keeps accurate time.<\/p>
+<p><strong>Weather Sensor<\/strong>: &nbsp;When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun\/moon, rain, or snow) for each hour.<\/p>",
+"reference":"Usergen"},
+
+{"id":2774,
+"name":"Wood Elf Magic - Elf (Wood)",
+"type":"General",
+"prerequisite":"",
+"normal":"",
+"special":"",
+"benefit":"",
+"full_text":"<h1>Wood Elf Magic<\/h1>
+<p><em>Prerequisit:&nbsp;<a title=\"Elf (Wood)\" href=\"http:\/\/race.com\/elf (wood)\">Elf (Wood)<\/a><br \/><\/em><\/p>
+<p>You learn the magic of the primeval woods. &nbsp;You learn one druid cantrip of your choice. &nbsp;You also learn&nbsp;<a title=\"Longstrider\" href=\"http:\/\/spell.com\/longstrider\">Longstrider<\/a>&nbsp;and&nbsp;<a title=\"Pass Without Trace\" href=\"http:\/\/spell.com\/pass without trace\">Pass Without Trace<\/a>, each of which you can cast once without expending a spell slot. &nbsp;You regain the ability to cast the spell in this way when you finish a long rest. &nbsp;Wisdom is your spellcasting ability for these spells.<\/p>",
+"reference":"Usergen"}],[],[],[],[],[]]

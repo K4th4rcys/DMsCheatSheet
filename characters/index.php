@@ -9,9 +9,9 @@ Maxwell Gariety. This includes on personal projects.
 <head>
   <script type='text/javascript' src='/resources/js/jquery-3.2.1.js'></script>
   <script type='text/javascript'>
-    if ($(window).width() <= 800) {
-      window.location = "mobile.php";
-    }
+    // if ($(window).width() <= 800) {
+    //   window.location = "mobile.php";
+    // }
   </script>
   <?php
         include("{$_SERVER['DOCUMENT_ROOT']}/resources/php/header.php");
