@@ -1,5 +1,42 @@
 @import url("master.css");
 
+::-webkit-scrollbar {
+  /* width: 15pt; height: 15pt; */
+  display: none;
+}
+
+::-webkit-scrollbar-track {
+  /* border-radius: 20pt; box-shadow: inset 0 0 5pt grey; */
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  /* border-radius: 20pt; background: #aaa; box-shadow: inset 0 0 8pt black; */
+  display: none;
+}
+
+
+@media (max-width: 700px) {
+  html {
+    background: red;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 1100px) {
+  html {
+    background: red;
+  }
+}
+
+@media (min-width: 1100px) and (max-width: 1600px) {
+  body{
+    min-height: 700px;
+  }
+}
+
+@media (min-width: 1600px) {
+}
+
 #maindiv{
   position:absolute;
   height:100%;
