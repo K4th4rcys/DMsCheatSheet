@@ -14,13 +14,11 @@ Maxwell Gariety. This includes on personal projects.
     // }
   </script>
       <?php
-            include("resources/php/header.php");
+        $page_title = "Home";
+        $cssfile = "style.css";
+        include_once(dirname("resources/php/header.php"));
 
       ?>
-    <meta charset="UTF-8">
-    <title>Ye Olde Inn | Home</title>
-    <link rel="stylesheet" type="text/css" href="resources/css/style.css">
-    <link rel="stylesheet" type="text/css" href="resources/css/master.css">
 </head>
 
 <body>

@@ -14,7 +14,7 @@ Maxwell Gariety. This includes on personal projects.
     // }
   </script>
   <?php
-        include("{$_SERVER['DOCUMENT_ROOT']}/resources/php/header.php");
+        include_once(dirname("{$_SERVER['DOCUMENT_ROOT']}/resources/php/header.php"));
       ?>
     <meta charset="UTF-8">
     <title>Character Manager || Ye Olde Inn</title>
