@@ -46,6 +46,7 @@ body {
   margin: 0pt;
   padding: 0pt;
   user-select: none;
+  box-sizing: border-box;
 }
 
 img {
@@ -160,4 +161,185 @@ img {
   color: rgba(226, 152, 9, 0.7);
   -webkit-text-fill-color: rgba(226, 152, 9, 0.7);
   text-shadow: 1px 4px 6px rgb(68, 47, 33), 0 0 10pt #000, 1px 4px 6px rgb(68, 47, 33);
+}
+
+
+/*---------------------------------dicebox styles--------------------------------*/
+
+#dicebox_header {
+  height:109pt;
+  width:300pt;
+  background-image: url("/resources/images/dicebox_header.png");
+  background-size: 300pt 110pt;
+  margin:auto;
+}
+
+#dicebox_container{
+  position: absolute;
+  top:0pt;
+  height:100%;
+  width:350pt;
+  background-color: rgb(68, 47, 33);
+  border-left:4pt solid rgb(32, 24, 18);
+  box-shadow: -4pt 0 15pt #000;
+}
+
+.dicebox_selector{
+  position: relative;
+  font-size:0pt;
+  width:350pt;
+  height:48pt;
+  padding-top:5pt;
+  padding-left:7pt;
+  border-top:6pt groove rgb(46, 33, 24);
+  margin-top:6pt;
+}
+
+.dchooser{
+  box-sizing: border-box;
+  display:inline-block;
+  width: 46pt;
+  height:46pt;
+  margin:auto;
+  padding:0pt;
+  font-size:20pt;
+  line-height:46pt;
+  text-align:center;
+  border:1pt solid rgb(31, 18, 9);
+  border-radius:4pt;
+  box-shadow: inset 5pt 5pt 10pt rgba(134, 109, 54, 0.77), 5pt 5pt 15pt rgba(0, 0, 0, 0.77);
+  margin:1pt;
+  cursor: pointer;
+}
+.dchooser:hover{
+  box-shadow: inset 3pt 3pt 5pt rgba(134, 109, 54, 0.77), 3pt 3pt 10pt rgba(0, 0, 0, 0.77);
+  transition: 0.03s;
+}
+.dchooser:active{
+  box-shadow: none;
+  transition: 0.03s;
+}
+.dice_type_input:checked + .dchooser {
+  box-shadow: inset 2pt 2pt 6pt 1pt rgba(0, 0, 0, 0.4), inset -2pt -2pt 6pt 2pt rgba(255, 255, 255, 0.1);
+  background-color:rgba(0, 0, 0, 0.2);
+}
+
+.dnum{
+  position: absolute;
+  top:5pt;
+  box-sizing: border-box;
+  display:inline-block;
+  width: 46pt;
+  height:46pt;
+  padding:0pt;
+  font-size:20pt;
+  line-height:46pt;
+  text-align:center;
+  border:1pt solid rgb(31, 18, 9);
+  border-radius:4pt;
+  box-shadow: inset 5pt 5pt 10pt rgba(134, 109, 54, 0.77), 5pt 5pt 15pt rgba(0, 0, 0, 0.77);
+  margin:1pt;
+  cursor: pointer;
+}
+.dnum:hover{
+  box-shadow: inset 3pt 3pt 5pt rgba(134, 109, 54, 0.77), 3pt 3pt 10pt rgba(0, 0, 0, 0.77);
+  transition: 0.03s;
+}
+.dnum:active{
+  box-shadow: none;
+  transition: 0.03s;
+}
+.dnum_input:checked + .dnum {
+  box-shadow: inset 2pt 2pt 6pt 1pt rgba(0, 0, 0, 0.4), inset -2pt -2pt 6pt 2pt rgba(255, 255, 255, 0.1);
+  background-color:rgba(0, 0, 0, 0.2);
+}
+#customnumber{
+  width:34pt;
+  height:20pt;
+  font-size: 16pt;
+  position: absolute;
+  top:12pt;
+  left:5pt;
+  clear:none;
+  display:inline-block;
+  border-radius: 4pt;
+  background-color:rgb(200, 200, 200);
+}
+#d4{
+  background-image:url("/resources/images/dicebox/d4.png");
+  background-size:46pt 46pt;
+}
+#d6{
+  background-image:url("/resources/images/dicebox/d6.png");
+  background-size:46pt 46pt;
+}
+#d8{
+  background-image:url("/resources/images/dicebox/d8.png");
+  background-size:46pt 46pt;
+}
+#d10{
+  background-image:url("/resources/images/dicebox/d10.png");
+  background-size:46pt 46pt;
+}
+#d12{
+  background-image:url("/resources/images/dicebox/d12.png");
+  background-size:46pt 46pt;
+}
+#d20{
+  background-image:url("/resources/images/dicebox/d20.png");
+  background-size:46pt 46pt;
+}
+
+.drac_nums{
+  position: absolute;
+  top:0pt;
+  left:0pt;
+  z-index:0;
+  user-select: none;
+  font-family: "draconic";
+  cursor:default;
+  text-decoration:none;
+  display: block;
+  margin-left:auto;
+  width: 100%;
+  height:100%;
+  text-align: left;;
+  line-height: 50pt;
+  font-size:54pt;
+  font-weight: bold;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: rgba(0, 0, 0, 0.4);
+  -webkit-text-fill-color:  rgba(0, 0, 0, 0.4);
+  text-shadow: 1px 4px 6px rgba(68, 47, 33, 0.2), 0 0 10pt rgba(0, 0, 0, 0.4), 1px 4px 6px rgba(68, 47, 33, 0.2);
+  overflow: hidden;
+}
+
+.text_over{
+  position: absolute;
+  top:0pt;
+  left:0pt;
+  display:inline-block;
+  height:100%;
+  width:100%;
+  z-index:5;
+  background-color:rgba(250, 250, 250, 0.0);
+}
+
+.roll_sel{
+  box-sizing: border-box;
+  display:inline-block;
+  width: 46pt;
+  height:46pt;
+  margin:auto;
+  padding:0pt;
+  font-size:20pt;
+  line-height:46pt;
+  text-align:center;
+  border:1pt solid rgb(31, 18, 9);
+  border-radius:4pt;
+  box-shadow: inset 5pt 5pt 10pt rgba(134, 109, 54, 0.77), 5pt 5pt 15pt rgba(0, 0, 0, 0.77);
+  margin:1pt;
+  cursor: pointer;
 }

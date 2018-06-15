@@ -7,18 +7,17 @@ Maxwell Gariety. This includes on personal projects.
 <html>
 
 <head>
-  <script type='text/javascript' src='resources/js/jquery-3.2.1.js'></script>
-  <script type='text/javascript'>
-    // if ($(window).width() <= 800) {
-    //   window.location = "localhost/mobile.php";
-    // }
-  </script>
       <?php
         $page_title = "Home";
-        $cssfile = "style.css";
-        include_once(dirname("resources/php/header.php"));
-
+        $cssfile = "style";
+        include_once("{$_SERVER['DOCUMENT_ROOT']}/resources/php/header.php");
+        echo $header;
       ?>
+      <script type='text/javascript'>
+        // if ($(window).width() <= 800) {
+        //   window.location = "localhost/mobile.php";
+        // }
+      </script>
 </head>
 
 <body>
